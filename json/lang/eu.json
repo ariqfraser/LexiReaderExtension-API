@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "bezala",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "I",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "bere",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "duten",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "zuen",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "izan zen",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "for",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "an",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "daude",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "Honekin",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "dute",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "izan",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "at",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "bat",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "dute",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "honetan",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "tik",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "arabera",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "hot",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "hitza",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "baina",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "zer",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "batzuk",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "da",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "berau",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "you",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "edo",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "izan",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "du",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "of",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "arte",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "eta",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "a",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "in",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "dugu",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "ahal",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "out",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "beste",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "ziren",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "bertan",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "egin",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "beren",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "denbora",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "bada",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "izango",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "nola",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "esan",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "baten",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "bakoitzak",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "esango",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "ez du",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "set",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "hiru",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "nahi",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "aire",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "ondo",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "halaber",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "jolastu",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "txiki",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "end",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "jarri",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "hasiera",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "irakurri",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "eskuko",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "portuko",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "handi",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "ortografia",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "gehitu",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "are",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "lurrak",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "hemen",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "muztioa",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "big",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "handiko",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "hala nola,",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "jarraitu",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "ekintza",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "zergatik",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "eskatu",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "gizonak",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "aldaketa",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "joan",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "argia",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "nolako",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "off",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "behar",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "etxea",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "argazki",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "saiatu",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "gurekin",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "berriro",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "animalia",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "puntua",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "amak",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "munduan",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "gertu",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "eraikitzeko",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "auto",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "lurra",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "aita",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "edozein",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "berria",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "lana",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "part",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "hartu",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "lortu",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "leku",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "egin",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "bizi",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "non",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "ondoren",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "atzera",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "apur",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "bakarrik",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "txandan",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "man",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "urteko",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "dugunik",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "show",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "behin",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "ona",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "me",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "eman",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "gure",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "pean",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "izena",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "oso",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "bidez",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "besterik",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "formulario",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "Gogoratu",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "handia",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "uste",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "esan",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "lagun",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "txikia",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "line",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "datoz",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "txanda",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "kausa",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "askoz",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "esan nahi",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "aurretik",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "mugimendu",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "eskuineko",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "mutiko",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "zaharra",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "too",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "bera",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "zuen",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "guztiak",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "ez",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "denean",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "sortu",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "erabilera",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "zure",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "era",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "buruz",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "asko",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "Orduz",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "horiek",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "idatzi",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "iba",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "bezala",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "beraz,",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "horiek",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "bere",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "luzea",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "egiteko",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "gauza",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "ikusi",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "zion",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "bi",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "ditu",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "begiratu",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "gehiago",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "egun",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "Could",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "joan",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "zatoz",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "egin",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "zenbakia",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "soinua",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "no",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "gehien",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "jende",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "nire",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "baino gehiago",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "jakingo",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "ura",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "baino",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "deia",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "lehenengoa",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "nor",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "may",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "behera",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "albo",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "izan",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "orain",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "aurkitu",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "burua",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "stand",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "egin",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "orria",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "beharko lukete",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "country",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "aurkitu",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "erantzuna",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "eskola",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "hazten",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "azterketa",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "oraindik",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "ikasi",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "landare",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "cover",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "janaria",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "eguzkia",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "lau",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "arteko",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "egoera",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "mantentzeko",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "begi",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "inoiz ez",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "azken",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "utzi",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "pentsatu",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "hiria",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "zuhaitz",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "zeharkatuko",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "baserriko",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "gogor",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "hasiera",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "agian",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "istorioa",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "saw",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "urrun",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "sea",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "marraztu",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "utzi",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "berandu",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "run",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "ez",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "bitartean",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "prentsa",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "itxi",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "gauean",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "benetako",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "bizitza",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "gutxi",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "iparraldean",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "liburua",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "egiteko",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "hartu",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "zientzia",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "jan",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "gela",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "lagun",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "hasi",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "ideia",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "arrain",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "mendia",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "gelditzeko",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "behin",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "base",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "entzun",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "zaldi",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "ebaki",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "Ziur",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "ikusi",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "kolorea",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "aurpegi",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "egurra",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "nagusia",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "open",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "badirudi",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "elkarrekin",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "hurrengo",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "zuri",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "haurrak",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "hasiko",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "lortu",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "oinez",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "Adibidez",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "erraztasuna",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "paper",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "taldea",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "beti",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "music",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "horiek",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "bai",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "marka",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "askotan",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "gutuna",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "arte",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "milia",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "ibaiaren",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "autoa",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "oinak",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "zainketa",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "bigarren",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "nahikoa",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "arrunta",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "neska",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "ohikoa den",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "gazte",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "prest",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "Goiko",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "inoiz",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "gorria",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "zerrenda",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "nahiz",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "sentitzen",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "eztabaida",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "txori",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "laster",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "gorputza",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "txakur",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "familiari",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "zuzeneko",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "pose",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "utzi",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "song",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "neurtzeko",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "atea",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "produktua",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "beltza",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "laburra",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "numeral",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "class",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "haizea",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "question",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "gertatuko",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "osoa",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "ontzia",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "Zonalde",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "erdia",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "rock",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "ordena",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "sua",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "hegoaldean",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "arazoa",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "pieza",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "esan",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "bazekien",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "gainditu",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "geroztik",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "top",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "osoa",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "king",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "kalean",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "hazbeteko",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "biderkatu",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "nothing",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "ikastaroa",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "egonaldia",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "gurpila",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "osoa",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "indarrean",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "blue",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "objektu",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "erabakitzeko",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "azalera",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "sakona",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "ilargia",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "uharteko",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "oinez",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "sistema",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "lanpetuta",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "proba",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "record",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "txalupa",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "ohikoa",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "urre",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "posible",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "hegazkina",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "orde",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "lehorra",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "galdetzen",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "barre",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "mila",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "ago",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "ran",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "egiaztatu",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "Partida",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "forma",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "equate",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "miss",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "ekarri",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "bero",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "elurra",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "pneumatikoen",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "ekarri",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "bai",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "urrutiko",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "bete",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "ekialdean",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "margotzeko",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "hizkuntza",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "artean",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "unitatea",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "power",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "herri",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "fina",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "zenbait",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "hegan",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "erori",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "ekar",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "oihu",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "dark",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "makina",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "ohar",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "itxaron",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "plan",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "zifra",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "izarra",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "kutxa",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "noun",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "eremu",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "gainerakoak",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "zuzena",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "gai",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "libra",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "done",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "edertasuna",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "Pase",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "koa",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "eduki",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "aurrean",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "irakasteko",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "astea",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "final",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "eman",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "berdea",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "azkarra",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "garatzea",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "ozeano",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "epela",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "free",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minutu",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "indartsu",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "bereziak",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "mind",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "atzean",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "argi",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "buztana",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "ekoizteko",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "Izan",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "espazioa",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "entzun",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "onena",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "ordu",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "hobeto",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "egia",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "zehar",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "ehun",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "bost",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "gogoratu",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "urrats",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "hasieran",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "eutsi",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "west",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "lurrean",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "interes",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "iristeko",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "azkarra",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "aditza",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "abestu",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "entzuteko",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "sei",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "taula",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "bidaia",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "gutxiago",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "goizean",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "hamar",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "sinple",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "hainbat",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "bokal",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "aldera",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "gerra",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "arautuko",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "aurka",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "eredua",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "motela",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "zentroa",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "maitasun",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "pertsona",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "dirua",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "balioko",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "agertzen",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "errepide",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "mapa",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "euri",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "arau",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "gobernatzeko",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "tira",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "hotza",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "oharra",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "ahotsa",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "energia",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "ehiza",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "probable",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "ohean",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "anaia",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "arrautza",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "ride",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "zelula",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "sinesten",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "agian",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "jaso",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "Bat-batean",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "zenbatu",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "karratu",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "arrazoia",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "luzera",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "adierazten",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "art",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "gaia",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "eskualdea",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "tamaina",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "aldatu egiten dira",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "konformatu",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "hitz egin",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "pisu",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "Oro",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "izotz",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "Gaia",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "zirkulua",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "bikotea",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "besteak beste,",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "arraila",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "silaba",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "sentitu",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "grand",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "pilota",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "oraindik",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "uhin",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "jaregin",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "bihotza",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "Ni",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "gaur",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "heavy",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "dantza",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "motorra",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "posizio",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "arm",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "zabal",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "sail",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "materiala",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "Frakzio",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "basoa",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "eseri",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "lasterketa",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "leihoa",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "denda",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "udan",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "trena",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "loa",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "frogatzeko",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "bakarti",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "hanka",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "ariketa",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "horma",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "catch",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "mount",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "Nahi",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "zerua",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "taula",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "poza",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "negua",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "sat",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "idatzizko",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "basa",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "instrumentua",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "mantendu",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "beira",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "belarra",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "behi",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "lana",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "ertza",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "zeinu",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "bisita",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "iraganean",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "bigun",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "fun",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "distiratsua",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "gas",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "eguraldi",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "Hileko",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "milioi",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "bear",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "akabera",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "zoriontsu",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "espero",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "lore",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "clothe",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "arraro",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "gone",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "merkataritza",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "melodia",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "bidaia",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "bulegoa",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "jasotzeko",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "ilara",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "ahoa",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "zehatza",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "sinbolo",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "hiltzen",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "gutxienez",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "arazoak",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "oihu",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "salbu",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "idatzi",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "hazia",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "tonua",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "apunta",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "iradokitzen",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "garbi",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "break",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "andre",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "patiora",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "igoko",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "txarra",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "kolpe",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "olioa",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "odol",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "ukitu",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "hazi",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "cent",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "nahastu",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "taldeak",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "wire",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "kostua",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "galduta",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "marroi",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "higadura",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "lorategia",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "berdina",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "bidali",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "aukeratu",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "jaitsi",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "kabitzen",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "osotasunean",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "azoka",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "bankua",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "biltzeko",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "gorde",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "kontrola",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "hamartarrekin",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "belarria",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "else",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "nahiko",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "hautsi",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "Kasu",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "Erdialdetik",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "hiltzeko",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "semea",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "laku",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "une",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "eskala",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "ozen",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "udaberrian",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "behatzen",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "Umearen",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "zuzen",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "kontsonante",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "nazioa",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "hiztegia",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "esnea",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "abiadura",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "metodo",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organoaren",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "ordaindu",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "adina",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "atalean",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "soineko",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "hodei",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "sorpresa",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "lasaiak",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "harria",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "tiny",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "Igoera",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "cool",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "diseinua",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "pobrea",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "asko",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "esperimentua",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "behean",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "giltza",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "burdina",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "bakar",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "makila",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "laua",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "hogei",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "azala",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "irribarre",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "crease",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "zulo",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "salto",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "haurra",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "zortzi",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "herriko",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "bete",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "erroa",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "erosi",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "goratzen",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "konpontzeko",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "metal",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "ala",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "push",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "zazpi",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "paragrafoan",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "hirugarren",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "errejimena",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "mantendutako",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "ilea",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "deskribatuko",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "sukaldari",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "solairuan",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "bai",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "emaitza",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "erre",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "muino",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "seguru",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "katu",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "mendean",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "kontuan hartu",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "mota",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "legea",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "bit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "kostaldean",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "kopia",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "Esaldi",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "isila",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "altu",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "harea",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "lurzoruaren",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "roll",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "tenperatura",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "hatz",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "industria",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "balio",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "borroka",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "gezur",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "beat",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "urduritu",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "natural",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "ikuspegia",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "zentzu",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "capital",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "izango ez",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "aulkia",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "arriskuan",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "fruta",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "aberatsa",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "lodi",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "soldadu",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "prozesua",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "funtzionatzeko",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "praktikan",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "Aparteko",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "zaila",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "doctor",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "mesedez",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "babesteko",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "eguerdian",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "laborantza",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "modernoa",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "elementu",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "hit",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "ikaslearen",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "korner",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "festa",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "hornikuntza",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "zeinen",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "kokatzeko",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "ring",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "pertsonaia",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "intsektuen",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "harrapatu",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "epea",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "adierazten",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "radio",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "mintzatu",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atomo",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "giza",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "historia",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "efektu",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "elektrikoa",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "espero",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "hezur",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "trenbide",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "imajinatu",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "ematen",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "ados",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "horrela",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "leuna",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "emakumea",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "Kapitainak",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "asmatzen",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "beharrezkoa",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "zorrotz",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "Ezenarro",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "sortu",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "bizilaguna",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "garbiketa",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "Bat",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "baizik",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "Zaleak",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "arto",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "alderatu",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "poema",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "katea",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "kanpai",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "mendekoak",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "haragi",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "RUB",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "hodi",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "ospetsua",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dolarrak",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "erreka",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "beldurra",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "ikusmena",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "mehe",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "triangelu",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planeta",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "presarik",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "buruzagi",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "kolonia",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "erlojuaren",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "mine",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "Berdinketa",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "idatzi",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "nagusien",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "freskoa",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "bilaketa",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "bidali",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "horia",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "pistola",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "baimendu",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "inprimatu",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "hildako",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "Leku",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "basamortuko",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "trajea",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "egungo",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "igogailua",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "igo",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "iristen",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "master",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "pista",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "gurasoa",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "shore",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "zatiketa",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "fitxa",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "substantzia",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "mesede",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "konektatu",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "post",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "pasatzeko",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "akordeak",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "gantz",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "pozik",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "original",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "share",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "geltokia",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "dad",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "ogia",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "kobratzen",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "egokia",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "eskaintza",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segmentu",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "esklabu",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "ahate",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "instant",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "merkatua",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "maila",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "populatu",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "Chick",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "maitea",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "etsaiaren",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "erantzun",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "edari",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "gerta",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "laguntza",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "hitzaldian",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "natura",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "sorta",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "lurrun",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "motion",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "bidea",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "likidoa",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "saioa hasi",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "ekarri",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "zatidura",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "hortzak",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "shell",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "lepoan",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "oxigeno",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "azukre",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "heriotza",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "nahiko",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "skill",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "emakumeak",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "denboraldian",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "irtenbide",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "iman",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "zilar",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "eskerrik",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "adarra",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "partidu",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "atzizkia",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "batez ere,",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "piku",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "beldur",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "handi",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "arreba",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "steel",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "eztabaidatzeko",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "aurrera",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "antzeko",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "orientatzea",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "Eskarmentu",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "puntuazio",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "sagar",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "erosi",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "buru",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "zelaia",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "berokia",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "masa",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "txartel",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "band",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "soka",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "lapsus",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "irabazi",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "amets",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "arratsaldean",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "baldintza",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "feed",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "tresna",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "guztira",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "oinarrizko",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "usaina",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "haran",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "ezta",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "bikoitza",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "eserlekua",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "jarraitzeko",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "bloke",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "taula",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "hat",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "saltzeko",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "arrakasta",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "konpainia",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "kenketak",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "ekitaldia",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "bereziki",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "akordio",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "igeri",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "epe",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "kontrakoa",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "emaztea",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "zapatila",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "sorbaldaren",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "hedapena",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "antolatu",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "camp",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "asmatuko",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "kotoia",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "Born",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "zehazteko",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "quart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "bederatzi",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "kamioi",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "zarata",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "maila",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "aukera",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "bildu",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "denda",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "tarte",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "bota",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "distira",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "jabetza",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "zutabe",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "molekula",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "hautatu",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "oker",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "grisa",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "errepikatu",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "eskatzen",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "zabal",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "prestatu",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "gatza",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "sudurra",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "plural",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "haserrea",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "erreklamazioa",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "kontinenteko",
+        "en": "continent"
+    }
+}

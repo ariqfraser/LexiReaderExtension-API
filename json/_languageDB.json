@@ -1,0 +1,351 @@
+[
+    {
+        "code": "af",
+        "name": "Afrikaans"
+    },
+    {
+        "code": "sq",
+        "name": "Albanian"
+    },
+    {
+        "code": "am",
+        "name": "Amharic"
+    },
+    {
+        "code": "ar",
+        "name": "Arabic"
+    },
+    {
+        "code": "hy",
+        "name": "Armenian"
+    },
+    {
+        "code": "az",
+        "name": "Azerbaijani"
+    },
+    {
+        "code": "eu",
+        "name": "Basque"
+    },
+    {
+        "code": "be",
+        "name": "Belarusian"
+    },
+    {
+        "code": "bn",
+        "name": "Bengali"
+    },
+    {
+        "code": "bs",
+        "name": "Bosnian"
+    },
+    {
+        "code": "bg",
+        "name": "Bulgarian"
+    },
+    {
+        "code": "zh",
+        "name": "Chinese"
+    },
+    {
+        "code": "co",
+        "name": "Corsican"
+    },
+    {
+        "code": "hr",
+        "name": "Croatian"
+    },
+    {
+        "code": "cs",
+        "name": "Czech"
+    },
+    {
+        "code": "da",
+        "name": "Danish"
+    },
+    {
+        "code": "en",
+        "name": "English"
+    },
+    {
+        "code": "eo",
+        "name": "Esperanto"
+    },
+    {
+        "code": "et",
+        "name": "Estonian"
+    },
+    {
+        "code": "fi",
+        "name": "Finnish"
+    },
+    {
+        "code": "fr",
+        "name": "French"
+    },
+    {
+        "code": "gl",
+        "name": "Galician"
+    },
+    {
+        "code": "ka",
+        "name": "Georgian"
+    },
+    {
+        "code": "de",
+        "name": "German"
+    },
+    {
+        "code": "gu",
+        "name": "Gujarati"
+    },
+    {
+        "code": "ha",
+        "name": "Hausa"
+    },
+    {
+        "code": "he",
+        "name": "Hebrew"
+    },
+    {
+        "code": "hi",
+        "name": "Hindi"
+    },
+    {
+        "code": "hu",
+        "name": "Hungarian"
+    },
+    {
+        "code": "is",
+        "name": "Icelandic"
+    },
+    {
+        "code": "ig",
+        "name": "Igbo"
+    },
+    {
+        "code": "id",
+        "name": "Indonesian"
+    },
+    {
+        "code": "ga",
+        "name": "Irish"
+    },
+    {
+        "code": "it",
+        "name": "Italian"
+    },
+    {
+        "code": "ja",
+        "name": "Japanese"
+    },
+    {
+        "code": "jv",
+        "name": "Javanese"
+    },
+    {
+        "code": "kn",
+        "name": "Kannada"
+    },
+    {
+        "code": "kk",
+        "name": "Kazakh"
+    },
+    {
+        "code": "rw",
+        "name": "Kinyarwanda"
+    },
+    {
+        "code": "ko",
+        "name": "Korean"
+    },
+    {
+        "code": "ku",
+        "name": "Kurdish"
+    },
+    {
+        "code": "lo",
+        "name": "Lao"
+    },
+    {
+        "code": "la",
+        "name": "Latin"
+    },
+    {
+        "code": "lv",
+        "name": "Latvian"
+    },
+    {
+        "code": "lt",
+        "name": "Lithuanian"
+    },
+    {
+        "code": "mk",
+        "name": "Macedonian"
+    },
+    {
+        "code": "mg",
+        "name": "Malagasy"
+    },
+    {
+        "code": "ml",
+        "name": "Malayalam"
+    },
+    {
+        "code": "mt",
+        "name": "Maltese"
+    },
+    {
+        "code": "mi",
+        "name": "Maori"
+    },
+    {
+        "code": "mr",
+        "name": "Marathi"
+    },
+    {
+        "code": "mn",
+        "name": "Mongolian"
+    },
+    {
+        "code": "ne",
+        "name": "Nepali"
+    },
+    {
+        "code": "no",
+        "name": "Norwegian"
+    },
+    {
+        "code": "fa",
+        "name": "Persian"
+    },
+    {
+        "code": "pl",
+        "name": "Polish"
+    },
+    {
+        "code": "pt",
+        "name": "Portuguese"
+    },
+    {
+        "code": "ru",
+        "name": "Russian"
+    },
+    {
+        "code": "sm",
+        "name": "Samoan"
+    },
+    {
+        "code": "sr",
+        "name": "Serbian"
+    },
+    {
+        "code": "sn",
+        "name": "Shona"
+    },
+    {
+        "code": "sd",
+        "name": "Sindhi"
+    },
+    {
+        "code": "sk",
+        "name": "Slovak"
+    },
+    {
+        "code": "sl",
+        "name": "Slovenian"
+    },
+    {
+        "code": "so",
+        "name": "Somali"
+    },
+    {
+        "code": "su",
+        "name": "Sundanese"
+    },
+    {
+        "code": "sw",
+        "name": "Swahili"
+    },
+    {
+        "code": "sv",
+        "name": "Swedish"
+    },
+    {
+        "code": "tg",
+        "name": "Tajik"
+    },
+    {
+        "code": "ta",
+        "name": "Tamil"
+    },
+    {
+        "code": "tt",
+        "name": "Tatar"
+    },
+    {
+        "code": "te",
+        "name": "Telugu"
+    },
+    {
+        "code": "th",
+        "name": "Thai"
+    },
+    {
+        "code": "tr",
+        "name": "Turkish"
+    },
+    {
+        "code": "tk",
+        "name": "Turkmen"
+    },
+    {
+        "code": "uk",
+        "name": "Ukrainian"
+    },
+    {
+        "code": "ur",
+        "name": "Urdu"
+    },
+    {
+        "code": "uz",
+        "name": "Uzbek"
+    },
+    {
+        "code": "vi",
+        "name": "Vietnamese"
+    },
+    {
+        "code": "cy",
+        "name": "Welsh"
+    },
+    {
+        "code": "xh",
+        "name": "Xhosa"
+    },
+    {
+        "code": "yi",
+        "name": "Yiddish"
+    },
+    {
+        "code": "yo",
+        "name": "Yoruba"
+    },
+    {
+        "code": "zu",
+        "name": "Zulu"
+    },
+    { "code": "ca", "name": "Catalan; Valencian" },
+    { "code": "fy", "name": "Western Frisian" },
+    { "code": "ht", "name": "Haitian; Haitian Creole" },
+    { "code": "ky", "name": "Kirghiz; Kyrgyz" },
+    { "code": "lb", "name": "Luxembourgish; Letzeburgesch" },
+    { "code": "ms", "name": "Malay; Malaysian" },
+    { "code": "or", "name": "Oriya" },
+    { "code": "gd", "name": "Gaelic; Scomttish Gaelic" },
+    { "code": "es", "name": "Spanish; Castilian" },
+    { "code": "ro", "name": "Romanian; Moldavian; Moldovan" },
+    { "code": "tl", "name": "Tagalog; Filipino" },
+    { "code": "nl", "name": "Dutch" },
+    { "code": "haw", "name": "Hawaiian" }
+]

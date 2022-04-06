@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "ca",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "eu",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "lui",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "c\u0103",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "el",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "a fost",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "pentru",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "pe",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "sunt",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "cu",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "ei",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "fie",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "la",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "una",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "au",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "acest",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "de la",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "de",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "fierbinte",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "cuv\u00e2nt",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "dar",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "ce",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "unele",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "este",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "ea",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "tu",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "sau",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "a avut",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "a f\u0103cut",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "de",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "la",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "\u0219i",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "o",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "\u00een",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "noi",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "poate",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "afar\u0103",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "alte",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "au fost",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "care",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "face",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "lor",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "timp",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "dac\u0103",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "va",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "cum",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "a declarat",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "o",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "fiecare",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "spune",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "nu",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "set",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "trei",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "vrea",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "aer",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "bine",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "De asemenea,",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "juca",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "mic",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "cap\u0103t",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "pune",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "home",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "citeste",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "m\u00e2n\u0103",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "portul",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "mare",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "scrie",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "ad\u0103uga",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "chiar",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "teren",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "aici",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "must",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "mare",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "mare",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "astfel de",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "urma",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "act",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "de ce",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "cere",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "b\u0103rba\u021bi",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "schimbare",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "a mers",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "lumina",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "fel",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "de pe",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "nevoie",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "cas\u0103",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "imagine",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "\u00eencerca\u021bi",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "ne",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "din nou",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "animal",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "punct",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "mam\u0103",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "lume",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "\u00een apropiere",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "construi",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "auto",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "p\u0103m\u00e2nt",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "tatal",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "orice",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "nou",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "locul de munc\u0103",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "parte",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "ia",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "ob\u021bine",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "loc",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "a f\u0103cut",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "tr\u0103i",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "unde",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "dup\u0103",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "\u00eenapoi",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "mic",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "numai",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "rotund",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "om",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "an",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "a venit",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "spectacol",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "fiecare",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "bun",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "mi-",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "da",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "nostru",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "sub",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "nume",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "foarte",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "prin",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "doar",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "form\u0103",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "propozi\u021bie",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "mare",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "cred",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "spune",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "ajuta",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "sc\u0103zut",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "linie",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "difer\u0103",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "r\u00e2ndul s\u0103u,",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "cauza",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "mult",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "Adic\u0103",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "\u00eenainte",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "mi\u0219care",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "dreapta",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "b\u0103iat",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "vechi",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "prea",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "acela\u0219i",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "ea",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "toate",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "acolo",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "c\u00e2nd",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "\u00een sus",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "utilizare",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "dumneavoastr\u0103",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "cale",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "despre",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "multe",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "apoi",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "lor",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "Trimite",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "ar",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "ca",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "a\u0219a",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "acestea",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "ei",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "lung",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "face",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "lucru",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "vezi",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "l",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "dou\u0103",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "are",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "uita-te",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "mai mult",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "zi",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "ar putea",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "merge",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "vin",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "a f\u0103cut",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "num\u0103r",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "sunet",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "nu",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "cel mai",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "oameni",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "meu",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "peste",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "cunoa\u0219te",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "de ap\u0103",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "dec\u00e2t",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "apel",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "primul",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "care",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "putea",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "jos",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "lateral",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "fost",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "acum",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "g\u0103si",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "cap",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "stand",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "propriu",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "pagina",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "ar trebui",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "\u021bar\u0103",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "g\u0103site",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "r\u0103spuns",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "\u0219coal\u0103",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "cre\u0219te",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "studiu",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "\u00eenc\u0103",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "\u00eenv\u0103\u021ba",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "plant\u0103",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "capac",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "alimente",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "soare",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "patru",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "\u00eentre",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "de stat",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "p\u0103stra",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "ochi",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "niciodat\u0103",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "trecut",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "l\u0103sa",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "g\u00e2nd",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "ora\u0219",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "copac",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "cruce",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "ferm\u0103",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "greu",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "Start",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "s-ar putea",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "poveste",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "fer\u0103str\u0103u",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "mult",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "mare",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "trage",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "st\u00e2nga",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "t\u00e2rziu",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "a alerga",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "nu face",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "\u00een timp ce",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "pres\u0103",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "aproape",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "noapte",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "real\u0103",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "via\u021b\u0103",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "pu\u021bini",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "nord",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "carte",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "efectueze",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "a luat",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "\u0219tiin\u021b\u0103",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "m\u00e2nca",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "camer\u0103",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "prieten",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "\u00eenceput",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "idee",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "pe\u0219te",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "munte",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "opri",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "dat\u0103",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "de baz\u0103",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "auzi",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "cal",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "cut",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "sigur",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "ceas",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "culoare",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "fata",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "lemn",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "principal",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "deschis",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "par",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "\u00eempreun\u0103",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "urm\u0103tor",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "alb",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "copii",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "\u00eencepe",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "am",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "de mers pe jos",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "exemplu",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "u\u0219ura",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "h\u00e2rtie",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "grup",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "\u00eentotdeauna",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "muzica",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "aceste",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "at\u00e2t",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "marc\u0103",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "de multe ori",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "scrisoare",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "p\u00e2n\u0103 la",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "mil\u0103",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "r\u00e2u",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "masina",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "picioare",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "\u00eengrijire",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "al doilea",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "suficient",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "simplu",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "fat\u0103",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "de obicei",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "tineri",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "gata",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "de mai sus",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "vreodat\u0103",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "ro\u0219u",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "lista",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "de\u0219i",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "sim\u021bi",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "Discu\u021bie",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "pas\u0103re",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "cur\u00e2nd",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "corp",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "c\u00e2ine",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "familie",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "directe",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "pune",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "l\u0103sa",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "c\u00e2ntec",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "m\u0103sura",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "u\u0219\u0103",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "produs",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "negru",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "scurt",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "numeral",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "clas\u0103",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "v\u00e2nt",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "\u00eentrebare",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "\u00eent\u00e2mpla",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "complet",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "nav\u0103",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "zona",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "jum\u0103tate",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "roc\u0103",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "pentru",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "foc",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "sud",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "problem\u0103",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "bucat\u0103",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "a spus",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "\u0218tiam",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "trece",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "\u00eentruc\u00e2t",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "top",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "\u00eentreg",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "rege",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "strad\u0103",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "inci",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "multiplica",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "nimic",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "curs",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "\u0219edere",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "roat\u0103",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "complet",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "vigoare",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "albastru",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "obiect",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "decid\u0103",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "suprafa\u021b\u0103",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "ad\u00e2nc",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "luna",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "insul\u0103",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "picior",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "sistem",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "ocupat",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "testare",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "\u00eenregistrare",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "barc\u0103",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "comun",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "aur",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "posibil",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "avion",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "locul",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "uscat",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "\u00eentreb",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "r\u00e2s",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "mie",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "\u00een urm\u0103",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "a fugit",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "verifica",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "joc",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "forma",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "echivala",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "miss",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "adus",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "c\u0103ldur\u0103",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "z\u0103pad\u0103",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "anvelope",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "aduce",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "da",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "\u00eendep\u0103rtat",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "umple",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "est",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "vopsea",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "limb\u0103",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "printre",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "unitate",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "putere",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "ora\u0219",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "fin",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "sigur",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "zbura",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "c\u0103dea",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "plumb",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "strig\u0103t",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "\u00eentuneric",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "ma\u0219in\u0103",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "not\u0103",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "a\u0219tepta",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "planul de",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "figura",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "stele",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "cutie",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "substantiv",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "c\u00e2mp",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "odihn\u0103",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "corect",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "capabil",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "lire",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "terminat",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "frumuse\u021be",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "unitate",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "stat",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "con\u021bin",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "fa\u021b\u0103",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "\u00eenv\u0103\u021ba",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "s\u0103pt\u0103m\u00e2n\u0103",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "final\u0103",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "a dat",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "verde",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "rapid",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "dezvolta",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "oceanului",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "cald",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "liber",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minut",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "puternic",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "special",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "minte",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "\u00een spatele",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "clar",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "coad\u0103",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "produc",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "fapt",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "spa\u021biu",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "a auzit",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "cel mai bun",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "or\u0103",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "mai bine",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "adev\u0103rat",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "\u00een timpul",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "sute de",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "cinci",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "aminti\u021bi-v\u0103",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "pas",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "devreme",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "\u021bine\u021bi",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "vest",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "teren",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "interes",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "ajunge",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "rapid",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "verbul",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "c\u00e2nta",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "asculta",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "\u0219ase",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "mas\u0103",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "c\u0103l\u0103torie",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "mai pu\u021bin",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "diminea\u021b\u0103",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "zece",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "simplu",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "mai mul\u021bi",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "vocal\u0103",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "spre",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "r\u0103zboi",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "pune",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "\u00eempotriva",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "model",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "lent",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "centru",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "dragoste",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "persoan\u0103",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "bani",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "servi",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "ap\u0103rea",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "rutier",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "harta",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "ploaie",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "regul\u0103",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "guverna",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "trage",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "rece",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "Anun\u021b",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "voce",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "energie",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "v\u00e2n\u0103toare",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "probabil",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "pat",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "fratele",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "ou",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "plimbare",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "celul\u0103",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "cred",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "poate",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "alege",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "brusc",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "conta",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "p\u0103trat",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "motiv",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "lungime",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "reprezint\u0103",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "art\u0103",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "subiect",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "regiune",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "dimensiunea",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "varia",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "rezolva",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "vorbi",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "greutate",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "general\u0103",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "ghea\u021b\u0103",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "indiferent",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "cerc",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "pereche",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "includ",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "divide",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "silab\u0103",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "sim\u021bit",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "mare",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "bil\u0103",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "\u00eenc\u0103",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "val",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "pic\u0103tur\u0103",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "inim\u0103",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "sunt",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "prezent",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "grele",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "dans",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "motor",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "pozi\u021bie",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "bra\u021b",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "larg",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "naviga",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "materiale",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "frac\u021biune",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "p\u0103dure",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "sta",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "ras\u0103",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "fereastr\u0103",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "magazin",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "var\u0103",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "tren",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "somn",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "dovedi",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "singuratic",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "picior",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "exerci\u021biu",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "perete",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "captur\u0103",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "montur\u0103",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "doresc",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "cer",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "bord",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "bucurie",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "iarn\u0103",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "sat",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "scris",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "s\u0103lbatic",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "instrumente",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "p\u0103strate",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "sticl\u0103",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "iarb\u0103",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "vac\u0103",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "munc\u0103",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "margine",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "semn",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "vizita",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "trecut",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "moale",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "distrac\u021bie",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "luminos",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "gaz",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "Vremea",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "lun\u0103",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "milioane",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "poart\u0103",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "finisaj",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "fericit",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "speran\u021b\u0103",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "floare",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "\u00eembr\u0103ca",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "ciudat",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "plecat",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "comer\u021b",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "melodie",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "excursie",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "birou",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "primi",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "r\u00e2nd",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "gura",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "exact\u0103",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "simbol",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "muri",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "pu\u021bin",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "probleme",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "strig\u0103t",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "cu excep\u021bia",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "scris",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "semin\u021be",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "ton",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "se al\u0103ture",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "sugereaz\u0103",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "curat",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "pauz\u0103",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "doamn\u0103",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "curte",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "cre\u0219te",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "r\u0103u",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "lovitur\u0103",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "ulei",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "s\u00e2nge",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "atinge\u021bi",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "a crescut",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "sut\u0103",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "amesteca",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "echipa",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "s\u00e2rm\u0103",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "costul",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "pierdut",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "maro",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "uzur\u0103",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "gr\u0103din\u0103",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "egal",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "trimis",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "alege",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "c\u0103zut",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "potrivi",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "flux",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "corect",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "banc\u0103",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "colecta",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "salva",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "de control",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "zecimal",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "ureche",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "altceva",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "destul de",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "rupt",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "caz",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "de mijloc",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "ucide",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "fiu",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "lac",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "clip\u0103",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "scar\u0103",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "tare",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "arc",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "observa",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "copil",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "drept",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "consoan\u0103",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "na\u021biune",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "Dic\u021bionar",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "lapte",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "viteza",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "metoda",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organ",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "pl\u0103ti",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "v\u00e2rst\u0103",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "sec\u021biune",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "rochie",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "nor",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "surpriz\u0103",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "lini\u0219tit",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "piatr\u0103",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "minuscul",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "urcare",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "rece",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "proiectare",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "s\u0103rac",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "lot",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "experimentul",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "de jos",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "cheie",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "fier",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "singur",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "b\u0103\u021b",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "plat",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "dou\u0103zeci",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "piele",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "z\u00e2mbet",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "cutelor",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "gaur\u0103",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "salt",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "copil",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "opt",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "sat",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "\u00eent\u00e2lni",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "r\u0103d\u0103cin\u0103",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "cump\u0103ra",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "ridica",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "rezolva",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "de metal",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "dac\u0103",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "ap\u0103sare",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "\u0219apte",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "punctul",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "a treia",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "trebuie",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "\u021binut\u0103",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "p\u0103r",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "descrie",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "buc\u0103tar",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "etaj",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "fie",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "rezultat",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "arde",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "deal",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "\u00een condi\u021bii de siguran\u021b\u0103",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "pisic\u0103",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "secol",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "ia \u00een considerare",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "tipul",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "lege",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "bit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "coasta",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "copie",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "fraz\u0103",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "t\u0103cut",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "\u00eenalt",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "nisip",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "sol",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "rulou",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "temperatur\u0103",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "deget",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "industrie",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "valoare",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "lupta",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "minciun\u0103",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "bate",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "excita",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "natural",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "vedere",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "sens",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "de capital",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "nu va",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "scaun",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "pericol",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "fructe",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "bogat",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "gros",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "soldat",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "proces",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "opera",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "practica",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "separat\u0103",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "dificil",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "medicul",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "v\u0103 rog",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "proteja",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "amiaz\u0103",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "cultur\u0103",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "modern\u0103",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "element",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "lovit",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "elev",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "col\u021b",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "partid",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "aprovizionare",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "a c\u0103rui",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "localiza",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "inel",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "caracter",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "insect\u0103",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "prins",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "perioada",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "indica",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "Radio",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "a vorbit",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atomul",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "uman",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "istorie",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "efect",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "electric",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "a\u0219tepta",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "os",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "feroviar",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "imagina",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "furniza",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "acord",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "astfel,",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "bl\u00e2nd",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "femeie",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "c\u0103pitan",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "ghici",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "necesar",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "ascu\u021bit",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "arip\u0103",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "crea",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "vecin",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "sp\u0103lare",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "liliac",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "destul",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "mul\u021bime",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "porumb",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "compara",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "poezie",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "sir",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "clopot",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "depinde",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "carne",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "freca",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tub",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "faimos",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dolarul",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "flux",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "fric\u0103",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "vedere",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "sub\u021bire",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "triunghi",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planet\u0103",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "grab\u0103",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "\u0219ef",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "colonie",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "ceas",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "a mea",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "cravat\u0103",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "intra",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "major\u0103",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "proasp\u0103t",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "Cautare",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "trimite",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "galben",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "pistol",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "permite",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "print",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "mort",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "loc",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "de\u0219ert",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "costum",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "curent",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "lift",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "a crescut",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "ajunge",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "maestru",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "cale",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "p\u0103rinte",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "\u021b\u0103rm",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "divizare",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "foaie",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "substan\u021b\u0103",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "favoriza",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "conecta",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "Mesaj",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "petrece",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "coard\u0103",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "gr\u0103sime",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "bucuros",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "original\u0103",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "ac\u021biune",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "sta\u021bie",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "tata",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "p\u00e2ine",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "\u00eenc\u0103rca",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "corespunz\u0103toare",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "oferta",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segment",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "sclav",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "ra\u021b\u0103",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "instantaneu",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "pia\u021b\u0103",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "grad",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "popula",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "pui",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "draga",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "inamic",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "raspunde",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "b\u0103utur\u0103",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "avea loc",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "suport",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "discurs",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "natura",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "gama",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "abur",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "mi\u0219care",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "cale",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "lichid",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "log",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "\u00eensemnat",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "coeficient",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "din\u021bi",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "coaj\u0103",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "g\u00e2t",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "oxigen",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "zah\u0103r",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "moarte",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "destul de",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "calificare",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "femei",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "sezon",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "solu\u021bie",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magnet",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "argint",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "multumesc",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "ramur\u0103",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "meci",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "sufix",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "mai ales",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "fig",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "speriat",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "uria\u0219",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "sora",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "o\u021bel",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "discuta",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "\u00eenainte",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "similare",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "ghid",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "experien\u021b\u0103",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "scor",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "m\u0103r",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "cump\u0103rat",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "a condus",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "Pitch",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "strat",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "masa",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "carte",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "band",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "fr\u00e2nghie",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "alunecare",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "victorie",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "vis",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "sear\u0103",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "condi\u021bie",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "hrana pentru animale",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "instrument",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "total\u0103",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "de baz\u0103",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "miros",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "vale",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "nici",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "dublu",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "scaun",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "continua",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "bloc",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "diagram\u0103",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "p\u0103l\u0103rie",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "vinde",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "succesul",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "compania",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "sc\u0103dea",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "eveniment",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "special",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "afacere",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "\u00eenot",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "termen",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "opus",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "so\u021bie",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "pantof",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "um\u0103r",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "r\u0103sp\u00e2ndire",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "aranja",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "tab\u0103r\u0103",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "inventa",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "bumbac",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "N\u0103scut",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "determina",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "quart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "nou\u0103",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "camion",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "zgomot",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "nivel",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "\u0219ans\u0103",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "aduna",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "magazin",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "\u00eentindere",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "arunca",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "str\u0103lucire",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "proprietate",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "coloana",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "molecul\u0103",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "selecta\u021bi",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "gre\u0219it",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "gri",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "repeta",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "necesita",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "larg",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "preg\u0103ti",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "sare",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "nas",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "plural",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "furie",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "revendicare",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "continentului",
+        "en": "continent"
+    }
+}

@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "kuin",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "min\u00e4",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "h\u00e4nen",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "ett\u00e4",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "h\u00e4n",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "oli",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "varten",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "p\u00e4\u00e4lle",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "olemme",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "kanssa",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "ne",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "olla",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "klo",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "yksi",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "olla",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "t\u00e4m\u00e4",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "alkaen",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "mukaan",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "kuuma",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "sana",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "mutta",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "mit\u00e4",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "jotkut",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "on",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "se",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "sinua",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "tai",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "oli",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "p\u00e4\u00e4lle",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "jos",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "to",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "ja",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "tehd\u00e4",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "sis\u00e4\u00e4n",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "me",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "voida",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "ulos",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "muut",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "olivat",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "joka",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "tehd\u00e4",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "niiden",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "aika",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "jos",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "tahtoa",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "miten",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "sanoi",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "pieni",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "kukin",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "kertoa",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "tekee",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "setti",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "kolme",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "haluta",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "ilma",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "hyvin",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "my\u00f6s",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "pelata",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "pieni",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "p\u00e4\u00e4",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "laittaa",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "koti",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "lue",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "k\u00e4si",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "portti",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "suuri",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "oikeinkirjoituksen",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "lis\u00e4t\u00e4",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "jopa",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "maa",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "t\u00e4\u00e4ll\u00e4",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "must",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "iso",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "korkea",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "niin",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "seurata",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "s\u00e4\u00e4d\u00f6s",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "miksi",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "kysy\u00e4",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "miehet",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "muutos",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "meni",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "valo",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "kind",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "pois",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "tarvitsevat",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "talo",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "kuva",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "yritt\u00e4\u00e4",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "meille",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "j\u00e4lleen",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "el\u00e4in",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "kohta",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "\u00e4iti",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "maailma",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "l\u00e4hell\u00e4",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "rakentaa",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "itse",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "maa",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "is\u00e4",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "kaikki",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "uusi",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "ty\u00f6",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "osa",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "ottaa",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "saada",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "paikka",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "tehty",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "el\u00e4\u00e4",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "jossa",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "j\u00e4lkeen",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "takaisin",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "v\u00e4h\u00e4n",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "vain",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "py\u00f6re\u00e4",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "mies",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "vuosi",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "tuli",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "show",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "joka",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "hyv\u00e4",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "minua",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "antaa",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "meid\u00e4n",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "alle",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "nimi",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "hyvin",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "kautta",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "vain",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "lomake",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "virke",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "suuri",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "ajatella",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "sanoa",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "auttaa",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "alhainen",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "linja",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "erota",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "vuoro",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "syy",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "paljon",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "tarkoittaa",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "ennen",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "liikkua",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "oikea",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "poika",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "vanha",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "liian",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "sama",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "h\u00e4n",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "kaikki",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "siell\u00e4",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "kun",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "yl\u00f6s",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "k\u00e4ytt\u00e4\u00e4",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "sinun",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "tapa",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "noin",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "monet",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "sitten",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "niit\u00e4",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "kirjoittaa",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "olisi",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "kuten",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "niin",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "n\u00e4m\u00e4",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "h\u00e4nen",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "pitk\u00e4",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "tehd\u00e4",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "asia",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "n\u00e4hd\u00e4",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "h\u00e4nt\u00e4",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "kaksi",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "on",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "katso",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "lis\u00e4\u00e4",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "p\u00e4iv\u00e4",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "voisi",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "menn\u00e4",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "tulevat",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "teki",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "numero",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "\u00e4\u00e4ni",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "ei",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "eniten",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "ihmiset",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "minun",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "yli",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "tiet\u00e4\u00e4",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "vesi",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "kuin",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "puhelu",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "ensimm\u00e4inen",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "jotka",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "saattaa",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "alas",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "puoli",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "ollut",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "nyt",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "l\u00f6yt\u00e4\u00e4",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "p\u00e4\u00e4",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "seist\u00e4",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "oma",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "sivu",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "pit\u00e4isi",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "maa",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "l\u00f6ytyi",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "vastaus",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "koulu",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "kasvaa",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "tutkimus",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "viel\u00e4",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "oppia",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "kasvi",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "kansi",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "ruoka",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "aurinko",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "nelj\u00e4",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "v\u00e4lill\u00e4",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "valtio",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "pit\u00e4\u00e4",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "silm\u00e4",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "ei koskaan",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "viime",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "antaa",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "ajatus",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "kaupunki",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "puu",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "cross",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "maatila",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "kova",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "alku",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "ehk\u00e4",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "tarina",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "saha",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "pitk\u00e4lle",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "meri",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "piirt\u00e4\u00e4",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "vasen",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "my\u00f6h\u00e4\u00e4n",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "run",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "eiv\u00e4t",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "taas",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "lehdist\u00f6",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "l\u00e4hell\u00e4",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "y\u00f6",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "todellinen",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "el\u00e4m\u00e4",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "harvat",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "pohjoiseen",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "kirja",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "kuljettaa",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "otti",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "tiede",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "sy\u00f6d\u00e4",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "huone",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "yst\u00e4v\u00e4",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "alkoi",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "idea",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "kala",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "vuori",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "lopettaa",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "kerran",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "pohja",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "kuulla",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "hevonen",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "leikkaus",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "varma",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "katsella",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "v\u00e4ri",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "kasvot",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "puu",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "t\u00e4rkein",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "avoin",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "n\u00e4ytt\u00e4\u00e4",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "yhdess\u00e4",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "seuraava",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "valkoinen",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "lapset",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "alkaa",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "sai",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "k\u00e4vell\u00e4",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "esimerkiksi",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "helppous",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "paperi",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "ryhm\u00e4",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "aina",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "musiikki",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "ne",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "molemmat",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "merkki",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "usein",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "kirje",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "saakka",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "maili",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "joki",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "auto",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "jalat",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "hoito",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "toinen",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "tarpeeksi",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "tavallinen",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "tytt\u00f6",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "tavallinen",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "nuori",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "valmis",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "edell\u00e4",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "koskaan",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "punainen",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "lista",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "vaikka",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "tuntea",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "puhua",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "lintu",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "pian",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "elin",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "koira",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "perhe",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "suora",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "aiheuttaa",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "j\u00e4t\u00e4",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "laulu",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "mitata",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "ovi",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "tuote",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "musta",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "lyhyt",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "numero",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "luokka",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "tuuli",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "kysymys",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "tapahtua",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "t\u00e4ydellinen",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "laiva",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "alue",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "puoli",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "kallio",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "j\u00e4rjestys",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "palo",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "etel\u00e4\u00e4n",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "ongelma",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "pala",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "kertoi",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "tiesi",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "kulkea",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "koska",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "alkuun",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "koko",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "kuningas",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "katu",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "tuuma",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "lis\u00e4\u00e4nty\u00e4",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "ei mit\u00e4\u00e4n",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "kurssi",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "pysy\u00e4",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "py\u00f6r\u00e4",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "t\u00e4ysi",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "voima",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "sininen",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "esine",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "p\u00e4\u00e4tt\u00e4\u00e4",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "pinta",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "syv\u00e4",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "moon",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "saari",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "jalka",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "j\u00e4rjestelm\u00e4",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "kiireinen",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "testi",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "enn\u00e4tys",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "veneen",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "yhteinen",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "kulta",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "mahdollinen",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "kone",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "sijaansa",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "kuiva",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "ihme",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "nauraa",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "tuhatta",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "sitten",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "juoksi",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "tarkistaa",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "peli",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "muoto",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "rinnastaa",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "neiti",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "toi",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "l\u00e4mp\u00f6",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "lumi",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "rengas",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "tuoda",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "kyll\u00e4",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "kaukainen",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "t\u00e4ytt\u00e4\u00e4",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "it\u00e4\u00e4n",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "maali",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "kieli",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "keskuudessa",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "yksikk\u00f6",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "voima",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "kaupunki",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "hieno",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "tietty",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "lent\u00e4\u00e4",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "pudota",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "johtaa",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "itke\u00e4",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "pime\u00e4",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "kone",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "huomautus",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "odottaa",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "suunnitelma",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "kuva",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "t\u00e4hti",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "laatikko",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "substantiivi",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "kentt\u00e4",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "lev\u00e4t\u00e4",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "oikea",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "pystyy",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "punta",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "tehty",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "kauneus",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "ajaa",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "seisoi",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "sis\u00e4lt\u00e4v\u00e4t",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "etuosa",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "opettaa",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "viikko",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "lopullinen",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "antoi",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "vihre\u00e4",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oi",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "nopea",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "kehitt\u00e4\u00e4",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "valtameri",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "l\u00e4mmin",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "vapaa",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minuutti",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "vahva",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "erityist\u00e4",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "mieli",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "takana",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "selke\u00e4",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "pyrst\u00f6",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "tuottaa",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "tosiasia",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "tilaa",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "kuuli",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "paras",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "tunti",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "parempi",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "totta",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "aikana",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "sata",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "viisi",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "muistaa",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "vaihe",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "varhainen",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "pid\u00e4",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "l\u00e4nsi",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "maa",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "etua",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "tavoittaa",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "nopeasti",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "verbi",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "laulaa",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "kuunnella",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "kuusi",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "taulukko",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "matkailu",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "v\u00e4hemm\u00e4n",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "aamu",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "kymmenen",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "yksinkertainen",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "useat",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "vokaali",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "kohti",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "sota",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "asettaa",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "vastaan",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "kuvio",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "hidas",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "keskus",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "rakkaus",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "henkil\u00f6",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "raha",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "palvella",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "ilmesty\u00e4",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "tie",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "kartta",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "sade",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "s\u00e4\u00e4nt\u00f6",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "s\u00e4\u00e4telev\u00e4t",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "vet\u00e4\u00e4",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "kylm\u00e4",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "huomautus",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "\u00e4\u00e4ni",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "energia",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "mets\u00e4st\u00e4\u00e4",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "todenn\u00e4k\u00f6inen",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "s\u00e4ngyss\u00e4",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "veli",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "muna",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "ratsastaa",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "solu",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "uskoa",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "ehk\u00e4",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "poimia",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "\u00e4killinen",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "luottaa",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "neli\u00f6",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "syy",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "pituus",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "edustaa",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "taide",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "aihe",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "alue",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "koko",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "vaihdella",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "asettua",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "puhua",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "paino",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "yleinen",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "j\u00e4\u00e4",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "asia",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "ympyr\u00e4",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "pari",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "sis\u00e4lt\u00e4v\u00e4t",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "kahtiajaon",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "tavu",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "huopa",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "suuri",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "pallo",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "viel\u00e4",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "aalto",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "pudota",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "syd\u00e4n",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "am",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "nykyinen",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "raskas",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "tanssi",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "moottori",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "asema",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "varsi",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "leve\u00e4",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "purje",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "materiaali",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "osa",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "mets\u00e4",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "istua",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "kilpailu",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "ikkuna",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "myym\u00e4l\u00e4",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "kes\u00e4",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "juna",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "uni",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "todistaa",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "yksin\u00e4inen",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "jalka",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "liikunta",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "sein\u00e4",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "saalis",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "mount",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "toivottaa",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "taivas",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "lauta",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "ilo",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "talvi",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "kyll",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "kirjallinen",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "villi",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "v\u00e4line",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "s\u00e4ilytett\u00e4v\u00e4",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "lasi",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "ruoho",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "lehm\u00e4",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "ty\u00f6",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "reuna",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "merkki",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "Vierailun",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "ohi",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "pehme\u00e4",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "hauskaa",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "kirkas",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "kaasu",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "s\u00e4\u00e4",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "kuukausi",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "miljoona",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "bear",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "viimeistely",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "onnellinen",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "Toivottavasti",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "kukka",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "vaatettaa",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "outo",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "poissa",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "kauppa",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "melodia",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "matka",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "toimisto",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "vastaanottaa",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "rivi",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "suu",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "tarkka",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "symboli",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "die",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "v\u00e4hiten",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "ongelmia",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "huutaa",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "paitsi",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "kirjoitti",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "siemen",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "s\u00e4vy",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "yhty\u00e4",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "ehdottaa",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "puhtaita",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "tauko",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "lady",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "piha",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "nousta",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "huono",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "puhallus",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "\u00f6ljy",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "veri",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "koskettaa",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "kasvoi",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "sentti",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "sekoittaa",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "joukkue",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "lanka",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "kustannukset",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "menetetty",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "ruskea",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "kuluminen",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "puutarha",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "yht\u00e4l\u00e4inen",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "l\u00e4hetetty",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "valita",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "laski",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "sovittaa",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "virtaus",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "oikeudenmukainen",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "pankki",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "ker\u00e4t\u00e4",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "tallentaa",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "ohjaus",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "desimaalin",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "korva",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "muu",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "melko",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "rikkoi",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "asia",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "keskell\u00e4",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "tappaa",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "poika",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "j\u00e4rvi",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "hetki",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "asteikko",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "\u00e4\u00e4nek\u00e4s",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "kev\u00e4t",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "tarkkailla",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "lapsi",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "suora",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "konsonantti",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "kansakunta",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "sanakirja",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "maito",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "nopeus",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "menetelm\u00e4",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "urut",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "maksaa",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "ik\u00e4",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "jakso",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "mekko",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "pilvi",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "yll\u00e4tys",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "hiljainen",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "kivi",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "pikkuruinen",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "kiivet\u00e4",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "viile\u00e4",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "suunnittelu",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "kehno",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "paljon",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "kokeilu",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "pohja",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "avain",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "rauta",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "single",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "stick",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "tasainen",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "kaksikymment\u00e4",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "iho",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "hymy",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "pr\u00e4ssi",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "reik\u00e4",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "hyppy",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "vauva",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "kahdeksan",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "kyl\u00e4",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "tavata",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "juuri",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "ostaa",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "nostaa",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "ratkaista",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "metalli",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "onko",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "push",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "seitsem\u00e4n",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "kohta",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "kolmas",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "on",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "held",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "hiukset",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "kuvata",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "kokki",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "lattia",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "jompikumpi",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "tulos",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "polttaa",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "m\u00e4ki",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "turvallinen",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "kissa",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "luvulla",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "harkita",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "tyyppi",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "laki",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "bitti",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "rannikolla",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "kopio",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "lause",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "hiljainen",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "pitk\u00e4",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "hiekka",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "maaper\u00e4",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "rulla",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "l\u00e4mp\u00f6tila",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "sormi",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "teollisuus",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "arvo",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "taistelu",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "valhe",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "voittaa",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "kiihottaa",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "luonnollinen",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "n\u00e4kym\u00e4",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "merkityksess\u00e4",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "p\u00e4\u00e4oma",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "eiv\u00e4t",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "tuoli",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "vaara",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "hedelm\u00e4t",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "rikas",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "paksu",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "sotilas",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "prosessi",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "toimivat",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "k\u00e4yt\u00e4nt\u00f6",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "erillinen",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "vaikea",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "l\u00e4\u00e4k\u00e4ri",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "olkaa hyv\u00e4",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "suojella",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "keskip\u00e4iv\u00e4ll\u00e4",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "kasvuston",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "nykyaikainen",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "elementti",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "osuma",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "opiskelija",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "kulma",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "puolue",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "tarjonta",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "joiden",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "paikantaa",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "rengas",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "merkki",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "hy\u00f6nteinen",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "kiinni",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "aika",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "osoittaa",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "radio",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "puhui",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atomi",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "ihmisen",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "historia",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "vaikutus",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "s\u00e4hk\u00f6inen",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "odottaa",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "luu",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "kisko",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "kuvitella",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "antaa",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "suostua",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "n\u00e4in",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "lempe\u00e4",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "nainen",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "kapteeni",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "arvata",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "v\u00e4ltt\u00e4m\u00e4t\u00f6n",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "ter\u00e4vi\u00e4",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "siipi",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "luoda",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "naapuri",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "pesu",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "lepakko",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "pikemminkin",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "v\u00e4kijoukko",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "maissi",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "vertaa",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "runo",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "string",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "soittokello",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "riippua",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "liha",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "hieroa",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "putki",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "kuuluisa",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dollari",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "virta",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "pelko",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "n\u00e4ky",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "ohut",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "kolmio",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planeetta",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "kiire",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "p\u00e4\u00e4llikk\u00f6",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "siirtomaa",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "kello",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "mine",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "sitoa",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "astua",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "merkitt\u00e4v\u00e4",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "tuore",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "haku",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "l\u00e4hett\u00e4\u00e4",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "keltainen",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "gun",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "sallia",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "painatus",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "kuollut",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "paikka",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "aavikko",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "puku",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "nykyinen",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "hissi",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "Rose",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "saapua",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "mestari",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "raita",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "vanhempi",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "rannikko",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "jako",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "arkki",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "aine",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "suosia",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "kytke\u00e4",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "virka",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "viett\u00e4\u00e4",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "sointu",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "rasva",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "iloinen",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "alkuper\u00e4inen",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "osake",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "asema",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "is\u00e4",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "leip\u00e4",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "veloittaa",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "oikea",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "tarjous",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segmentti",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "orja",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "ankka",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "v\u00e4lit\u00f6n",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "markkinat",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "aste",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "asuttaa",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "poikasen",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "rakas",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "vihollinen",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "vastata",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "juoma",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "esiinty\u00e4",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "tuki",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "puhe",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "luonto",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "alue",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "h\u00f6yry",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "motion",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "polku",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "neste",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "loki",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "tarkoitti",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "osam\u00e4\u00e4r\u00e4",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "hampaat",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "kuori",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "niska",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "happi",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "sokeri",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "kuolema",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "aika",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "taito",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "naiset",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "kausi",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "ratkaisu",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magneetti",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "hopea",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "kiitos",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "sivuliike",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "ottelu",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "p\u00e4\u00e4te",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "erityisesti",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "viikuna",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "peloissaan",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "valtava",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "sisko",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "ter\u00e4s",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "keskustella",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "eteenp\u00e4in",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "samankaltainen",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "opas",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "kokemus",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "pisteet",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "omena",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "ostivat",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "led",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "piki",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "takki",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "massa",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "kortti",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "b\u00e4ndi",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "k\u00f6ysi",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "lipsahdus",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "voittaa",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "unelma",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "ilta",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "ehto",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "rehu",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "ty\u00f6kalu",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "yhteens\u00e4",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "perus",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "haju",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "laakso",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "eik\u00e4 my\u00f6sk\u00e4\u00e4n",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "kaksinkertainen",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "istuin",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "jatkaa",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "lohko",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "kaavio",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "hattu",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "myyd\u00e4",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "menestys",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "yritys",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "v\u00e4hent\u00e4\u00e4",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "tapahtuma",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "erityinen",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "sopimus",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "uida",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "termi",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "p\u00e4invastainen",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "vaimo",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "kenk\u00e4",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "olkap\u00e4\u00e4",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "levi\u00e4minen",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "j\u00e4rjest\u00e4\u00e4",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "leiri",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "keksi\u00e4",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "puuvilla",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "Born",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "m\u00e4\u00e4ritt\u00e4\u00e4",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "gallona",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "yhdeks\u00e4n",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "truck",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "melu",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "taso",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "mahdollisuus",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "ker\u00e4t\u00e4",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "kauppa",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "venytt\u00e4\u00e4",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "heitt\u00e4\u00e4",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "paistaa",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "omaisuus",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "sarake",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "molekyyli",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "valita",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "v\u00e4\u00e4r\u00e4",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "harmaa",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "toistaa",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "vaatia",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "laaja",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "valmistella",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "suola",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "nen\u00e4",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "monikko",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "viha",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "vaatimus",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "maanosa",
+        "en": "continent"
+    }
+}

@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "ut",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "sum",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "eius",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "quod",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "ipse",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "fuit",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "nam",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "in",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "sunt,",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "cum",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "illi",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "esse",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "at",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "unum",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "habent",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "hoc",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "de",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "by",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "calidum",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "verbo,",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "sed",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "quod",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "aliqua",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "est",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "quod",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "vos,",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "vel",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "quod",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "in",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "de",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "ut",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "et",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "a",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "in",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "nos",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "potest",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "ex",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "alia",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "erant",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "quibus",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "facite",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "eorum",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "tempore",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "si",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "voluntas",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "quam",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "Dixitque",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "an",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "quisque",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "indica",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "quod",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "set",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tribus",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "volo",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "aer,",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "etiam",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "etiam",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "fabula",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "parva",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "finem",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "posuit",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "domum",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "lego",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "manibus",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "portus,",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "magna",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "eamque",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "addunt",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "etiam",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "terra,",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "hic",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "necesse",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "magnum",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "princeps",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "talis",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "sequitur",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "actum,",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "quid",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "quaeris",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "homines",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "mutatio",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "abiit",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "lucem",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "quaedam",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "off",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "opus",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "domus",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "ipsum",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "tentant",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "nos",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "rursus",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "pecus",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "punctum",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "mater,",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "orbis",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "prope",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "\u00e6dificabis",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "ipsum",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "terra,",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "pater,",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "aliqua",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "novum",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "opus",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "pars,",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "accipe",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "adepto",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "pro eo",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "factum",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "vivo",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "ubi",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "postquam",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "rursus",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "parum",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "nisi",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "per",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "hominis",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "anno",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "factum",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "ostende",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "omnis",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "bonum,",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "me",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "dabit",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "nostrum",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "sub",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "nomen",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "ipsum",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "per",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "iustus",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "forma,",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "sententia",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "magna",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "puto",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "dicunt",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "adiuva",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "humilis,",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "line",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "differunt,",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "vicissim",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "causa,",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "tantum",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "significant",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "antequam",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "movemur",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "ius",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "puer,",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "Vetus",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "etiam",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "idem",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "quae",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "omnes",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "ibi",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "cum",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "ascendit",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "usus,",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "tuus",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "modo",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "de",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "multis",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "tunc",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "eorum",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "scribo",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "utinam",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "sicut",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "ita",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "haec",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "eius",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "longis",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "fac",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "aliquid",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "video",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "eo",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "duobus",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "habet",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "respice",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "more",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "die,",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "potuit",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "vade,",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "venit",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "Feceruntque",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "numerus",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "tuba canerent",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "nulla",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "maxime",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "populus,",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "mea",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "supra",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "scitis",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "aquam",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "quam",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "call",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "prima",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "qui,",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "ut",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "descendit",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "latere",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "fuit",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "nunc",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "invenies",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "caput,",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "stant",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "ipse",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "page",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "ut",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "patriae",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "invenit",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "dicendum,",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "scholae",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "crescat",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "studiorum",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "etiam",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "discant",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "herba",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "Cover",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "cibum",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "solis",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "quatuor,",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "inter",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "status",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "custodi",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "oculus",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "numquam",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "novissime",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "dimitte",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "cogitavit",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "urbem",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "lignum",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "transire",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "fundum",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "difficile",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "initium",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "ut",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "fabula",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "Viderunt omnes",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "tantum",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "mare,",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "hauriret",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "reliquit",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "quondam",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "currunt",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "non",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "cum",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "turba",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "proxime",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "noctis",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "ipsum",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "vita,",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "pauci",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "aquilonem",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "liber",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "ferte",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "tulit",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "scientia,",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "manducare",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "locus",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "amicitia",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "coeperunt",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "idea",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "pisces,",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "montem",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "subsisto",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "quondam",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "basi",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "audite",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "equo",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "sectis",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "certus",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "vigilate",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "colorem",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "faciem",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "lignum",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "main",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "aperi",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "videtur",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "simul",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "postero",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "album",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "filii",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "incipe",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "obtinuit",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "ambulate",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "exemplum",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "relevare",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "cartam",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "group",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "semper",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "musica",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "eorum",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "et",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "caracterem",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "saepe",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "litteris",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "usque",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "mille passuum",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "fluvio",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "car",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "pedes,",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "cura,",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "secundo",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "sufficit",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "patet,",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "puella",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "more",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "adulescens",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "parata",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "supra",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "in perpetuum",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "red",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "album",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "tametsi",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "sentio",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "Disputatio",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "avem",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "mox",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "corpus,",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "canem",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "familia",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "dirige",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "aut statum,",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "relinquo",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "canticum",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "metiretur",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "ostium",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "Vestibulum",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "nigrum",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "breves",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "numerales",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "class",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "spiritus",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "quaestio",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "fieri",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "completum",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "navem",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "area",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "dimidiam",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "petr\u00e6",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "ut",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "ignis,",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "austri",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "forsit",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "frustrum",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "nuntiavit",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "cognovit",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "factum",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "cum",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "top",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "omnis",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "rex,",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "platea",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "inch",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "multiplicabo",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "aliquid",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "scilicet",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "manete",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "rotam",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "pleni",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "vi",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "hyacintho",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "obiectum",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "decernere",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "superficies",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "abyssus",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "lunam",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "insulam,",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "pede",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "ratio",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "occupatus",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "aliquam",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "testimonium",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "navicula",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "commune",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "aurum,",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "potest",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "planum",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "pro eo",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "siccum",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "admiramini,",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "rideat",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "milia",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "ago",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "cucurrit,",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "reprehendo",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "ludum",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "figura",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "aequat",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "requisierit",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "adduxerunt",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "calor",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "nix,",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "piget",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "adducet",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "etiam",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "distant",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "imple",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "orientem",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "pingere,",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "lingua",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "in",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "unitas",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "potestatem",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "urbem",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "Postremo",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "quaedam",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "fuge",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "ceciderit",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "ducit",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "clamor",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "obscuro",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "apparatus",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "note",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "exspecta",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "consilium",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "figura,",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "stella,",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "box",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "noun",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "agro,",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "Reliqua",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "recte",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "potest",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "libra",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "factum",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "pulchritudo",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "coegi",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "stetit",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "continent,",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "ante",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "docebit",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "week",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "ultima",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "deditque",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "viridem",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "o",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "acutus",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "evolvere",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "oceanus",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "calidum",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "absque",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minute",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "confortare",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "peculiarem",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "animus",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "retro,",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "patet,",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "caudae",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "producere",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "eo",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "locus",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "audivit",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "optimum",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "hora,",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "melius",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "verum",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "per",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "centum",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "quinque,",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "memores",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "step",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "mane",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "tenent",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "occasu",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "terra,",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "interest",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "attingere",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "ieiunium,",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "verbo,",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "cantabo",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "audite",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "sex,",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "mensamque",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "peregrinationes",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "minor",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "mane,",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "decem",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "simplex,",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "plures",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "vocali,",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "in",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "bellum,",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "dormivitque",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "contra",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "exemplar,",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "tardus",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "centrum",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "amant",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "aliquis",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "pecuniam,",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "serviant",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "appareant",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "via,",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "tabula",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "pluviae",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "imperium",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "regunt",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "attrahendam",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "frigus,",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "Observate",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "vox",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "navitas",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "hunt",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "probabile",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "cubili",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "frater,",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "ovum",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "ride",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "cell",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "Credere",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "forsan",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "colligunt",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "repentino",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "Numerabitis",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "quadratum",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "ideo",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "longitudinis",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "repraesentant,",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "art",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "subiectum",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "regionem",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "amplitudo",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "variant",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "habita",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "dicere",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "pondus,",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "generalis",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "glaciem,",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "materia",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "circulus",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "par",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "comprehendo",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "divide",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "syllabae",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "sensi",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "magnificum",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "pila,",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "sed",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "unda,",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "concrescunt",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "cor",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "sum",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "praesens",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "magna",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "chorea",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "engine",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "locus",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "brachium",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "wide",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "vela",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "material",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "fractionem",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "saltus",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "sedebitis",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "generis",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "fenestram",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "store",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "aestas",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "erant",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "somnum",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "probant",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "agitur,",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "leg",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "exercitium",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "murum",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "captiones",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "montem",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "volunt",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "caelum",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "tabulam",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "gaudium,",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "winter",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "sat",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "scriptum",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "fera",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "instrumentum,",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "custodivit",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "vitro",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "f\u0153num",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "vitulus",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "officium",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "ore",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "signum",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "visit",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "past",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "molli",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "fun",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "splendidum",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "Vestibulum",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "tempestas",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "mense",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "million",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "ferre",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "peroratum",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "beati",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "spero",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "flos",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "induere",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "mirum",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "abiit",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "commercia",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "melodiam",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "trinus",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "officium",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "accipiet",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "row",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "os,",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "exactam",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "signum",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "mortuus",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "minimus",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "angustia",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "jubila",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "nisi",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "scripsit",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "semen,",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "tone",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "iungere",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "suadeant",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "mundi",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "aspiret",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "dominae",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "navale",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "surgere",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "malum",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "ictus",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "olei",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "sanguis,",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "tangerent",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "crevit",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "cent",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "miscere,",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "bigas",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "wire",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "cost",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "perierat,",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "brunneis",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "induere",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "hortum",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "aequales",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "misit",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "elige",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "cecidit",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "apta",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "influunt",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "pulchrae",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "ripam",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "colligunt",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "salvum",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "imperium",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "decimales",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "aurem",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "aliud",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "prorsus",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "fregit,",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "ita",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "mediam",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "occides",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "filius,",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "stagnum",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "momento",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "statera",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "magna",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "ver",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "observa",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "puer",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "rectas",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "consonans",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "gentem",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "dictionary",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "lac,",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "celeritate",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "methodo",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organo,",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "redde",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "saeculi",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "section",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "habitus",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "nubes,",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "mirantique",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "quietum",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "lapis,",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "vegrandis",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "ascenditur",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "frigus",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "consilium",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "pauper,",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "multum",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "experimento",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "imo,",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "key",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "ferrum,",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "una",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "lignum",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "flat",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "viginti",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "pelle",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "risu",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "rimula",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "violet,",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "salire",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "Praesent",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "octo,",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "villa",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "concurrunt",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "radix",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "emptum",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "resuscitabo",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "solve",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "ferrum",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "sive",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "dis",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "septem,",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "paragraph",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "tertia",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "numquid",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "Posside",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "capillum",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "describere",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "cocus",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "pavimentum",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "aut",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "ex",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "comburet",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "tumulus",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "salvum",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "cat",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "century",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "considerate",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "type",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "legem",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "aliquam",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "litore",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "rescriptum",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "phrase",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "silentium",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "tall",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "arenam,",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "solum",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "volumen",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "temperatus",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "digitus",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "industria",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "value",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "pugna",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "mendacium",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "percute",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "excitant,",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "naturalis",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "visum",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "sensum",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "capitale",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "nolo",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "cathedra",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "periculum,",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "fructus",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "dives",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "densa",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "miles,",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "aliquid",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "operantur,",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "praxi",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "separatum",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "difficile",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "medicus",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "obsecro,",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "protegat",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "meridies",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "seges,",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "modern",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "aliquid",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "ictus",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "discipulo",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "anguli",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "pars",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "copia",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "cuius",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "locant",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "orbis",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "character",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "insect",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "captus",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "tempus",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "indica",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "radio",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "Locutusque",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atom",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "hominis",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "rerum",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "effectus",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "electrica",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "sperare",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "osse",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "cogitis",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "imaginari",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "praestare",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "conveniunt",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "ita",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "mitis",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "mulier,",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "dux",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "Suspicor",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "necesse",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "acutum,",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "alae",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "partum",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "proximus,",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "lava",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "Biblia",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "potius,",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "turba,",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "frumentum,",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "compare",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "poem",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "nervo",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "tintinnabulum",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "ex",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "cibum",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "fricabis",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tube",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "celebre",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "pupa",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "fluvius",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "timore",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "visum",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "tenuis",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "triangulo",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planeta",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "festinate",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "princeps",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "coloniam",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "horologium",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "mea",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "tatem",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "intrant",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "major",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "recentes",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "quaerere",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "mitto",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "flavis",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "gun",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "sino",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "print",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "mortuus,",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "locum",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "deserto",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "sectam",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "current",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "vitae",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "surrexit",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "perveniunt",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "magister",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "semita",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "parente",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "litore",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "divisione",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "linteum",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "substantia",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "gratiam",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "Pertinent",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "post",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "expendas",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "chorda",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "adipem",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "gavisus",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "original",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "share",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "statio",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "Pater",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "panem",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "Testificor",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "proprium",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "offer",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segmentum",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "servus",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "anas,",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "instant",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "ipsum",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "gradum",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "frequentare",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "pullus",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "carissimi,",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "hostem",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "respondeo",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "potum",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "incididunt",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "auxilium",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "oratio",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "natura",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "range",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "vapor",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "motus",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "semita",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "liquidum",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "stipes",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "intelligantur",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "quotus",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "dentium",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "testa",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "cervicibus",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "dolor",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "sugar",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "mortem",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "bellum",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "peritia",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "mulieres,",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "tempore",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "solutio",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magnes",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "argentum,",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "gratias",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "ramum",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "par",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "etiamne",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "maxime",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "fig",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "timere",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "ingenti",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "soror",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "ferrum,",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "disputant",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "et deinceps",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "simile",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "dirige",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "experientiam,",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "Octoginta",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "pupillam",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "emptum",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "ductus",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "picem",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "tunica",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "missa",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "pecto",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "cohors",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "fune",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "labente",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "vincere",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "somniatis",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "ad vesperum",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "condicionis",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "pascuntur",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "ferramentum",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "totalis",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "prima",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "olfactus",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "vallis",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "neque",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "duplex",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "cathedra",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "perseverant",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "clausus",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "cursus",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "hat",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "vende,",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "successu",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "comitatu",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "Auferatur",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "eventus",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "particularis",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "multum",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "natant",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "term",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "oppositi",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "uxorem",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "calceum",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "umero",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "expandit",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "disponere,",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "castra",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "confingunt",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "bombicis",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "natus,",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "statuere",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "quart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "novem,",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "dolor",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "sonus",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "plana",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "forte",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "congregate",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "taberna",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "tractum",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "mittite",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "luceat",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "proprietate",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "column",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "moleculo",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "eligere,",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "iniuriam",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "gray",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "iterum",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "requirunt",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "lata,",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "praeparabit",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "sal,",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "nasum",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "plural",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "iratus",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "clamium",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "continentem,",
+        "en": "continent"
+    }
+}

@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "si",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "I",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "e tij",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "q\u00eb",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "ai",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "ishte",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "p\u00ebr",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "n\u00eb",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "jan\u00eb",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "me",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "ata",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "jet\u00eb",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "n\u00eb",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "nj\u00eb",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "kam",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "kjo",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "nga",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "nga",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "hot",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "fjal\u00eb",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "por",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "\u00e7far\u00eb",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "disa",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "\u00ebsht\u00eb",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "ajo",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "ju",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "ose",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "kishte",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "thon\u00eb",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "i",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "n\u00eb",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "dhe",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "nj\u00eb",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "n\u00eb",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "ne",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "mund",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "jasht\u00eb",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "tjet\u00ebr",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "ishin",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "e cila",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "b\u00ebj",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "tyre",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "koha",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "n\u00ebse",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "do",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "si",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "tha",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "nj\u00eb",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "\u00e7do",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "them",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "b\u00ebn",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "i vendosur",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tre",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "dua",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "ajrit",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "mir\u00eb",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "edhe",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "luajn\u00eb",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "vog\u00ebl",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "fund",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "vendos",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "sht\u00ebpi",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "lexoj",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "dor\u00eb",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "port",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "i madh",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "magji",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "t\u00eb shtoni",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "edhe",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "tok\u00eb",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "k\u00ebtu",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "duhet",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "i madh",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "i lart\u00eb",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "i till\u00eb",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "ndjek",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "akt",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "pse",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "k\u00ebrkoj",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "burra",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "ndryshim",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "shkoi",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "drit\u00eb",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "lloj",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "nga",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "duhet",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "sht\u00ebpi",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "foto",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "p\u00ebrpiqem",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "na",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "p\u00ebrs\u00ebri",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "kafsh\u00ebve",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "pik\u00eb",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "n\u00ebn\u00eb",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "bot\u00ebror",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "af\u00ebr",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "nd\u00ebrtuar",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "vet\u00eb",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "toka",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "baba",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "ndonj\u00eb",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "t\u00eb reja",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "pun\u00eb",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "pjes\u00eb",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "marr\u00eb",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "marr\u00eb",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "vendi",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "b\u00ebr\u00eb",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "jetojn\u00eb",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "ku",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "pas",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "mbrapa",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "pak",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "vet\u00ebm",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "rreth",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "njeri",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "vit",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "erdhi",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "show",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "\u00e7do",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "mir\u00eb",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "mua",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "jap",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "ton\u00eb",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "n\u00ebn",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "Emri",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "shum\u00eb",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "me an\u00eb t\u00eb",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "vet\u00ebm",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "form\u00eb",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "fjali",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "i madh",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "mendoj",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "thon\u00eb",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "t\u00eb ndihmoj\u00eb",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "ul\u00ebt",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "linj\u00eb",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "ndryshoj",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "kthes\u00eb",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "shkaku",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "shum\u00eb",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "mesatare",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "para",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "veprim",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "drejt\u00eb",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "djal\u00eb",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "vjet\u00ebr",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "shum\u00eb",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "i nj\u00ebjt\u00eb",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "ajo",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "t\u00eb gjith\u00eb",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "atje",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "kur",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "up",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "p\u00ebrdorimi",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "tuaj",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "m\u00ebnyr\u00eb",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "p\u00ebr",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "shum\u00eb",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "pastaj",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "ata",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "shkruaj",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "do",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "si",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "k\u00ebshtu",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "k\u00ebto",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "e saj",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "gjat\u00eb",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "b\u00ebj",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "gj\u00eb",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "shih",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "at\u00eb",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "dy",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "ka",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "shikoni",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "m\u00eb shum\u00eb",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "dit\u00eb",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "mund",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "shkoj",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "eja",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "b\u00ebri",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "numri",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "z\u00eb",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "asnj\u00eb",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "m\u00eb",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "njer\u00ebz",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "tim",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "mbi",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "di",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "uj\u00eb",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "se",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "thirrje",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "par\u00eb",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "q\u00eb",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "mund",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "posht\u00eb",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "an\u00eb",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "qen\u00eb",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "tani",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "gjeni",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "kreu",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "q\u00ebndrim",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "vet",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "faqe",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "duhet",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "vendi",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "gjetur",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "p\u00ebrgjigje",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "shkoll\u00eb",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "rritet",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "Studimi",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "ende",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "m\u00ebsoj",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "bim\u00eb",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "mbuluar",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "ushqim",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "dielli",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "kat\u00ebr",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "n\u00eb mes t\u00eb",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "shtet",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "mbaj",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "sy",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "kurr\u00eb",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "fundit",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "le t\u00eb",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "mendimi",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "qytet",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "pem\u00eb",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "kalojn\u00eb",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "ferm\u00eb",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "v\u00ebshtir\u00eb",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "fillimi",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "mund",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "histori",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "pa",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "tani",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "deti",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "barazim",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "la",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "von\u00eb",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "drejtuar",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "nuk",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "nd\u00ebrsa",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "shtypi",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "af\u00ebr",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "nat\u00ebn",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "real",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "jet\u00eb",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "pak",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "veri",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "libri",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "kryer",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "mori",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "shkenca",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "hani",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "dhom\u00eb",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "mik",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "filloi",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "Ideja",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "peshk",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "mal",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "stop",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "dikur",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "baz\u00eb",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "d\u00ebgjoj\u00eb",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "kal\u00eb",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "prer\u00eb",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "i sigurt",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "shikojn\u00eb",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "ngjyra",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "fytyr\u00eb",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "dru",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "kryesore",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "hapur",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "duket",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "s\u00eb bashku",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "tjet\u00ebr",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "e bardh\u00eb",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "f\u00ebmij\u00eb",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "t\u00eb filloj\u00eb",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "mori",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "eci",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "shembull",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "leht\u00ebsuar",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "let\u00ebr",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "grup",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "gjithmon\u00eb",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "muzik\u00eb",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "ato",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "t\u00eb dy",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "mark",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "shpesh",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "let\u00ebr",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "deri",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "milje",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "lumi",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "makin\u00eb",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "k\u00ebmb\u00ebt",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "kujdes",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "i dyt\u00eb",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "mjaft",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "plain",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "vajz\u00eb",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "zakonshme",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "i ri",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "gati",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "sip\u00ebr",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "kurr\u00eb",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "i kuq",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "lista",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "ndon\u00ebse",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "t\u00eb ndjehen t\u00eb",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "flasim",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "zog",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "shpejt",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "trupi",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "qen",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "familja",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "drejtp\u00ebrdrejt\u00eb",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "paraqesin",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "largohen",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "song",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "t\u00eb matur",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "dyer",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "produkt",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "e zez\u00eb",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "i shkurt\u00ebr",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "num\u00ebror",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "klas\u00eb",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "era",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "pyetje",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "ndodh\u00eb",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "i plot\u00eb",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "anije",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "zon\u00eb",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "gjysm\u00eb",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "shk\u00ebmb",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "m\u00ebnyr\u00eb",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "zjarri",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "jug",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "problemi",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "pjes\u00eb",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "tha",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "dinte",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "kaloj",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "q\u00eb prej",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "top",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "t\u00ebr\u00eb",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "mbreti",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "rrug\u00eb",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "in\u00e7",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "shumohen",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "asgj\u00eb",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "Sigurisht",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "q\u00ebndrojn\u00eb",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "rrot\u00eb",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "plot\u00eb",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "forca",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "blu",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "objekt",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "vendos\u00eb",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "sip\u00ebrfaqe",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "thell\u00eb",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "moon",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "ishull",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "k\u00ebmb\u00eb",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "sistemi",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "i z\u00ebn\u00eb",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "prov\u00eb",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "rekord",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "vark\u00eb",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "p\u00ebrbashk\u00ebt",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "ari",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "t\u00eb jet\u00eb e mundur",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "aeroplan",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "N\u00eb vend",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "that\u00eb",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "pyes veten",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "qesh",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "mij\u00eb",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "m\u00eb par\u00eb",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "vrapoi",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "kontrolloj",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "loj\u00eb",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "form\u00eb",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "barazojn\u00eb",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "Miss",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "solli",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "ngrohjes",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "bor\u00eb",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "gom\u00eb",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "sjell\u00eb",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "po",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "i larg\u00ebt",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "mbushur",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "lindje",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "boj\u00eb",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "gjuha",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "n\u00eb mesin e",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "nj\u00ebsi",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "fuqia",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "qytet",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "gjob\u00eb",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "sigurt",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "fluturojn\u00eb",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "bien",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "t\u00eb \u00e7oj\u00eb",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "qaj",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "err\u00ebt",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "makin\u00eb",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "sh\u00ebnim",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "pres",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "Plani",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "shif\u00ebr",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "yll",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "kuti",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "em\u00ebr",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "fush\u00eb",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "tjet\u00ebr",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "sakt\u00eb",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "gjendje",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "kile",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "e b\u00ebr\u00eb",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "bukuri",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "makin\u00eb",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "q\u00ebndroi",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "p\u00ebrmbaj",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "para",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "m\u00ebsojn\u00eb",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "jav\u00eb",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "p\u00ebrfundimtar",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "dha",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "e gjelb\u00ebr",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "shpejt\u00eb",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "zhvilloj",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "oqean",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "ngroht\u00eb",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "pa pages\u00eb",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minut\u00eb",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "fort\u00eb",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "t\u00eb ve\u00e7ant\u00eb",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "mendja",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "prapa",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "qart\u00eb",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "bisht",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "prodhojn\u00eb",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "fakti",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "hap\u00ebsir\u00eb",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "d\u00ebgjuar",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "mir\u00eb",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "or\u00eb",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "m\u00eb mir\u00eb",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "e v\u00ebrtet\u00eb",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "gjat\u00eb",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "nj\u00ebqind",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "pes\u00eb",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "kujtoj",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "hapi",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "fillim",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "mbaj\u00eb",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "per\u00ebndim",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "terren",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "interesi",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "arrijn\u00eb",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "shpejt\u00eb",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "folje",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "k\u00ebndoj",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "d\u00ebgjoni",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "gjasht\u00eb",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "Tabela",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "udh\u00ebtimit",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "m\u00eb pak",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "m\u00ebngjes",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "dhjet\u00eb",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "thjesht\u00eb",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "disa",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "zanore",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "drejt",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "luft\u00eb",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "v\u00eb",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "kund\u00ebr",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "model",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "i ngadalsh\u00ebm",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "qend\u00ebr",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "dashuri",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "person",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "parat\u00eb",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "sh\u00ebrbejn\u00eb",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "duket",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "rrug\u00eb",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "Harta",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "shi",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "rregull",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "qeverisur",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "t\u00ebrheq",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "ftoht\u00eb",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "njoftim",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "z\u00eb",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "energjis\u00eb",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "gjueti",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "mundshme",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "krevat",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "v\u00eblla",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "vez\u00eb",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "udh\u00ebtim",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "qeliz\u00eb",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "besoj",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "ndoshta",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "marr",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "papritur",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "t\u00eb llogaris\u00eb",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "katrore",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "arsyeja",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "Gjat\u00ebsia",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "p\u00ebrfaq\u00ebsojn\u00eb",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "art",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "subjekt",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "rajoni",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "Madh\u00ebsia",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "ndryshojn\u00eb",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "vendosen",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "flasin",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "pesha",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "p\u00ebrgjithshme",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "akull",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "\u00e7\u00ebshtje",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "rrethi",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "pal\u00eb",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "p\u00ebrfshijn\u00eb",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "ndarje",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "rrokje",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "ndjer\u00eb",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "i madh",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "top",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "ende",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "vala",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "r\u00ebnie",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "zemra",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "jam",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "pranish\u00ebm",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "r\u00ebnd\u00eb",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "valle",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "motor",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "pozita",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "krah",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "t\u00eb gjer\u00eb",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "lundrojn\u00eb",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "material",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "fraksion",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "pyjeve",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "rri",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "gar\u00eb",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "dritare",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "dyqan",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "ver\u00eb",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "tren",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "gjum\u00eb",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "provoj",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "i vet\u00ebm",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "k\u00ebmb\u00eb",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "ushtrim",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "mur",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "kapur",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "mali",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "uroj",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "qiell",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "bordi",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "lumturi",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "dimrit",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "sat",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "shkruar",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "egra",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "instrument",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "mbajtur",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "qelqi",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "bari",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "lop\u00eb",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "pun\u00eb",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "edge",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "shenj\u00eb",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "vizit\u00eb",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "e kaluara",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "e but\u00eb",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "arg\u00ebtim",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "ndritshme",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "gazit",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "mot",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "muaj",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "milion",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "mbajn\u00eb",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "finish",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "t\u00eb lumtur",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "shpresoj",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "lule",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "vesh",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "\u00e7uditshme",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "shkuar",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "tregtis\u00eb",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "melodi",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "udh\u00ebtim",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "zyr\u00eb",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "marr\u00eb",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "rresht",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "goj\u00eb",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "sakt\u00eb",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "simbol",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "vdes",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "m\u00eb pak",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "probleme",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "b\u00ebrtas",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "me p\u00ebrjashtim t\u00eb",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "shkroi",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "far\u00eb",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "ton",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "bashkohen",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "sugjerojn\u00eb",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "i past\u00ebr",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "pushim",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "lady",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "oborr",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "ngrihem",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "keq",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "goditje",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "naft\u00ebs",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "gjak",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "prek",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "u rrit",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "cent",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "p\u00ebrzierje",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "ekipi",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "tela",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "kosto",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "humbur",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "kafe",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "vesh",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "kopsht",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "barabart\u00eb",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "d\u00ebrguar",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "zgjidhni",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "ra",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "p\u00ebrshtaten",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "rrjedh\u00eb",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "drejt\u00eb",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "banka",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "mbledh\u00eb",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "ruani",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "kontrollit",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "dhjetor",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "vesh",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "tjet\u00ebr",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "mjaft",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "thyen",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "rasti",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "mesme",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "vrasin",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "djali",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "liqeni",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "moment",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "shkall\u00eb",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "me z\u00eb t\u00eb lart\u00eb",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "pranver\u00eb",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "v\u00ebzhguar",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "f\u00ebmij\u00eb",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "drejt",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "bashk\u00ebting\u00ebllore",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "komb",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "fjalor",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "qum\u00ebsht",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "shpejt\u00ebsi",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "Metoda",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organ",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "paguajn\u00eb",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "mosha",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "seksion",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "veshje",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "cloud",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "surpriz\u00eb",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "i qet\u00eb",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "guri",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "vog\u00ebl",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "ngjit",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "i ftoht\u00eb",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "dizajn",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "varf\u00ebr",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "shum\u00eb",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "eksperiment",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "fund",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "ky\u00e7",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "hekuri",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "i vet\u00ebm",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "shkop",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "banes\u00eb",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "nj\u00ebzet",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "l\u00ebkur\u00ebs",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "buz\u00ebqeshje",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "rrudh\u00eb",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "vrim\u00eb",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "k\u00ebrcejn\u00eb",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "f\u00ebmij\u00eb",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "tet\u00eb",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "fshati",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "takohen",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "rr\u00ebnj\u00eb",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "blej",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "t\u00eb rritur",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "zgjidhur",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "metalike",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "n\u00ebse",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "shtytje",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "shtat\u00eb",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "paragraf",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "tret\u00eb",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "duhet",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "mbajtur",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "flok\u00ebt",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "p\u00ebrshkruajn\u00eb",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "kuzhinier",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "kati",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "ose",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "Rezultati",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "djeg",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "kod\u00ebr",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "i sigurt",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "mace",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "shekulli",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "konsiderojn\u00eb",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "lloj",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "ligji",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "bit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "Bregdeti",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "kopje",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "fraza",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "heshtur",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "i gjat\u00eb",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "r\u00ebr\u00eb",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "tok\u00ebs",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "roll",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "temperatura",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "gisht",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "industri",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "Vlera",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "lufta",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "g\u00ebnjesht\u00ebr",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "rrah",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "nxeh",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "natyrore",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "view",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "kuptim",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "kapitalit",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "nuk do t\u00eb",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "karrige",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "rrezik",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "fruta",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "i pasur",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "i trash\u00eb",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "ushtar",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "procesi",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "operoj",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "praktik\u00eb",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "t\u00eb ndara",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "i v\u00ebshtir\u00eb",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "mjeku",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "ju lutem",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "mbrojtur",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "mesdit\u00eb",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "kulture",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "moderne",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "element",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "hit",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "studenti",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "qoshe",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "parti",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "furnizim",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "t\u00eb cilit",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "gjetur",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "unaz\u00eb",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "karakter",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "insekteve",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "kapur",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "periudha",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "tregojn\u00eb",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "radio",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "foli",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atom",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "njer\u00ebzore",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "historia",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "efekti",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "elektrike",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "presin",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "kockave",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "hekurudhor",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "imagjinoni",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "siguroj\u00eb",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "pajtohem",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "k\u00ebshtu",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "i but\u00eb",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "grua",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "kapiten",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "guess",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "nevojshme",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "mpreht\u00eb",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "krahut",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "krijuar",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "fqinji",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "laj",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "lakuriq nate",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "m\u00eb tep\u00ebr",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "turm\u00eb",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "misri",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "t\u00eb krahasuar",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "poem\u00eb",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "string",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "zile",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "varet",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "mish",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "fshij",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tub",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "i famsh\u00ebm",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dollar",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "lum\u00eb",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "frik\u00eb",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "pamje",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "i holl\u00eb",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "trek\u00ebnd\u00ebsh",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planet",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "nxitim",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "shefi",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "koloni",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "ora",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "minave",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "kravat\u00eb",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "hyjn\u00eb",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "i madh",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "fresk\u00ebt",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "k\u00ebrko",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "d\u00ebrgoni",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "verdh\u00eb",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "arm\u00eb",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "lejojn\u00eb",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "print",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "vdekur",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "vend",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "shkret\u00ebtir\u00eb",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "kostum",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "aktuale",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "ashensor",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "u rrit",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "arrijn\u00eb",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "mjesht\u00ebr",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "udh\u00eb",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "prind",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "breg",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "ndarje",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "flet\u00eb",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "substanc\u00eb",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "favor",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "lidhur",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "pas",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "shpenzojn\u00eb",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "akord",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "yndyr\u00eb",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "k\u00ebnaqur",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "origjinal",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "pjesa",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "stacion",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "baba",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "buk\u00eb",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "ngarkuar",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "i duhur",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "Oferta",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segment",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "rob",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "duck",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "i menj\u00ebhersh\u00ebm",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "tregu",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "shkall\u00eb",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "populloj",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "zogth",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "i dashur",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "armik",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "p\u00ebrgjigjen",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "pije",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "ndodhin",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "mb\u00ebshtetje",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "fjalim",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "natyra",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "varg",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "avull",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "l\u00ebvizje",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "rrug\u00eb",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "l\u00ebngshme",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "log",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "do t\u00eb thoshte",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "her\u00ebs",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "dh\u00ebmb\u00ebt",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "shell",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "qaf\u00eb",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "oksigjen",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "sheqer",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "vdekja",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "mjaft",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "aft\u00ebsi",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "grat\u00eb",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "sezon",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "zgjidhje",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magnet",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "argjendi",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "thank",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "deg\u00eb",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "ndeshje",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "prapashtes\u00eb",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "sidomos",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "fiku",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "i frik\u00ebsuar",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "i madh",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "motra",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "\u00e7eliku",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "diskutuar",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "p\u00ebrpara",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "ngjashme",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "udh\u00ebzoj\u00eb",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "p\u00ebrvoj\u00eb",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "pik\u00eb",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "moll\u00eb",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "bler\u00eb",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "udh\u00ebhequr",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "katran",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "pallto",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "n\u00eb mas\u00eb",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "kart\u00eb",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "band",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "litar",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "shqip",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "fitore",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "\u00ebnd\u00ebrr",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "mbr\u00ebmje",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "kusht",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "ushqim",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "mjet",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "totale",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "themelore",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "er\u00eb",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "lugin\u00eb",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "as",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "dyfisht\u00eb",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "vend",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "vazhdojn\u00eb",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "bllok",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "tabel\u00eb",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "hat",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "shes",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "suksesi",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "Kompania",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "zbres",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "ngjarje",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "i ve\u00e7ant\u00eb",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "marr\u00ebveshje",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "notoj",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "term",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "kund\u00ebrta",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "gruaja",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "k\u00ebpuc\u00ebve",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "shpatull",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "p\u00ebrhap",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "organizoni",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "kampi",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "trillime",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "pambuku",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "Born",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "p\u00ebrcaktuar",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "kuart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "n\u00ebnt\u00eb",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "kamion",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "zhurm\u00eb",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "nivel",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "shans",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "mblidhen",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "dyqan",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "shtrirje",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "hedh",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "shndrit",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "pron\u00eb",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "kolona",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "molekul\u00eb",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "zgjidhni",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "gabuar",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "gri",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "p\u00ebrs\u00ebritje",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "k\u00ebrkojn\u00eb",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "gjer\u00eb",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "p\u00ebrgatis\u00eb",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "krip\u00eb",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "hund\u00eb",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "shum\u00ebs",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "zem\u00ebrimi",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "pretendim",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "kontinenti",
+        "en": "continent"
+    }
+}

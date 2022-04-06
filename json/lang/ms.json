@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "sebagai",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "saya",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "beliau",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "yang",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "beliau",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "adalah",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "untuk",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "pada",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "adalah",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "dengan",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "mereka",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "menjadi",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "di",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "satu",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "mempunyai",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "ini",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "daripada",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "oleh",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "panas",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "perkataan",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "tetapi",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "apa",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "beberapa",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "adalah",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "ia",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "anda",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "atau",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "mempunyai",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "yang",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "daripada",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "kepada",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "dan",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "yang",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "dalam",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "kami",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "boleh",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "keluar",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "lain",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "adalah",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "yang",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "melakukan",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "mereka",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "masa",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "jika",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "akan",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "bagaimana",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "berkata",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "seorang",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "setiap",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "memberitahu",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "tidak",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "set",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tiga",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "mahu",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "udara",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "baik",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "juga",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "bermain",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "kecil",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "akhir",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "meletakkan",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "rumah",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "membaca",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "tangan",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "pelabuhan",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "besar",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "mengeja",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "menambah",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "walaupun",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "tanah",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "di sini",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "mesti",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "besar",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "tinggi",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "seperti",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "mengikuti",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "tindakan",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "mengapa",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "meminta",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "lelaki",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "perubahan",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "pergi",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "cahaya",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "jenis",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "off",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "perlu",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "rumah",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "gambar",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "cuba",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "kami",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "lagi",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "haiwan",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "titik",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "ibu",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "dunia",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "berhampiran",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "membina",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "diri",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "bumi",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "bapa",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "apa-apa",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "baru",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "kerja",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "sebahagian",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "mengambil",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "mendapatkan",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "tempat",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "dibuat",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "hidup",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "di mana",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "selepas",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "kembali",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "kecil",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "hanya",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "pusingan",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "lelaki",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "tahun",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "datang",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "persembahan",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "setiap",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "baik",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "saya",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "memberi",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "kami",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "di bawah",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "nama",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "sangat",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "melalui",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "hanya",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "bentuk",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "hukuman",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "besar",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "berfikir",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "mengatakan",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "membantu",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "rendah",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "talian",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "berbeza",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "seterusnya",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "punca",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "banyak",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "bermakna",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "sebelum",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "langkah",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "betul",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "budak",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "lama",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "terlalu",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "sama",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "dia",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "semua",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "ada",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "apabila",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "sehingga",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "penggunaan",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "anda",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "cara",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "mengenai",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "banyak",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "kemudian",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "mereka",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "menulis",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "akan",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "seperti",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "jadi",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "ini",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "beliau",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "lama",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "membuat",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "perkara",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "lihat",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "dia",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "dua",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "mempunyai",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "melihat",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "lebih",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "hari",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "boleh",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "pergi",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "datang",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "lakukan",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "bilangan",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "bunyi",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "ada",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "paling",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "orang",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "saya",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "lebih",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "tahu",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "air",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "daripada",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "panggilan",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "pertama",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "yang",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "boleh",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "turun",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "sebelah",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "telah",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "kini",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "mendapati",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "kepala",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "berdiri",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "sendiri",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "laman",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "perlu",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "negara",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "didapati",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "jawapan",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "sekolah",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "berkembang",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "kajian",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "masih",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "belajar",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "tumbuhan",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "perlindungan",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "makanan",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "matahari",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "empat",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "antara",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "negeri",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "menjaga",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "mata",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "tidak pernah",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "lalu",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "mari",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "fikir",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "bandar",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "pokok",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "menyeberangi",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "ladang",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "keras",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "permulaan",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "mungkin",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "cerita",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "saw",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "jauh",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "laut",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "menarik",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "meninggalkan",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "lewat",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "jangka",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "tidak",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "manakala",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "akhbar",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "rapat",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "malam",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "sebenar",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "kehidupan",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "beberapa",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "utara",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "buku",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "menjalankan",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "mengambil",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "sains",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "makan",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "bilik",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "rakan",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "bermula",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "idea",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "ikan",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "gunung",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "berhenti",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "sekali",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "asas",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "mendengar",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "kuda",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "dipotong",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "memastikan",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "menonton",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "warna",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "muka",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "kayu",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "utama",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "terbuka",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "seolah-olah",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "bersama-sama",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "seterusnya",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "putih",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "kanak-kanak",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "mula",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "mendapat",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "berjalan",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "contoh",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "meringankan",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "kertas",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "kumpulan",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "sentiasa",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "muzik",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "yang",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "kedua-dua",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "tanda",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "sering",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "surat",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "sehingga",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "batu",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "sungai",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "kereta",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "kaki",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "penjagaan",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "kedua",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "cukup",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "dataran",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "gadis",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "biasa",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "muda",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "bersedia",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "atas",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "pernah",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "merah",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "senarai",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "walaupun",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "berasa",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "bercakap",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "burung",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "tidak lama lagi",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "badan",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "anjing",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "keluarga",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "langsung",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "menimbulkan",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "meninggalkan",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "lagu",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "mengukur",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "pintu",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "produk",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "hitam",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "pendek",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "angka",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "kelas",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "angin",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "soalan",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "berlaku",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "lengkap",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "kapal",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "kawasan",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "setengah",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "batuan",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "perintah",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "api",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "selatan",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "masalah",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "sekeping",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "memberitahu",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "tahu",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "lulus",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "sejak",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "atas",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "keseluruhan",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "raja",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "jalan",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "inci",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "membiak",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "apa-apa",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "kursus",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "tinggal",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "roda",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "penuh",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "kuasa",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "biru",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "objek",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "membuat keputusan",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "permukaan",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "dalam",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "bulan",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "pulau",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "kaki",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "sistem",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "sibuk",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "ujian",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "rekod",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "bot",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "biasa",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "emas",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "mungkin",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "kapal terbang",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "kedudukan",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "kering",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "tertanya-tanya",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "ketawa",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "ribu",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "lalu",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "berlari",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "semak",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "permainan",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "bentuk",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "menyamakan",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "miss",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "dibawa",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "haba",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "salji",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "tayar",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "membawa",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "ya",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "jauh",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "mengisi",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "timur",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "cat",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "bahasa",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "antara",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "unit",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "kuasa",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "bandar",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "denda",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "tertentu",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "terbang",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "jatuh",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "membawa",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "menangis",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "gelap",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "mesin",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "nota",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "tunggu",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "pelan",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "angka",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "bintang",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "kotak",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "kata nama",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "bidang",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "selebihnya",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "betul",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "dapat",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "pound",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "dilakukan",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "kecantikan",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "pemacu",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "berdiri",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "mengandungi",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "hadapan",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "mengajar",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "minggu",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "akhir",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "memberi",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "hijau",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "cepat",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "membangunkan",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "lautan",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "panas",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "percuma",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minit",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "kuat",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "khas",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "fikiran",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "di belakang",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "jelas",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "ekor",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "menghasilkan",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "fakta",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "ruang",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "mendengar",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "terbaik",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "jam",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "lebih baik",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "benar",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "semasa",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "ratus",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "lima",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "ingat",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "langkah",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "awal",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "memegang",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "barat",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "tanah",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "kepentingan",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "mencapai",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "cepat",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "kata kerja",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "menyanyi",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "mendengar",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "enam",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "jadual",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "perjalanan",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "kurang",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "pagi",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "sepuluh",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "mudah",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "beberapa",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "vokal",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "ke arah",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "perang",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "meletakkan",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "terhadap",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "corak",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "perlahan",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "pusat",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "suka",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "orang",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "wang",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "berkhidmat",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "muncul",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "jalan raya",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "peta",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "hujan",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "peraturan",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "mentadbir",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "menarik",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "sejuk",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "notis",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "suara",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "tenaga",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "memburu",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "kemungkinan",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "katil",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "saudara",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "telur",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "perjalanan",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "sel",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "percaya",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "mungkin",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "mengambil",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "secara tiba-tiba",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "mengira",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "persegi",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "sebab",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "panjang",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "mewakili",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "seni",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "tertakluk",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "rantau",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "saiz",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "berbeza-beza",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "menyelesaikan",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "bercakap",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "berat badan",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "umum",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "ais",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "perkara",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "bulatan",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "pasangan",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "termasuk",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "jurang",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "suku kata",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "merasakan",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "besar",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "bola",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "belum",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "gelombang",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "drop",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "jantung",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "saya",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "sekarang",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "berat",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "tarian",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "enjin",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "kedudukan",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "lengan",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "luas",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "belayar",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "bahan",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "pecahan",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "hutan",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "duduk",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "bangsa",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "tetingkap",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "kedai",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "musim panas",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "kereta api",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "tidur",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "membuktikan",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "tunggal",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "kaki",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "senaman",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "dinding",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "tangkapan",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "gunung",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "ingin",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "langit",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "lembaga",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "kegembiraan",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "musim sejuk",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "Sab",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "bertulis",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "liar",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "instrumen",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "disimpan",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "kaca",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "rumput",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "lembu",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "kerja",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "kelebihan",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "tanda",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "lawatan",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "lalu",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "lembut",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "menyeronokkan",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "terang",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "gas",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "cuaca",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "bulan",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "juta",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "menanggung",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "penamat",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "gembira",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "berharap",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "bunga",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "pakaian",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "pelik",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "pergi",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "perdagangan",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "melodi",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "perjalanan",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "pejabat",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "menerima",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "berturut-turut",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "mulut",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "tepat",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "simbol",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "mati",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "kurangnya",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "masalah",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "jeritan",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "kecuali",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "menulis",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "benih",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "nada",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "menyertai",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "mencadangkan",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "bersih",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "rehat",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "wanita",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "yard",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "naik",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "buruk",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "tamparan",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "minyak",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "darah",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "menyentuh",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "berkembang",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "peratus",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "campuran",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "pasukan",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "wayar",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "kos",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "hilang",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "coklat",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "memakai",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "taman",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "sama",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "dihantar",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "memilih",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "jatuh",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "muat",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "mengalir",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "adil",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "bank yang",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "mengumpul",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "menyelamatkan",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "kawalan",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "perpuluhan",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "telinga",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "lain",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "agak",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "patah",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "kes",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "pertengahan",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "membunuh",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "anak",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "tasik",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "masa",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "skala",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "kuat",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "musim bunga",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "memerhatikan",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "kanak-kanak",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "lurus",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "konsonan",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "negara",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "kamus",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "susu",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "kelajuan",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "kaedah",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organ",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "membayar",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "umur",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "seksyen",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "pakaian",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "awan",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "kejutan",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "tenang",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "batu",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "kecil",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "pendakian",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "sejuk",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "reka bentuk",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "miskin",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "banyak",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "eksperimen",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "bahagian bawah",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "utama",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "besi",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "tunggal",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "kayu",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "rata",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "dua puluh",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "kulit",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "senyuman",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "berkedut",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "lubang",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "melompat",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "bayi",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "lapan",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "kampung",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "memenuhi",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "akar",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "membeli",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "meningkatkan",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "menyelesaikan",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "logam",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "sama ada",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "push",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "tujuh",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "perenggan",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "ketiga",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "hendaklah",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "diadakan",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "rambut",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "menggambarkan",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "tukang masak",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "lantai",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "sama ada",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "hasil",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "membakar",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "bukit",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "selamat",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "kucing",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "abad",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "mempertimbangkan",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "Jenis",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "undang-undang",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "sedikit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "pantai",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "salinan",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "frasa",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "senyap",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "tinggi",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "pasir",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "tanah",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "daftar",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "suhu",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "jari",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "industri",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "nilai",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "perjuangan",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "dusta",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "menewaskan",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "merangsang",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "semula jadi",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "pandangan",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "rasa",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "modal",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "tidak akan",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "kerusi",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "bahaya",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "buah-buahan",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "kaya",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "tebal",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "askar",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "proses",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "beroperasi",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "amalan",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "berasingan",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "sukar",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "doktor",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "sila",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "melindungi",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "tengah hari",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "tanaman",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "moden",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "elemen",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "melanda",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "pelajar",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "sudut",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "pihak",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "bekalan",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "yang",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "mengesan",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "cincin",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "watak",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "serangga",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "ditangkap",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "tempoh",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "menunjukkan",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "sejuk",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "bercakap",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "debu",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "manusia",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "sejarah",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "kesan",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "elektrik",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "mengharapkan",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "tulang",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "kereta api",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "bayangkan",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "menyediakan",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "bersetuju",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "dengan itu",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "lembut",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "wanita",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "kapten",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "meneka",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "perlu",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "tajam",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "sayap",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "mewujudkan",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "jiran",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "mencuci",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "kelawar",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "bukan",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "orang ramai",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "jagung",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "membandingkan",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "puisi",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "rentetan",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "loceng",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "bergantung",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "daging",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "sapu",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tiub",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "terkenal",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dolar",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "aliran",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "ketakutan",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "penglihatan",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "nipis",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "segitiga",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planet",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "terburu-buru",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "ketua",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "tanah jajahan",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "jam",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "saya",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "tali leher",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "memasukkan",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "utama",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "segar",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "carian",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "menghantar",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "kuning",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "pistol",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "membolehkan",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "cetak",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "mati",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "tempat",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "padang pasir",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "saman",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "semasa",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "lif",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "meningkat",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "tiba",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "induk",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "trek",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "ibu bapa",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "pantai",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "bahagian",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "lembaran",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "bahan",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "memihak kepada",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "menyambung",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "jawatan",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "menghabiskan",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "kord",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "lemak",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "gembira",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "asal",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "saham",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "stesen",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "ayah",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "roti",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "caj",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "betul",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "tawaran",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segmen",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "hamba",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "itik",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "segera",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "pasaran",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "ijazah",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "mempopulasikan",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "anak ayam",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "sayang",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "musuh",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "membalas",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "minuman",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "berlaku",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "sokongan",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "ucapan",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "alam semula jadi",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "pelbagai",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "stim",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "gerakan",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "jalan",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "cecair",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "log",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "bermakna",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "hasil bahagi",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "gigi",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "shell",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "leher",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "oksigen",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "gula",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "kematian",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "cantik",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "kemahiran",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "wanita",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "musim",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "penyelesaian",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magnet",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "perak",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "terima",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "cawangan",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "perlawanan",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "akhiran",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "terutamanya",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "ara",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "takut",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "besar",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "kakak",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "keluli",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "membincangkan",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "ke hadapan",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "sama",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "membimbing",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "pengalaman",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "Perincian",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "epal",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "membeli",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "membawa",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "padang",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "kot",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "besar-besaran",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "kad",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "band",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "tali",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "slip",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "kemenangan",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "bermimpi",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "petang",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "keadaan",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "makanan",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "alat",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "jumlah",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "asas",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "bau",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "lembah",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "ataupun",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "dua",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "tempat duduk",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "terus",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "blok",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "carta",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "topi",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "menjual",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "kejayaan",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "syarikat",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "tolak",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "acara",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "tertentu",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "perjanjian",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "berenang",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "jangka",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "bertentangan",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "isteri",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "kasut",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "bahu",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "penyebaran",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "mengatur",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "kem",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "mengada-adakan",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "kapas",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "dilahirkan",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "menentukan",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "kuart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "sembilan",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "trak",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "bunyi",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "tahap",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "peluang",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "mengumpul",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "kedai",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "regangan",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "membuang",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "bersinar",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "harta",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "ruangan",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "molekul",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "pilih",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "salah",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "kelabu",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "ulangan",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "memerlukan",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "luas",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "menyediakan",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "garam",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "hidung",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "majmuk",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "kemarahan",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "tuntutan",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "benua",
+        "en": "continent"
+    }
+}

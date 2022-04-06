@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "sezvo",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "ini",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "ake",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "kuti",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "iye",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "aiva",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "nokuti",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "pamusoro",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "ndivo",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "ne",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "ivo",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "kuva",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "pa",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "Poshi",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "vane",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "ichi",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "kubva",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "kubudikidza",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "Hot",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "izwi",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "asi",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "chii",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "vamwe",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "ndiko",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "naro",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "iwe",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "kana",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "aiva",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "ari",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "pamusoro",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "kuti",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "uye",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "munhu",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "mu",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "isu",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "anogona",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "panze",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "mwe",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "vakanga",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "izvo",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "ita",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "zvavo",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "nguva",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "kana",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "chido",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "sei",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "akati",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "chinhu",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "chimwe nechimwe",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "udza",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "anoita",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "seti",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tatu",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "chido",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "mhepo",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "tsime",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "wo",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "tamba",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "diki",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "magumo",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "isa",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "musha",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "verenga",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "ruoko",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "poti",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "guru",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "mushinhiriro",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "wedzera",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "kunyange",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "munda",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "pano",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "fanira",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "guru",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "yakakwirira",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "vakadaro",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "tevera",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "chiito",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "sei",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "kumbira",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "varume",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "chinja",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "akaenda",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "chiedza",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "mhando",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "kure",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "vanoda",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "imba",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "mufananidzo",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "edza",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "isu",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "zvakare",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "mhuka",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "nguva",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "amai",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "nyika",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "pedo",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "kuvaka",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "pachake",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "pasi",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "baba",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "ani",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "itsva",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "basa",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "chidimbu",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "tora",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "tora",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "nzvimbo",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "akaita",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "kurarama",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "apo",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "pashure",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "shure",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "shoma",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "chete",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "denderedzwa",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "murume",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "gore",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "akauya",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "ratidza",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "ose",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "kugona",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "ini",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "ipai",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "yedu",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "pasi",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "zita",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "chaizvo",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "kuburikidza",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "chete",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "fomu",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "mutongo",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "hukuru",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "funga",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "vanoti",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "batsira",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "yakaderera",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "mutsetse",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "wakasiyana",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "chijana",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "chikonzero",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "zvikuru",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "zvinoreva",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "pamberi",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "famba",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "rudyi",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "mukomana",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "yekare",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "wo",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "chete",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "iye",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "zvose",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "ipapo",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "apo",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "vakakwira",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "shandisa",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "dzako",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "nzira",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "pamusoro",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "zhinji",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "ipapo",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "kwavari",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "nyora",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "wakaramba",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "se",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "saka",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "izvi",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "naye",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "refu",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "kuita",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "chinhu",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "ona",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "iye",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "piri",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "ane",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "tsvaka",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "zvimwe",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "zuva",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "wakakonewa",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "famba",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "uya",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "akaita",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "nhamba",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "rira",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "aihwa",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "vakawanda",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "vanhu",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "dzangu",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "pamusoro",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "ziva",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "mvura",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "pane",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "kufona",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "chekutanga",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "ani",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "Chivabvu",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "pasi",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "divi",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "anga",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "ikozvino",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "wana",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "musoro",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "mira",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "pachake",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "peji",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "fanira",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "nyika",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "akawanikwa",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "mhinduro",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "chikoro",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "kura",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "kudzidza",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "vachiri",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "dzidza",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "chirimwa",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "pabutiro",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "chikafu",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "zuva",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "china",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "pakati",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "mamiriro",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "chengeta",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "ziso",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "haana",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "ekupedzisira",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "regai",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "pfungwa",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "guta",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "muti",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "muchinjikwa",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "purazi",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "zvakaoma",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "kutanga",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "simba",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "nyaya",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "saha",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "kure",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "gungwa",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "kuzochera",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "ruboshwe",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "pakunopera",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "manya",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "regai",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "apo",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "dzvanya",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "pedyo",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "husiku",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "zvechokwadi",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "upenyu",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "shoma",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "mawodzanyemba",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "bhuku",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "takura",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "vakatora",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "sainzi",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "udye",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "mukana",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "shamwari",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "akatanga",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "zano",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "hove",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "gomo",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "mira",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "kamwe",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "hwaro",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "nzwa",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "bhiza",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "vendu",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "chokwadi",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "tarisa",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "ruvara",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "uso",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "danda",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "kuru",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "yakazaruka",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "sokuti",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "pamwe chete",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "chinotevera",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "chena",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "vana",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "kutanga",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "akamuka",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "famba",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "muenzaniso",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "unyore",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "bepa",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "boka",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "nguva dzose",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "mumhanzi",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "avo",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "zvose zviri zviviri",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "maka",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "kazhinji",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "tsamba",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "kusvikira",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "maira",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "rwizi",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "motokari",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "tsoka",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "kutarisira",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "chepiri",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "zvakakwana",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "bani",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "musikana",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "garoitika",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "diki",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "gadzirira",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "kumusoro",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "nokusingaperi",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "tsvuku",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "Pamazita",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "Zvisinei",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "nzwa",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "taura",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "shiri",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "nokukurumidza",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "muviri",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "imbwa",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "mhuri",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "chaipoipo",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "pozi",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "siya",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "rwiyo",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "chipimo",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "musuo",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "chigadzirwa",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "nhema",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "pfupi",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "nhamba",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "kirasi",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "mhepo",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "mubvunzo",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "itika",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "yose",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "chikepe",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "nharaunda",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "hafu",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "ibwe",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "hurongwa",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "moto",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "chamhembe",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "dambudziko",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "chidimbu",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "vakaudza",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "aiziva",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "zvakaitika",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "kubva",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "pamusoro",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "ose",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "mambo",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "mugwagwa",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "padiki",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "muwande",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "hapana",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "kosi",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "gara",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "vhiri",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "azere",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "simba",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "bhuruu",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "chinhu",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "kusarudza",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "pamusoro",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "zvakadzama",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "mwedzi",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "chitsuwa",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "rutsoka",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "maitiro",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "takabatikana",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "bvunzo",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "rekodhi",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "chikepe",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "zvakajairika",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "goridhe",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "zvinogoneka",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "ndege",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "panzvimbo",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "akaoma",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "shamisika",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "seka",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "churu",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "kare",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "akamhanya",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "cheki",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "mutambo",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "shepi",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "inofananidza",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "potsa",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "vakauya",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "kupisa",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "chando",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "maneto",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "kuunza",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "ehe",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "kure",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "zadza",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "mabvazuva",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "penda",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "mutauro",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "pakati",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "chikwata",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "simba",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "dhorobha",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "naka",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "vamwe",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "nhunzi",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "kuwa",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "tungamira",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "kuchema",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "rima",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "Machine",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "chitsamba",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "mira",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "urongwa",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "figiri",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "nyeredzi",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "bhokisi",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "pazita",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "munda",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "zororo",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "zvechokwadi",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "vanokwanisa",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "paundi",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "nokuita",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "runako",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "fambisa",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "akamira",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "takura",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "mberi",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "dzidzisa",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "vhiki",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "yokupedzisira",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "akapa",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "girinhi",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "o",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "nokukurumidza",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "kutanga",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "gungwa",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "kwoushamwari",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "vakasununguka",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "Mineti",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "simba",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "chaiwo",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "pfungwa",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "shure",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "pachena",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "muswe",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "kubereka",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "chokwadi",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "nzvimbo",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "akanzwa",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "yakanakisisa",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "awa",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "nane",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "zvechokwadi",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "munguva",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "zana",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "shanu",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "yeuka",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "danho",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "mangwanani",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "bata",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "madokero",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "ivhu",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "mubereko",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "kusvika",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "kutsanya",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "chiito",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "imba",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "teerera",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "nhanhatu",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "tafura",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "famba",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "zvishoma",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "mangwanani",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "gumi",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "nyore",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "akawanda",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "nzvanyira",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "akananga",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "hondo",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "akarara",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "pamusoro",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "muenzaniso",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "nonoka",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "pakati",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "rudo",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "munhu",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "mari",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "kushumira",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "oneka",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "mugwagwa",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "mepu",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "mvura",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "mutemo",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "tonga",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "kweva",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "chando",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "chiziviso",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "izwi",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "simba",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "kuvhima",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "fungidzira",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "mubhedha",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "hanzvadzi konama",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "zai",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "tasva",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "chitokisi",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "tenda",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "zvichida",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "nhonga",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "kasira",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "verenga",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "sikweya",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "chikonzero",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "urefu",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "miririra",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "unyanzvi",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "chidzidzo",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "nharaunda",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "zera",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "siyana",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "gadzikana",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "taura",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "uremu",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "Kazhinji",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "chando",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "nyaya",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "denderedzwa",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "peya",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "sanganisira",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "kamura",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "mabhii",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "akanzwa",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "chikuru",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "bhora",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "asi",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "chinozunguzirwa",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "Donhedza",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "mwoyo",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "ndiri",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "chipo",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "rinorema",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "matambiro",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "injini",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "nzvimbo",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "ruoko",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "rakafara",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "kwasva",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "zvinhu",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "hacho",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "dondo",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "gara",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "rudzi",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "hwindo",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "chitoro",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "chirimo",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "chitima",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "hope",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "ratidza",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "Lone",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "gumbo",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "kusimbisa muviri",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "rusvingo",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "bata",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "pagomo",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "chido",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "denga",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "bhodhi",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "rufaro",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "chando",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "Sat",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "zvakanyorwa",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "nyati",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "chombo",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "akaramba",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "girazi",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "uswa",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "mhou",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "basa",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "mucheto",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "chiratidzo",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "kushanya",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "zvekare",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "nyorovera",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "mafaro",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "jeka",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "mweya",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "mamiriro okunze",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "mwedzi",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "miriyoni",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "bereka",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "pedza",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "fara",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "tarisiro",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "ruva",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "pfeka",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "shamisa",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "akaendepiko",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "tengeserana",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "chuni",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "rwendo",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "hofisi",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "kugamuchira",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "mutsara",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "muromo",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "chaizvoizvo",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "chiratidzo",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "kufa",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "muduku",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "dambudziko",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "kwama",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "kusiya",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "akanyora",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "mhodzi",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "izwi",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "kubatana",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "anoratidza",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "chena",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "zororo",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "mudzimai",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "yadhi",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "simuka",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "zvakaipa",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "furidza",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "mafuta",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "ropa",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "kubata",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "akakura",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "muzana",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "sanganisa",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "chikwata",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "waya",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "mutengo",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "rasika",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "bhurawuni",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "pfeka",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "mubindu",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "enzana",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "akatuma",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "sarudza",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "vakawira",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "fita",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "yerera",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "zvakanaka",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "bhangi",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "unganidza",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "kunze",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "masimba",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "grade",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "nzeve",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "mumwe",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "zvikuru",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "akaputsa",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "mhosva",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "pakati",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "kuuraya",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "mwanakomana",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "nyanza",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "nguva",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "chikero",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "ruzha",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "chitubu",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "kutevedza",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "mwana",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "kururamiswa",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "nzvanyira",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "nyika",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "duramazwi",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "mukaka",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "havukavu",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "nzira",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "nhego",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "kubhadhara",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "zera",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "chidimbu",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "pfeka",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "gore",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "katyamadza",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "nyarara",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "ibwe",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "dikidiki",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "kwira",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "kutonhora",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "patani",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "murombo",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "mugove",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "ekisiperimendi",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "pasi",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "anokosha",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "simbi",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "kuroorwa",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "rutanda",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "pamhama",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "makumi maviri",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "ganda",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "nyemwerera",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "dzakakura",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "mwena",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "janhuka",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "mwana",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "sere",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "musha",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "sangana",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "mudzi",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "tenga",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "simudza",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "gadzira",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "simbi",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "kana",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "kusunda",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "nomwe",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "ndima",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "chetatu",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "ko",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "wakaitwa",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "bvudzi",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "tsanangura",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "kuka",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "uriri",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "kana",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "mugumisiro",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "pisa",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "chikomo",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "ngozi",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "katsi",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "zana remakore",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "funga",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "mhando",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "mutemo",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "chidimbu",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "mhenderekedzo",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "mufananidzo",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "chirevo",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "nyarara",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "reba",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "jecha",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "ivhu",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "rora",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "tembiricha",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "chigunwe",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "indasitiri",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "ukoshi",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "kurwisana",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "manyepo",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "rova",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "fadza",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "dzinongoitika",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "maonero",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "pfungwa",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "guta",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "havazodyari",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "cheya",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "ngozi",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "muchero",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "fuma",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "gobvu",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "musoja",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "urongwa",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "tekenya",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "tsika",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "paradzanisa",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "zvakaoma",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "chiremba",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "ndapota",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "chengetedza",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "masikati",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "chirimwa",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "ano",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "eremendi",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "rova",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "mudzidzi",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "pakona",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "pati",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "zvitengeswa",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "vane",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "tsvaka",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "mhete",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "mutambi",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "kambuyu",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "ukabatwa",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "nguva",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "dzinoratidza",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "redhiyo",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "akataura",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atomu",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "munhu",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "nhoroondo",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "Chaizvoizvo",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "zvemagetsi",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "kutarisira",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "pfupa",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "njanji",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "fungidzira",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "zvinopa",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "kubvumirana",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "saka",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "munyoro",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "mukadzi",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "mukuru",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "kufembera",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "zvakakodzera",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "unopinza",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "bapiro",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "sika",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "muvakidzani",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "geza",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "chiremwaremwa",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "asi",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "mhomho",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "zviyo",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "enzanisa",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "detembo",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "tambo",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "bhero",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "yanzva",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "nyama",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "kwiza",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "chubhu",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "nembiri",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dhora",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "chikova",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "kutya",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "kuona",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "onda",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "Triangle",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "nyika",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "kurumidza",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "ishe",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "nyika yakapambwa",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "chiringazuva",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "zvangu",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "kusingagumi",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "pinda",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "zvikuru",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "tawanda",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "kutsvaka",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "tuma",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "yero",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "pfuti",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "tendera",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "dhinda",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "akafa",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "nzvimbo",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "gwenga",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "svutu",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "zvemazuvano",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "burutso",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "akasimuka",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "svika",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "tenzi",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "njanji",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "mubereki",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "mahombekombe",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "kupesana",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "bepa",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "fuma",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "tsigiro",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "batanidza",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "pambiru",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "shandisa",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "kodhi",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "mafuta",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "fara",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "yepakutanga",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "mugove",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "chiteshi",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "baba",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "chingwa",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "murandu",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "fanira",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "rambidza",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "chipo",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "chidimbu",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "nhapwa",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "dhadha",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "nekukurumidza",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "musika",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "dhigirii",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "vazadze",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "chicks",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "mudiwa",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "muvengi",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "pindura",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "chinwiwa",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "itika",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "tsigira",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "nhaurwa",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "muzvarirwo",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "dungwerungwe",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "chiutsi",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "chitsungo",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "nzira",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "mvura-mvura",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "danda",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "zvaireva",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "quotient",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "mazino",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "deko",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "mutsipa",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "okisijeni",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "shuga",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "rufu",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "runako",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "unyanzvi",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "vakadzi",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "mwaka",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "mhinduro",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magineti",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "sirivha",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "tenda",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "bazi",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "mutambo",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "suffix",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "kunyanya",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "onde",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "afraid",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "kura",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "hanzvadzi sikana",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "simbi",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "kurukura",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "mberi",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "zvakafanana",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "tungamirira",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "ruzivo",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "chibozwa",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "apuro",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "Akatenga",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "akatungamirira",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "nenamo",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "bhachi",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "uremu",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "kadhi",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "bhendi",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "tambo",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "pitikoti",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "hwina",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "rota",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "manheru",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "ezvinhu",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "chikafu",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "turusi",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "muunganidzwa",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "zvinokosha",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "munhuhwi",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "nhika",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "kana",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "kaviri",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "chigaro",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "rambai",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "misa",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "chati",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "heti",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "tengesa",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "budiriro",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "kambani",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "bvisa",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "chiitiko",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "kunyanya",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "dhiri",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "dhidha",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "izwi",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "pakatarisana",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "mukadzi",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "shangu",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "bipito",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "waridza",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "ronga",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "musasa",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "wekuvamba",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "donje",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "zvarwa",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "ona",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "quart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "pfumbamwe",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "rori",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "ruzha",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "terama",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "mukana",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "kuunganidza",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "chitoro",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "tatamuka",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "kukanda",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "penya",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "pfuma",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "mbiru",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "morekuru",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "sarudza",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "zvakaipa",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "gireyi",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "dzokorora",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "zvinoda",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "rwakafara",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "gadzirira",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "munyu",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "mhino",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "uwandu",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "hasha",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "murandu",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "map",
+        "en": "continent"
+    }
+}

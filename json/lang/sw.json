@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "kama",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "mimi",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "yake",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "kwamba",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "yeye",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "mara",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "kwa",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "juu ya",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "wako",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "kwa",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "wao",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "kuwa",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "katika",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "moja",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "na",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "hii",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "kutoka",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "na",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "moto",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "neno",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "lakini",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "nini",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "baadhi",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "ni",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "yake",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "ninyi",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "au",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "alikuwa",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "akaonekana",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "ya",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "kwa",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "na",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "a",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "katika",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "sisi",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "unaweza",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "nje",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "nyingine",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "walikuwa",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "ambayo",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "kufanya",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "yao",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "wakati",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "kama",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "mapenzi",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "jinsi",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "alisema",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "an",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "kila",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "kuwaambia",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "gani",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "kuweka",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tatu",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "wanataka",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "hewa",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "vizuri",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "pia",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "kucheza",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "ndogo",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "mwisho",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "kuweka",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "nyumbani",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "kusoma",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "mkono",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "bandari",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "kubwa",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "Spell",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "kuongeza",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "hata",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "ardhi",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "hapa",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "lazima",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "kubwa",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "high",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "kama",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "kufuata",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "tendo",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "kwa nini",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "kuuliza",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "wanaume",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "mabadiliko ya",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "akaenda",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "mwanga",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "aina",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "mbali",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "haja",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "nyumba",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "picha",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "kujaribu",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "sisi",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "tena",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "mnyama",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "uhakika",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "mama",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "dunia",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "karibu",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "kujenga",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "binafsi",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "dunia",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "baba",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "yoyote",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "mpya",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "kazi",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "sehemu",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "kuchukua",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "kupata",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "mahali",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "alifanya",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "kuishi",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "ambapo",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "baada ya",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "nyuma",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "kidogo",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "tu",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "pande zote",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "mtu",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "mwaka",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "alikuja",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "Onyesha",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "kila",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "nzuri",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "mimi",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "kutoa",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "wetu",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "chini ya",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "jina",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "sana",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "kupitia",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "tu",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "aina",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "hukumu",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "kubwa",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "kufikiri",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "kusema",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "msaada",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "chini",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "line",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "tofauti",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "upande",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "sababu",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "kiasi",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "maana",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "kabla ya",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "hoja",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "haki",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "mvulana",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "umri wa",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "pia",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "sawa",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "yeye",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "kila",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "huko",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "wakati",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "up",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "kutumia",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "yako",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "njia",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "kuhusu",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "wengi",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "kisha",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "yao",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "kuandika",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "ingekuwa",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "kama",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "hivyo",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "haya",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "yake",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "muda mrefu",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "kufanya",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "kitu",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "kuona",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "naye",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "mbili",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "ina",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "kuangalia",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "zaidi",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "siku",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "inaweza",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "kwenda",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "kuja",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "alifanya",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "simu",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "sauti",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "hakuna",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "zaidi",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "watu",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "yangu",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "juu ya",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "kujua",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "maji",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "kuliko",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "simu",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "kwanza",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "ambao",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "inaweza",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "chini",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "upande",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "imekuwa",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "sasa",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "kupata",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "kichwa",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "kusimama",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "mwenyewe",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "ukurasa",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "lazima",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "nchi",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "kupatikana",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "jibu",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "shule",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "kukua",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "utafiti",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "bado",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "kujifunza",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "kupanda",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "cover",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "chakula",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "jua",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "nne",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "kati ya",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "hali",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "kuweka",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "jicho",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "kamwe",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "mwisho",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "basi",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "wazo",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "mji",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "ya mti",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "msalaba",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "shamba",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "ngumu",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "kuanza",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "nguvu",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "hadithi",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "saw",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "mbali",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "bahari",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "kuteka",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "kushoto",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "marehemu",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "kukimbia",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "kufanya si",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "wakati",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "vyombo vya habari",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "karibu",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "usiku",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "halisi",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "maisha",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "chache",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "kaskazini",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "kitabu",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "kubeba",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "alichukua",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "sayansi",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "kula",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "chumba",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "rafiki",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "alianza",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "wazo",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "samaki",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "mlima",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "kuacha",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "mara moja",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "msingi",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "kusikia",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "farasi",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "kata",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "uhakika",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "kuangalia",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "rangi",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "uso",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "mbao",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "kuu",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "wazi",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "wanaonekana",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "pamoja",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "ijayo",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "nyeupe",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "watoto",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "kuanza",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "got",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "kutembea",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "mfano",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "kupunguza",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "karatasi",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "kundi",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "daima",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "muziki",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "wale",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "wote wawili",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "alama",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "mara nyingi",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "barua",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "mpaka",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "maili",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "mto",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "gari",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "miguu",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "huduma",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "pili",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "kutosha",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "wazi",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "msichana",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "kawaida",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "vijana",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "tayari",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "juu",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "milele",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "nyekundu",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "orodha",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "ingawa",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "kujisikia",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "majadiliano",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "ndege",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "hivi karibuni",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "mwili",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "mbwa",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "familia",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "moja kwa moja",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "litasababisha",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "kuondoka",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "wimbo",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "kupima",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "mlango",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "bidhaa",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "nyeusi",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "mfupi",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "numeral",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "darasa",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "upepo",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "swali",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "kutokea",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "kamili",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "meli",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "eneo",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "nusu",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "mwamba",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "ili",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "moto",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "kusini",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "tatizo",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "kipande",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "aliiambia",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "alijua",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "kupita",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "tangu",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "juu",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "zima",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "mfalme",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "mitaani",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "inchi",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "kuzidisha",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "chochote",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "Bila shaka",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "kukaa",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "gurudumu",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "full",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "nguvu",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "bluu",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "kitu",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "kuamua",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "uso",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "kina",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "mwezi",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "kisiwa",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "mguu",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "mfumo",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "busy",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "mtihani",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "rekodi",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "mashua",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "kawaida",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "dhahabu",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "iwezekanavyo",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "ndege",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "badala",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "kavu",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "ajabu",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "kucheka",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "elfu",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "iliyopita",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "mbio",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "kuangalia",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "mchezo",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "sura",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "wanalinganisha",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "miss ya",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "kuletwa",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "joto",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "theluji",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "tairi",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "kuleta",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "ndiyo",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "mbali",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "kujaza",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "mashariki",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "rangi",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "lugha",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "kati ya",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "kitengo",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "nguvu",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "mji",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "faini",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "baadhi ya",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "kuruka",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "kuanguka",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "kusababisha",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "kilio",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "giza",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "mashine",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "note",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "kusubiri",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "mpango",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "takwimu",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "nyota",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "sanduku",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "nomino",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "shamba",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "wengine",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "sahihi",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "uwezo",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "chupa",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "kutenda",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "uzuri",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "gari",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "alisimama",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "vyenye",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "mbele",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "kufundisha",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "wiki",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "mwisho",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "alitoa",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "kijani",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "haraka",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "kuendeleza",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "bahari",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "joto",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "bure",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "dakika",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "nguvu",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "maalum",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "akili",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "nyuma ya",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "wazi",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "mkia",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "kuzalisha",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "ukweli",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "nafasi",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "habari",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "bora",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "saa",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "bora",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "kweli",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "wakati wa",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "mia",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "tano",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "kumbuka",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "hatua",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "mapema",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "kushikilia",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "magharibi",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "ardhi",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "maslahi",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "kufikia",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "haraka",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "kitenzi",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "kuimba",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "kusikiliza",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "sita",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "meza",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "usafiri",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "chini ya",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "asubuhi",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "kumi",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "rahisi",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "kadhaa",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "vowel",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "kuelekea",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "vita",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "kuweka",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "dhidi ya",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "muundo",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "polepole",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "kituo cha",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "upendo",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "mtu",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "fedha",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "kutumika",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "itaonekana",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "barabara",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "ramani",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "mvua",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "utawala",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "serikali",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "kuvuta",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "baridi",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "ilani",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "sauti",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "nishati",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "kuwinda",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "kinachowezekana",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "kitanda",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "ndugu",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "yai",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "safari",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "kiini",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "amini",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "labda",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "kuchukua",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "ghafla",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "kuhesabu",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "mraba",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "sababu",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "urefu",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "kuwakilisha",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "sanaa",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "somo",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "kanda",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "ukubwa",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "kutofautiana",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "kuishi",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "kusema",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "uzito",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "ujumla",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "barafu",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "jambo",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "mzunguko",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "jozi",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "ni pamoja na",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "mgawanyiko",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "silabi",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "waliona",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "kuu",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "mpira",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "bado",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "wimbi",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "kuacha",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "moyo",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "ni",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "sasa",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "nzito",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "ngoma",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "injini",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "nafasi",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "mkono",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "pana",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "meli",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "vifaa",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "sehemu",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "msitu",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "kukaa",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "mbio",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "dirisha",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "kuhifadhi",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "majira ya joto",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "treni",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "usingizi",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "kuthibitisha",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "ya lone",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "mguu",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "zoezi",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "ukuta",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "kukamata",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "mlima",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "unataka",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "anga",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "bodi",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "furaha",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "majira ya baridi",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "ameketi",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "imeandikwa",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "pori",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "chombo",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "naendelea",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "kioo",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "nyasi",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "ng\u2019ombe",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "kazi",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "makali",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "ishara",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "ziara",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "siku za nyuma",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "laini",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "furaha",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "mkali",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "gesi",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "hali ya hewa",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "mwezi",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "milioni",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "kubeba",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "kumaliza",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "furaha",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "matumaini",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "ua",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "nguo",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "ajabu",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "kuondoka",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "biashara",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "kuimba",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "safari",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "ofisi",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "kupokea",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "mstari",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "kinywa",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "halisi",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "ishara",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "kufa",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "angalau",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "shida",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "kelele",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "ila",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "aliandika",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "mbegu",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "tone",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "kujiunga na",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "kupendekeza",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "safi",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "mapumziko",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "mwanamke",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "yadi",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "kupanda",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "mbaya",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "pigo",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "mafuta",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "damu",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "kugusa",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "ilikua",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "cent",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "kuchanganya",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "timu",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "waya",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "gharama",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "waliopotea",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "kahawia",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "kuvaa",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "bustani",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "sawa",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "alimtuma",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "kuchagua",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "akaanguka",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "fit",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "kati yake",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "haki",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "benki",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "kukusanya",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "kuokoa",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "kudhibiti",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "decimal",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "sikio",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "mwingine",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "kabisa",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "kuvunja",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "kesi",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "katikati",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "kuua",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "mwana",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "ziwa",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "wakati",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "wadogo",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "kubwa",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "chemchemi",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "kuchunguza",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "mtoto",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "moja kwa moja",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "consonant",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "taifa",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "kamusi",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "maziwa",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "kasi",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "njia",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "chombo",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "kulipa",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "umri",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "sehemu",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "mavazi",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "wingu",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "mshangao",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "utulivu",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "jiwe",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "vidogo",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "kupanda",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "baridi",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "kubuni",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "maskini",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "mengi",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "majaribio",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "chini",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "ufunguo",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "chuma",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "moja",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "fimbo",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "gorofa",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "ishirini",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "ngozi",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "tabasamu",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "na crease",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "shimo",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "kuruka",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "mtoto",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "nane",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "kijiji",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "kukutana",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "mizizi",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "kununua",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "kuongeza",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "kutatua",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "chuma",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "kama",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "kushinikiza",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "saba",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "aya",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "tatu",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "atakuwa",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "uliofanyika",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "nywele",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "kuelezea",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "mpishi",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "sakafu",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "ama",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "matokeo",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "kuchoma",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "kilima",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "salama",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "paka",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "karne ya",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "kufikiria",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "aina",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "sheria",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "kidogo",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "pwani",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "nakala",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "maneno",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "kimya",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "mrefu",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "mchanga",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "udongo",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "orodha",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "joto",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "kidole",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "sekta ya",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "thamani",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "kupambana",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "uongo",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "kuwapiga",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "kuchochea",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "asili",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "mtazamo",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "maana",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "mji mkuu wa",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "si",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "kiti",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "hatari",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "matunda",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "tajiri",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "nene",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "askari",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "mchakato",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "kazi",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "mazoezi",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "tofauti",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "vigumu",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "daktari",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "tafadhali",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "kulinda",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "saa sita mchana",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "mazao",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "kisasa",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "kipengele",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "hit",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "mwanafunzi",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "kona",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "chama",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "usambazaji",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "ambao",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "Machapisho",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "pete",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "tabia ya",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "wadudu",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "hawakupata",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "kipindi",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "zinaonyesha",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "za Redio",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "alizungumza",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "chembe",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "binadamu",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "historia",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "athari",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "umeme",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "kutarajia",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "mfupa",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "reli",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "kufikiria",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "kutoa",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "kukubaliana",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "hivyo",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "mpole",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "mwanamke",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "nahodha",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "nadhani",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "muhimu",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "mkali",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "mrengo",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "kujenga",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "jirani",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "osha",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "bat kwa",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "badala",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "umati wa watu",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "nafaka",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "kulinganisha",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "shairi",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "kamba",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "kengele",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "hutegemea",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "nyama",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "kusugua",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tube",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "maarufu",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dola",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "mkondo",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "hofu",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "mbele",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "nyembamba",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "pembetatu",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "sayari",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "haraka",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "wakuu",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "koloni",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "saa",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "yangu",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "tie",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "kuingia",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "kuu",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "safi",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "search",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "kutuma",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "njano",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "bunduki",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "kuruhusu",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "magazeti",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "wafu",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "doa",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "jangwa",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "suti",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "sasa",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "kuinua",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "kufufuka",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "kuwasili",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "bwana",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "kufuatilia",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "mzazi",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "pwani",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "mgawanyiko",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "karatasi",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "Dutu",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "neema",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "kuungana",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "baada",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "kutumia",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "gumzo",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "mafuta",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "furaha",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "awali",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "kushiriki",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "kituo cha",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "baba",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "mkate",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "malipo",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "sahihi",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar ya",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "kutoa",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "sehemu",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "mtumwa",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "bata",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "papo",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "soko",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "shahada ya",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "idadi ya",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "kifaranga",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "wapenzi",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "adui",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "jibu",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "kunywa",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "kutokea",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "msaada",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "hotuba",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "asili",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "mbalimbali",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "mvuke",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "mwendo",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "njia",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "kioevu",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "kuingia",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "maana",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "quotient ya",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "meno",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "ganda",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "shingo",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "oksijeni",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "sukari",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "kifo",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "wa pretty",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "ujuzi",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "wanawake",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "msimu",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "ufumbuzi",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "sumaku",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "fedha",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "kuwashukuru",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "tawi",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "mechi",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "suffix",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "hasa",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "mtini",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "hofu",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "kubwa",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "dada",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "chuma",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "kujadili",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "mbele",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "sawa",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "kuongoza",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "uzoefu",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "alama",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "mboni",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "kununuliwa",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "kuongozwa",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "lami",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "kanzu",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "habari",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "kadi",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "bendi",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "kamba",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "kuingizwa",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "kushinda",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "ndoto",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "jioni",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "hali",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "kulisha",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "chombo",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "jumla",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "msingi",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "harufu",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "bonde",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "wala",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "mara mbili",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "kiti cha",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "kuendelea",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "kuzuia",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "chati",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "kofia",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "kuuza",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "mafanikio",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "kampuni",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "Ondoa",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "tukio",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "hasa",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "mpango",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "kuogelea",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "mrefu",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "kinyume",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "mke",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "kiatu",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "bega",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "kuenea",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "kupanga",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "kambi",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "mzulia",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "pamba",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "aliyezaliwa",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "kuamua",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "lita moja",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "tisa",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "lori",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "kelele",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "ngazi ya",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "nafasi",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "kukusanya",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "duka",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "kunyoosha",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "kutupa",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "uangaze",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "mali",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "safu",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "molekuli",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "kuchagua",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "makosa",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "kijivu",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "kurudia",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "zinahitaji",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "pana",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "kuandaa",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "chumvi",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "pua",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "wingi",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "hasira",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "madai",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "bara",
+        "en": "continent"
+    }
+}

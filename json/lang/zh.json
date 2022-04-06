@@ -1,0 +1,3702 @@
+{
+    "A": {
+        "rank": "754",
+        "word": "\u963f",
+        "en": "A"
+    },
+    "People": {
+        "rank": "2",
+        "word": "\u4eba",
+        "en": "People"
+    },
+    "In": {
+        "rank": "734",
+        "word": "\u88e1",
+        "en": "In"
+    },
+    "Can": {
+        "rank": "997",
+        "word": "\u6703",
+        "en": "Can"
+    },
+    "Not": {
+        "rank": "875",
+        "word": "\u672a",
+        "en": "Not"
+    },
+    "She": {
+        "rank": "6",
+        "word": "\u5979",
+        "en": "She"
+    },
+    "Do": {
+        "rank": "978",
+        "word": "\u55ce",
+        "en": "Do"
+    },
+    "Go": {
+        "rank": "312",
+        "word": "\u8d70\u4e86",
+        "en": "Go"
+    },
+    "Also": {
+        "rank": "186",
+        "word": "\u9084",
+        "en": "Also"
+    },
+    "Have": {
+        "rank": "377",
+        "word": "\u90fd\u6709",
+        "en": "Have"
+    },
+    "This": {
+        "rank": "970",
+        "word": "\u9019",
+        "en": "This"
+    },
+    "That": {
+        "rank": "993",
+        "word": "\u8be5",
+        "en": "That"
+    },
+    "Even": {
+        "rank": "807",
+        "word": "\u8fde",
+        "en": "Even"
+    },
+    "Come": {
+        "rank": "382",
+        "word": "\u904e\u4f86",
+        "en": "Come"
+    },
+    "Wish": {
+        "rank": "17",
+        "word": "\u8981",
+        "en": "Wish"
+    },
+    "On": {
+        "rank": "954",
+        "word": "\u4e0a",
+        "en": "On"
+    },
+    "I": {
+        "rank": "19",
+        "word": "\u6211",
+        "en": "I"
+    },
+    "You": {
+        "rank": "769",
+        "word": "\u60a8",
+        "en": "You"
+    },
+    "Of": {
+        "rank": "809",
+        "word": "\u5316",
+        "en": "Of"
+    },
+    "Be": {
+        "rank": "979",
+        "word": "\u88ab",
+        "en": "Be"
+    },
+    "The": {
+        "rank": "235",
+        "word": "\u4e4b",
+        "en": "The"
+    },
+    "He": {
+        "rank": "414",
+        "word": "\u4f0a",
+        "en": "He"
+    },
+    "What": {
+        "rank": "633",
+        "word": "\u9ebd",
+        "en": "What"
+    },
+    "They": {
+        "rank": "643",
+        "word": "\u5011",
+        "en": "They"
+    },
+    "Say": {
+        "rank": "479",
+        "word": "\u8aaa",
+        "en": "Say"
+    },
+    "For": {
+        "rank": "683",
+        "word": "\u66ff",
+        "en": "For"
+    },
+    "Good": {
+        "rank": "642",
+        "word": "\u597d\u597d",
+        "en": "Good"
+    },
+    "It": {
+        "rank": "969",
+        "word": "\u5b83",
+        "en": "It"
+    },
+    "Know": {
+        "rank": "694",
+        "word": "\u77e5",
+        "en": "Know"
+    },
+    "My": {
+        "rank": "33",
+        "word": "\u6211\u7684",
+        "en": "My"
+    },
+    "And": {
+        "rank": "764",
+        "word": "\u5e76",
+        "en": "And"
+    },
+    "Your": {
+        "rank": "35",
+        "word": "\u4f60\u7684",
+        "en": "Your"
+    },
+    "Want": {
+        "rank": "762",
+        "word": "\u60f3\u8981",
+        "en": "Want"
+    },
+    "Only": {
+        "rank": "477",
+        "word": "\u624d",
+        "en": "Only"
+    },
+    "Very": {
+        "rank": "771",
+        "word": "\u975e\u5e38",
+        "en": "Very"
+    },
+    "Both": {
+        "rank": "305",
+        "word": "\u4e24",
+        "en": "Both"
+    },
+    "To": {
+        "rank": "955",
+        "word": "\u7ed9",
+        "en": "To"
+    },
+    "Ah": {
+        "rank": "486",
+        "word": "\u55ef",
+        "en": "Ah"
+    },
+    "How": {
+        "rank": "419",
+        "word": "\u600e\u9ebc",
+        "en": "How"
+    },
+    "Get": {
+        "rank": "621",
+        "word": "\u5f04",
+        "en": "Get"
+    },
+    "Cross": {
+        "rank": "860",
+        "word": "\u4ea4",
+        "en": "Cross"
+    },
+    "No": {
+        "rank": "485",
+        "word": "\u65e0",
+        "en": "No"
+    },
+    "Sample": {
+        "rank": "49",
+        "word": "\u6837",
+        "en": "Sample"
+    },
+    "Fly": {
+        "rank": "50",
+        "word": "\u98de",
+        "en": "Fly"
+    },
+    "Far": {
+        "rank": "51",
+        "word": "\u8fdc",
+        "en": "Far"
+    },
+    "Body": {
+        "rank": "825",
+        "word": "\u8eab\u4e0a",
+        "en": "Body"
+    },
+    "Any": {
+        "rank": "53",
+        "word": "\u4efb\u4f55",
+        "en": "Any"
+    },
+    "Life": {
+        "rank": "707",
+        "word": "\u751f\u547d",
+        "en": "Life"
+    },
+    "Enough": {
+        "rank": "55",
+        "word": "\u591f",
+        "en": "Enough"
+    },
+    "Number": {
+        "rank": "514",
+        "word": "\u6570",
+        "en": "Number"
+    },
+    "Orchid": {
+        "rank": "57",
+        "word": "\u5170",
+        "en": "Orchid"
+    },
+    "Swiss": {
+        "rank": "58",
+        "word": "\u745e",
+        "en": "Swiss"
+    },
+    "Reach": {
+        "rank": "59",
+        "word": "\u8fbe",
+        "en": "Reach"
+    },
+    "Or": {
+        "rank": "747",
+        "word": "\u9084\u662f",
+        "en": "Or"
+    },
+    "Willing": {
+        "rank": "61",
+        "word": "\u613f",
+        "en": "Willing"
+    },
+    "Stem": {
+        "rank": "62",
+        "word": "\u8482",
+        "en": "Stem"
+    },
+    "Do not": {
+        "rank": "983",
+        "word": "\u522b",
+        "en": "Do not"
+    },
+    "Military": {
+        "rank": "64",
+        "word": "\u519b",
+        "en": "Military"
+    },
+    "Positive": {
+        "rank": "65",
+        "word": "\u6b63",
+        "en": "Positive"
+    },
+    "Is not": {
+        "rank": "66",
+        "word": "\u662f\u4e0d\u662f",
+        "en": "Is not"
+    },
+    "Certificate": {
+        "rank": "67",
+        "word": "\u8bc1",
+        "en": "Certificate"
+    },
+    "Need not": {
+        "rank": "68",
+        "word": "\u4e0d\u7528",
+        "en": "Need not"
+    },
+    "Three": {
+        "rank": "69",
+        "word": "\u4e09",
+        "en": "Three"
+    },
+    "Music": {
+        "rank": "70",
+        "word": "\u4e50",
+        "en": "Music"
+    },
+    "Lucky": {
+        "rank": "71",
+        "word": "\u5409",
+        "en": "Lucky"
+    },
+    "Man": {
+        "rank": "253",
+        "word": "\u66fc",
+        "en": "Man"
+    },
+    "Tell": {
+        "rank": "984",
+        "word": "\u544a",
+        "en": "Tell"
+    },
+    "Road": {
+        "rank": "330",
+        "word": "\u9053",
+        "en": "Road"
+    },
+    "But": {
+        "rank": "966",
+        "word": "\u4f46",
+        "en": "But"
+    },
+    "Secondary": {
+        "rank": "78",
+        "word": "\u6b21",
+        "en": "Secondary"
+    },
+    "Dog": {
+        "rank": "79",
+        "word": "\u72d7",
+        "en": "Dog"
+    },
+    "Decide": {
+        "rank": "80",
+        "word": "\u51b3",
+        "en": "Decide"
+    },
+    "Gold": {
+        "rank": "81",
+        "word": "\u91d1",
+        "en": "Gold"
+    },
+    "History": {
+        "rank": "82",
+        "word": "\u53f2",
+        "en": "History"
+    },
+    "Governess": {
+        "rank": "83",
+        "word": "\u59c6",
+        "en": "Governess"
+    },
+    "Department": {
+        "rank": "84",
+        "word": "\u90e8",
+        "en": "Department"
+    },
+    "Are": {
+        "rank": "85",
+        "word": "\u6b63\u5728",
+        "en": "Are"
+    },
+    "Live": {
+        "rank": "424",
+        "word": "\u4f4f",
+        "en": "Live"
+    },
+    "Just": {
+        "rank": "87",
+        "word": "\u521a",
+        "en": "Just"
+    },
+    "Return home": {
+        "rank": "88",
+        "word": "\u56de\u5bb6",
+        "en": "Return home"
+    },
+    "Shellfish": {
+        "rank": "89",
+        "word": "\u8d1d",
+        "en": "Shellfish"
+    },
+    "Must": {
+        "rank": "912",
+        "word": "\u5fc5\u9808",
+        "en": "Must"
+    },
+    "War": {
+        "rank": "92",
+        "word": "\u6218",
+        "en": "War"
+    },
+    "Will not": {
+        "rank": "93",
+        "word": "\u4e0d\u6703",
+        "en": "Will not"
+    },
+    "Husband": {
+        "rank": "384",
+        "word": "\u4e08\u592b",
+        "en": "Husband"
+    },
+    "Feed": {
+        "rank": "95",
+        "word": "\u5582",
+        "en": "Feed"
+    },
+    "Father": {
+        "rank": "767",
+        "word": "\u7238\u7238",
+        "en": "Father"
+    },
+    "Inferior": {
+        "rank": "828",
+        "word": "\u4e9e",
+        "en": "Inferior"
+    },
+    "Sure": {
+        "rank": "98",
+        "word": "\u80af\u5b9a",
+        "en": "Sure"
+    },
+    "Girl": {
+        "rank": "99",
+        "word": "\u5973\u5b69",
+        "en": "Girl"
+    },
+    "World": {
+        "rank": "100",
+        "word": "\u4e16\u754c",
+        "en": "World"
+    },
+    "Must not": {
+        "rank": "101",
+        "word": "\u4e0d\u8981",
+        "en": "Must not"
+    },
+    "Some": {
+        "rank": "306",
+        "word": "\u4e00\u4e9b",
+        "en": "Some"
+    },
+    "Do not know": {
+        "rank": "103",
+        "word": "\u4e0d\u77e5\u9053",
+        "en": "Do not know"
+    },
+    "Can not": {
+        "rank": "104",
+        "word": "\u4e0d\u80fd",
+        "en": "Can not"
+    },
+    "Because": {
+        "rank": "423",
+        "word": "\u56e0\u70ba",
+        "en": "Because"
+    },
+    "Feel": {
+        "rank": "742",
+        "word": "\u611f\u5230",
+        "en": "Feel"
+    },
+    "Hair": {
+        "rank": "107",
+        "word": "\u53d1",
+        "en": "Hair"
+    },
+    "Image": {
+        "rank": "108",
+        "word": "\u50cf",
+        "en": "Image"
+    },
+    "Too": {
+        "rank": "948",
+        "word": "\u592a\u591a",
+        "en": "Too"
+    },
+    "Multi-": {
+        "rank": "111",
+        "word": "\u591a",
+        "en": "Multi-"
+    },
+    "Fight": {
+        "rank": "811",
+        "word": "\u4e89",
+        "en": "Fight"
+    },
+    "Machine": {
+        "rank": "113",
+        "word": "\u673a",
+        "en": "Machine"
+    },
+    "Well": {
+        "rank": "733",
+        "word": "\u597d\u554a",
+        "en": "Well"
+    },
+    "Use": {
+        "rank": "116",
+        "word": "\u7528",
+        "en": "Use"
+    },
+    "His": {
+        "rank": "117",
+        "word": "\u4ed6\u7684",
+        "en": "His"
+    },
+    "Appeal": {
+        "rank": "118",
+        "word": "\u8bc9",
+        "en": "Appeal"
+    },
+    "Moral": {
+        "rank": "119",
+        "word": "\u5fb7",
+        "en": "Moral"
+    },
+    "Call": {
+        "rank": "120",
+        "word": "\u53eb",
+        "en": "Call"
+    },
+    "SANT": {
+        "rank": "122",
+        "word": "\u771f",
+        "en": "SANT"
+    },
+    "Dry": {
+        "rank": "155",
+        "word": "\u5e79",
+        "en": "Dry"
+    },
+    "Heart": {
+        "rank": "124",
+        "word": "\u5fc3",
+        "en": "Heart"
+    },
+    "Ratio": {
+        "rank": "126",
+        "word": "\u6bd4",
+        "en": "Ratio"
+    },
+    "Dead": {
+        "rank": "349",
+        "word": "\u6b7b\u4e86",
+        "en": "Dead"
+    },
+    "Hey": {
+        "rank": "128",
+        "word": "\u563f",
+        "en": "Hey"
+    },
+    "Out": {
+        "rank": "331",
+        "word": "\u51fa\u53bb",
+        "en": "Out"
+    },
+    "Car": {
+        "rank": "130",
+        "word": "\u8f66",
+        "en": "Car"
+    },
+    "About": {
+        "rank": "131",
+        "word": "\u4e00\u4e0b",
+        "en": "About"
+    },
+    "Need": {
+        "rank": "134",
+        "word": "\u9700\u8981",
+        "en": "Need"
+    },
+    "After": {
+        "rank": "826",
+        "word": "\u4ee5\u540e",
+        "en": "After"
+    },
+    "Mom": {
+        "rank": "938",
+        "word": "\u5abd\u5abd",
+        "en": "Mom"
+    },
+    "Wait": {
+        "rank": "750",
+        "word": "\u7b49",
+        "en": "Wait"
+    },
+    "Long": {
+        "rank": "138",
+        "word": "\u957f",
+        "en": "Long"
+    },
+    "Wrong": {
+        "rank": "140",
+        "word": "\u9519",
+        "en": "Wrong"
+    },
+    "Between": {
+        "rank": "142",
+        "word": "\u95f4",
+        "en": "Between"
+    },
+    "Country": {
+        "rank": "144",
+        "word": "\u56fd",
+        "en": "Country"
+    },
+    "Start": {
+        "rank": "706",
+        "word": "\u958b\u59cb",
+        "en": "Start"
+    },
+    "Move": {
+        "rank": "146",
+        "word": "\u52a8",
+        "en": "Move"
+    },
+    "Kill": {
+        "rank": "879",
+        "word": "\u6bba",
+        "en": "Kill"
+    },
+    "At": {
+        "rank": "148",
+        "word": "\u4e8e",
+        "en": "At"
+    },
+    "Seed": {
+        "rank": "149",
+        "word": "\u79cd",
+        "en": "Seed"
+    },
+    "Dan": {
+        "rank": "151",
+        "word": "\u62c5",
+        "en": "Dan"
+    },
+    "Name": {
+        "rank": "341",
+        "word": "\u540d\u5b57",
+        "en": "Name"
+    },
+    "Asshole": {
+        "rank": "153",
+        "word": "\u6df7\u86cb",
+        "en": "Asshole"
+    },
+    "Ceremony": {
+        "rank": "154",
+        "word": "\u793c",
+        "en": "Ceremony"
+    },
+    "Strike": {
+        "rank": "160",
+        "word": "\u51fb",
+        "en": "Strike"
+    },
+    "Beautiful": {
+        "rank": "161",
+        "word": "\u6f02\u4eae",
+        "en": "Beautiful"
+    },
+    "God": {
+        "rank": "797",
+        "word": "\u4e0a\u5e1d",
+        "en": "God"
+    },
+    "How much": {
+        "rank": "163",
+        "word": "\u591a\u5c11",
+        "en": "How much"
+    },
+    "Sea": {
+        "rank": "164",
+        "word": "\u6d77",
+        "en": "Sea"
+    },
+    "Each": {
+        "rank": "165",
+        "word": "\u6bcf",
+        "en": "Each"
+    },
+    "Brother": {
+        "rank": "841",
+        "word": "\u8001\u5144",
+        "en": "Brother"
+    },
+    "Teach": {
+        "rank": "167",
+        "word": "\u6559",
+        "en": "Teach"
+    },
+    "Like": {
+        "rank": "817",
+        "word": "\u559c\u6b61",
+        "en": "Like"
+    },
+    "Single": {
+        "rank": "170",
+        "word": "\u5355",
+        "en": "Single"
+    },
+    "Public": {
+        "rank": "171",
+        "word": "\u516c",
+        "en": "Public"
+    },
+    "Forest": {
+        "rank": "413",
+        "word": "\u68ee",
+        "en": "Forest"
+    },
+    "Female": {
+        "rank": "173",
+        "word": "\u5973",
+        "en": "Female"
+    },
+    "Busy": {
+        "rank": "174",
+        "word": "\u5fd9",
+        "en": "Busy"
+    },
+    "Fire": {
+        "rank": "175",
+        "word": "\u706b",
+        "en": "Fire"
+    },
+    "Bell": {
+        "rank": "176",
+        "word": "\u949f",
+        "en": "Bell"
+    },
+    "Guy": {
+        "rank": "177",
+        "word": "\u5bb6\u4f19",
+        "en": "Guy"
+    },
+    "Branch": {
+        "rank": "178",
+        "word": "\u79d1",
+        "en": "Branch"
+    },
+    "Go back": {
+        "rank": "179",
+        "word": "\u56de\u53bb",
+        "en": "Go back"
+    },
+    "Last": {
+        "rank": "180",
+        "word": "\u6700\u540e",
+        "en": "Last"
+    },
+    "Water": {
+        "rank": "181",
+        "word": "\u6c34",
+        "en": "Water"
+    },
+    "Regardless of": {
+        "rank": "182",
+        "word": "\u4e0d\u7ba1",
+        "en": "Regardless of"
+    },
+    "Wheat": {
+        "rank": "183",
+        "word": "\u9ea6",
+        "en": "Wheat"
+    },
+    "Diarrhea": {
+        "rank": "184",
+        "word": "\u6cfb",
+        "en": "Diarrhea"
+    },
+    "Ghost": {
+        "rank": "185",
+        "word": "\u9b3c",
+        "en": "Ghost"
+    },
+    "Ship": {
+        "rank": "187",
+        "word": "\u8239",
+        "en": "Ship"
+    },
+    "Forever": {
+        "rank": "188",
+        "word": "\u6c38",
+        "en": "Forever"
+    },
+    "Security": {
+        "rank": "189",
+        "word": "\u5b89\u5168",
+        "en": "Security"
+    },
+    "Seoul": {
+        "rank": "454",
+        "word": "\u5c14",
+        "en": "Seoul"
+    },
+    "So": {
+        "rank": "542",
+        "word": "\u5982\u6b64",
+        "en": "So"
+    },
+    "Full": {
+        "rank": "193",
+        "word": "\u6ee1",
+        "en": "Full"
+    },
+    "Wind": {
+        "rank": "194",
+        "word": "\u98ce",
+        "en": "Wind"
+    },
+    "Skin": {
+        "rank": "195",
+        "word": "\u76ae",
+        "en": "Skin"
+    },
+    "Prestige": {
+        "rank": "196",
+        "word": "\u5a01",
+        "en": "Prestige"
+    },
+    "According to": {
+        "rank": "197",
+        "word": "\u636e",
+        "en": "According to"
+    },
+    "Lu": {
+        "rank": "198",
+        "word": "\u9c81",
+        "en": "Lu"
+    },
+    "Turn": {
+        "rank": "199",
+        "word": "\u8f6c",
+        "en": "Turn"
+    },
+    "Phase": {
+        "rank": "200",
+        "word": "\u76f8",
+        "en": "Phase"
+    },
+    "Local": {
+        "rank": "201",
+        "word": "\u5730\u65b9",
+        "en": "Local"
+    },
+    "Hi": {
+        "rank": "204",
+        "word": "\u55e8",
+        "en": "Hi"
+    },
+    "Look": {
+        "rank": "205",
+        "word": "\u770b\u770b",
+        "en": "Look"
+    },
+    "Oneself": {
+        "rank": "206",
+        "word": "\u81ea\u5df1",
+        "en": "Oneself"
+    },
+    "Certainly": {
+        "rank": "207",
+        "word": "\u4e00\u5b9a",
+        "en": "Certainly"
+    },
+    "Thing": {
+        "rank": "951",
+        "word": "\u4e8b",
+        "en": "Thing"
+    },
+    "Scrap": {
+        "rank": "209",
+        "word": "\u5c51",
+        "en": "Scrap"
+    },
+    "Hope": {
+        "rank": "691",
+        "word": "\u5e0c",
+        "en": "Hope"
+    },
+    "Aspx.": {
+        "rank": "212",
+        "word": "\u8909",
+        "en": "Aspx."
+    },
+    "Sense": {
+        "rank": "213",
+        "word": "\u611f",
+        "en": "Sense"
+    },
+    "Gas": {
+        "rank": "214",
+        "word": "\u6c14",
+        "en": "Gas"
+    },
+    "Do not want to": {
+        "rank": "215",
+        "word": "\u4e0d\u60f3",
+        "en": "Do not want to"
+    },
+    "Real": {
+        "rank": "565",
+        "word": "\u771f\u6b63",
+        "en": "Real"
+    },
+    "Beginning": {
+        "rank": "218",
+        "word": "\u59cb",
+        "en": "Beginning"
+    },
+    "Then": {
+        "rank": "820",
+        "word": "\u90a3\u9ebc",
+        "en": "Then"
+    },
+    "Believe": {
+        "rank": "222",
+        "word": "\u76f8\u4fe1",
+        "en": "Believe"
+    },
+    "Bear": {
+        "rank": "223",
+        "word": "\u7ed3",
+        "en": "Bear"
+    },
+    "Today": {
+        "rank": "224",
+        "word": "\u4eca\u5929",
+        "en": "Today"
+    },
+    "A few": {
+        "rank": "225",
+        "word": "\u51e0",
+        "en": "A few"
+    },
+    "Title": {
+        "rank": "226",
+        "word": "\u9898",
+        "en": "Title"
+    },
+    "Put": {
+        "rank": "227",
+        "word": "\u653e",
+        "en": "Put"
+    },
+    "Let": {
+        "rank": "964",
+        "word": "\u8ba9",
+        "en": "Let"
+    },
+    "Indeed": {
+        "rank": "229",
+        "word": "\u786e",
+        "en": "Indeed"
+    },
+    "Meaning": {
+        "rank": "791",
+        "word": "\u610f",
+        "en": "Meaning"
+    },
+    "Become": {
+        "rank": "231",
+        "word": "\u6210",
+        "en": "Become"
+    },
+    "All": {
+        "rank": "232",
+        "word": "\u6240\u6709",
+        "en": "All"
+    },
+    "Happy": {
+        "rank": "455",
+        "word": "\u6b22",
+        "en": "Happy"
+    },
+    "Everything": {
+        "rank": "236",
+        "word": "\u4e00\u5207",
+        "en": "Everything"
+    },
+    "Remember": {
+        "rank": "237",
+        "word": "\u8bb0",
+        "en": "Remember"
+    },
+    "Sorry": {
+        "rank": "238",
+        "word": "\u62b1\u6b49",
+        "en": "Sorry"
+    },
+    "Has been": {
+        "rank": "239",
+        "word": "\u4e00\u76f4",
+        "en": "Has been"
+    },
+    "Day": {
+        "rank": "634",
+        "word": "\u65e5",
+        "en": "Day"
+    },
+    "Drawers": {
+        "rank": "241",
+        "word": "\u890c",
+        "en": "Drawers"
+    },
+    "Money": {
+        "rank": "686",
+        "word": "\u9322",
+        "en": "Money"
+    },
+    "Surface": {
+        "rank": "243",
+        "word": "\u9762",
+        "en": "Surface"
+    },
+    "More": {
+        "rank": "814",
+        "word": "\u8d8a",
+        "en": "More"
+    },
+    "Learn": {
+        "rank": "245",
+        "word": "\u5b66",
+        "en": "Learn"
+    },
+    "Now": {
+        "rank": "246",
+        "word": "\u73fe\u5728",
+        "en": "Now"
+    },
+    "Side": {
+        "rank": "247",
+        "word": "\u8fb9",
+        "en": "Side"
+    },
+    "Can not afford to": {
+        "rank": "249",
+        "word": "\u4e0d\u8d77",
+        "en": "Can not afford to"
+    },
+    "Brain": {
+        "rank": "250",
+        "word": "\u8111",
+        "en": "Brain"
+    },
+    "Uh": {
+        "rank": "251",
+        "word": "\u5443",
+        "en": "Uh"
+    },
+    "Theory": {
+        "rank": "252",
+        "word": "\u8bba",
+        "en": "Theory"
+    },
+    "Point": {
+        "rank": "962",
+        "word": "\u70b9",
+        "en": "Point"
+    },
+    "General": {
+        "rank": "255",
+        "word": "\u666e",
+        "en": "General"
+    },
+    "First": {
+        "rank": "352",
+        "word": "\u7b2c\u4e00\u6b21",
+        "en": "First"
+    },
+    "Through": {
+        "rank": "257",
+        "word": "\u901a",
+        "en": "Through"
+    },
+    "Stick": {
+        "rank": "258",
+        "word": "\u68d2",
+        "en": "Stick"
+    },
+    "Line": {
+        "rank": "259",
+        "word": "\u7ebf",
+        "en": "Line"
+    },
+    "High": {
+        "rank": "402",
+        "word": "\u9ad8",
+        "en": "High"
+    },
+    "Buy": {
+        "rank": "261",
+        "word": "\u4e70",
+        "en": "Buy"
+    },
+    "Request": {
+        "rank": "262",
+        "word": "\u6c42",
+        "en": "Request"
+    },
+    "Bundle": {
+        "rank": "263",
+        "word": "\u675f",
+        "en": "Bundle"
+    },
+    "Wow": {
+        "rank": "264",
+        "word": "\u54c7",
+        "en": "Wow"
+    },
+    "Finger": {
+        "rank": "265",
+        "word": "\u6307",
+        "en": "Finger"
+    },
+    "Zhang": {
+        "rank": "266",
+        "word": "\u5f20",
+        "en": "Zhang"
+    },
+    "Culture": {
+        "rank": "267",
+        "word": "\u6587",
+        "en": "Culture"
+    },
+    "Zinc": {
+        "rank": "268",
+        "word": "\u950c",
+        "en": "Zinc"
+    },
+    "Weight": {
+        "rank": "269",
+        "word": "\u91cd",
+        "en": "Weight"
+    },
+    "Philippines": {
+        "rank": "270",
+        "word": "\u83f2",
+        "en": "Philippines"
+    },
+    "Eye": {
+        "rank": "651",
+        "word": "\u773c\u775b",
+        "en": "Eye"
+    },
+    "Fundamental": {
+        "rank": "272",
+        "word": "\u6839\u672c",
+        "en": "Fundamental"
+    },
+    "Join": {
+        "rank": "273",
+        "word": "\u8054",
+        "en": "Join"
+    },
+    "Red": {
+        "rank": "947",
+        "word": "\u7ea2",
+        "en": "Red"
+    },
+    "Love": {
+        "rank": "999",
+        "word": "\u7231",
+        "en": "Love"
+    },
+    "Less than": {
+        "rank": "276",
+        "word": "\u4e0d\u5230",
+        "en": "Less than"
+    },
+    "These": {
+        "rank": "277",
+        "word": "\u9019\u4e9b",
+        "en": "These"
+    },
+    "Own": {
+        "rank": "278",
+        "word": "\u81ea\u5df1\u7684",
+        "en": "Own"
+    },
+    "Laugh": {
+        "rank": "279",
+        "word": "\u7b11",
+        "en": "Laugh"
+    },
+    "Close": {
+        "rank": "906",
+        "word": "\u5bc6",
+        "en": "Close"
+    },
+    "Base": {
+        "rank": "281",
+        "word": "\u57fa",
+        "en": "Base"
+    },
+    "Unique": {
+        "rank": "282",
+        "word": "\u552f\u4e00",
+        "en": "Unique"
+    },
+    "If": {
+        "rank": "971",
+        "word": "\u5982\u679c",
+        "en": "If"
+    },
+    "Mention": {
+        "rank": "284",
+        "word": "\u63d0",
+        "en": "Mention"
+    },
+    "Tune": {
+        "rank": "285",
+        "word": "\u8c03",
+        "en": "Tune"
+    },
+    "Korea": {
+        "rank": "286",
+        "word": "\u4e3d",
+        "en": "Korea"
+    },
+    "Ms.": {
+        "rank": "287",
+        "word": "\u5973\u58eb",
+        "en": "Ms."
+    },
+    "School": {
+        "rank": "288",
+        "word": "\u6821",
+        "en": "School"
+    },
+    "Company": {
+        "rank": "289",
+        "word": "\u516c\u53f8",
+        "en": "Company"
+    },
+    "Condition": {
+        "rank": "290",
+        "word": "\u51b5",
+        "en": "Condition"
+    },
+    "Bother": {
+        "rank": "291",
+        "word": "\u70e6",
+        "en": "Bother"
+    },
+    "Stop": {
+        "rank": "292",
+        "word": "\u505c",
+        "en": "Stop"
+    },
+    "Britain": {
+        "rank": "293",
+        "word": "\u82f1",
+        "en": "Britain"
+    },
+    "Police": {
+        "rank": "406",
+        "word": "\u8b66\u5bdf",
+        "en": "Police"
+    },
+    "Risk": {
+        "rank": "295",
+        "word": "\u9669",
+        "en": "Risk"
+    },
+    "Impossible": {
+        "rank": "297",
+        "word": "\u4e0d\u53ef\u80fd",
+        "en": "Impossible"
+    },
+    "Sit": {
+        "rank": "298",
+        "word": "\u5750",
+        "en": "Sit"
+    },
+    "Area": {
+        "rank": "299",
+        "word": "\u533a",
+        "en": "Area"
+    },
+    "Fruit": {
+        "rank": "300",
+        "word": "\u679c",
+        "en": "Fruit"
+    },
+    "Partner": {
+        "rank": "301",
+        "word": "\u4f19",
+        "en": "Partner"
+    },
+    "Ha": {
+        "rank": "302",
+        "word": "\u54c8",
+        "en": "Ha"
+    },
+    "Luo": {
+        "rank": "303",
+        "word": "\u7f57",
+        "en": "Luo"
+    },
+    "Difficult": {
+        "rank": "304",
+        "word": "\u96be",
+        "en": "Difficult"
+    },
+    "From": {
+        "rank": "465",
+        "word": "\u4ece",
+        "en": "From"
+    },
+    "Woman": {
+        "rank": "309",
+        "word": "\u5973\u4eba",
+        "en": "Woman"
+    },
+    "The best": {
+        "rank": "311",
+        "word": "\u6700\u597d",
+        "en": "The best"
+    },
+    "Sang": {
+        "rank": "313",
+        "word": "\u892c",
+        "en": "Sang"
+    },
+    "Threaten": {
+        "rank": "314",
+        "word": "\u80c1",
+        "en": "Threaten"
+    },
+    "Next": {
+        "rank": "315",
+        "word": "\u660e",
+        "en": "Next"
+    },
+    "Reason": {
+        "rank": "716",
+        "word": "\u539f\u56e0",
+        "en": "Reason"
+    },
+    "Plus": {
+        "rank": "317",
+        "word": "\u52a0",
+        "en": "Plus"
+    },
+    "Gun": {
+        "rank": "318",
+        "word": "\u67aa",
+        "en": "Gun"
+    },
+    "Ten thousand": {
+        "rank": "319",
+        "word": "\u4e07",
+        "en": "Ten thousand"
+    },
+    "Member": {
+        "rank": "320",
+        "word": "\u5458",
+        "en": "Member"
+    },
+    "Play": {
+        "rank": "727",
+        "word": "\u6f14",
+        "en": "Play"
+    },
+    "Minute": {
+        "rank": "323",
+        "word": "\u5206",
+        "en": "Minute"
+    },
+    "Make": {
+        "rank": "725",
+        "word": "\u4f7f",
+        "en": "Make"
+    },
+    "Pakistan": {
+        "rank": "325",
+        "word": "\u5df4",
+        "en": "Pakistan"
+    },
+    "Matter": {
+        "rank": "327",
+        "word": "\u7269",
+        "en": "Matter"
+    },
+    "Hurt": {
+        "rank": "328",
+        "word": "\u4f24",
+        "en": "Hurt"
+    },
+    "Official": {
+        "rank": "329",
+        "word": "\u5b98",
+        "en": "Official"
+    },
+    "Force": {
+        "rank": "332",
+        "word": "\u529b",
+        "en": "Force"
+    },
+    "Total": {
+        "rank": "333",
+        "word": "\u603b",
+        "en": "Total"
+    },
+    "Person": {
+        "rank": "334",
+        "word": "\u8005",
+        "en": "Person"
+    },
+    "Most": {
+        "rank": "336",
+        "word": "\u6700",
+        "en": "Most"
+    },
+    "Many": {
+        "rank": "337",
+        "word": "\u5f88\u591a",
+        "en": "Many"
+    },
+    "Treatment": {
+        "rank": "338",
+        "word": "\u533b",
+        "en": "Treatment"
+    },
+    "Once": {
+        "rank": "539",
+        "word": "\u66fe",
+        "en": "Once"
+    },
+    "Report": {
+        "rank": "340",
+        "word": "\u62a5",
+        "en": "Report"
+    },
+    "Will": {
+        "rank": "738",
+        "word": "\u5c07",
+        "en": "Will"
+    },
+    "Di": {
+        "rank": "343",
+        "word": "\u8fea",
+        "en": "Di"
+    },
+    "Solution": {
+        "rank": "345",
+        "word": "\u89e3",
+        "en": "Solution"
+    },
+    "New": {
+        "rank": "690",
+        "word": "\u65b0\u7684",
+        "en": "New"
+    },
+    "Team": {
+        "rank": "347",
+        "word": "\u961f",
+        "en": "Team"
+    },
+    "Knowledge": {
+        "rank": "348",
+        "word": "\u8bc6",
+        "en": "Knowledge"
+    },
+    "Damn": {
+        "rank": "351",
+        "word": "\u5abd\u7684",
+        "en": "Damn"
+    },
+    "Leave": {
+        "rank": "353",
+        "word": "\u96e2\u958b",
+        "en": "Leave"
+    },
+    "Forget": {
+        "rank": "560",
+        "word": "\u5fd8\u4e86",
+        "en": "Forget"
+    },
+    "Myself": {
+        "rank": "355",
+        "word": "\u6211\u81ea\u5df1",
+        "en": "Myself"
+    },
+    "Harmonious": {
+        "rank": "356",
+        "word": "\u8c10",
+        "en": "Harmonious"
+    },
+    "Strict": {
+        "rank": "357",
+        "word": "\u4e25",
+        "en": "Strict"
+    },
+    "Band": {
+        "rank": "500",
+        "word": "\u5e26",
+        "en": "Band"
+    },
+    "Rush": {
+        "rank": "360",
+        "word": "\u8d76",
+        "en": "Rush"
+    },
+    "Great": {
+        "rank": "361",
+        "word": "\u592a\u68d2",
+        "en": "Great"
+    },
+    "Buddha": {
+        "rank": "362",
+        "word": "\u4f5b",
+        "en": "Buddha"
+    },
+    "Straight": {
+        "rank": "363",
+        "word": "\u76f4",
+        "en": "Straight"
+    },
+    "Think": {
+        "rank": "921",
+        "word": "\u60f3\u5230",
+        "en": "Think"
+    },
+    "Wife": {
+        "rank": "887",
+        "word": "\u592a\u592a",
+        "en": "Wife"
+    },
+    "Search": {
+        "rank": "366",
+        "word": "\u7d22",
+        "en": "Search"
+    },
+    "In addition to": {
+        "rank": "367",
+        "word": "\u9664\u4e86",
+        "en": "In addition to"
+    },
+    "By Order of the": {
+        "rank": "368",
+        "word": "\u627f",
+        "en": "By Order of the"
+    },
+    "Thai": {
+        "rank": "369",
+        "word": "\u6cf0",
+        "en": "Thai"
+    },
+    "Build": {
+        "rank": "370",
+        "word": "\u5efa",
+        "en": "Build"
+    },
+    "Europe": {
+        "rank": "371",
+        "word": "\u6b27",
+        "en": "Europe"
+    },
+    "Level": {
+        "rank": "373",
+        "word": "\u7ea7",
+        "en": "Level"
+    },
+    "Last night": {
+        "rank": "374",
+        "word": "\u6628\u665a",
+        "en": "Last night"
+    },
+    "Stone": {
+        "rank": "375",
+        "word": "\u77f3",
+        "en": "Stone"
+    },
+    "With": {
+        "rank": "972",
+        "word": "\u8ddf",
+        "en": "With"
+    },
+    "Clams": {
+        "rank": "378",
+        "word": "\u78f2",
+        "en": "Clams"
+    },
+    "Poor": {
+        "rank": "379",
+        "word": "\u5dee",
+        "en": "Poor"
+    },
+    "Strive": {
+        "rank": "383",
+        "word": "\u52aa\u529b",
+        "en": "Strive"
+    },
+    "Anyone": {
+        "rank": "385",
+        "word": "\u4efb\u4f55\u4eba",
+        "en": "Anyone"
+    },
+    "City": {
+        "rank": "655",
+        "word": "\u57ce",
+        "en": "City"
+    },
+    "Death": {
+        "rank": "387",
+        "word": "\u6b7b\u4ea1",
+        "en": "Death"
+    },
+    "Whole": {
+        "rank": "569",
+        "word": "\u5168",
+        "en": "Whole"
+    },
+    "Group": {
+        "rank": "389",
+        "word": "\u7ec4",
+        "en": "Group"
+    },
+    "i": {
+        "rank": "390",
+        "word": "i",
+        "en": "i"
+    },
+    "Perhaps": {
+        "rank": "391",
+        "word": "\u4e5f\u8a31",
+        "en": "Perhaps"
+    },
+    "Recently": {
+        "rank": "392",
+        "word": "\u6700\u8fd1",
+        "en": "Recently"
+    },
+    "Inverted": {
+        "rank": "393",
+        "word": "\u5012",
+        "en": "Inverted"
+    },
+    "Collar": {
+        "rank": "394",
+        "word": "\u9886",
+        "en": "Collar"
+    },
+    "Gu": {
+        "rank": "395",
+        "word": "\u987e",
+        "en": "Gu"
+    },
+    "Six": {
+        "rank": "397",
+        "word": "\u516d",
+        "en": "Six"
+    },
+    "The line": {
+        "rank": "398",
+        "word": "\u884c\u4e86",
+        "en": "The line"
+    },
+    "Roll": {
+        "rank": "399",
+        "word": "\u6eda",
+        "en": "Roll"
+    },
+    "Okay": {
+        "rank": "400",
+        "word": "\u597d\u55ce",
+        "en": "Okay"
+    },
+    "Division": {
+        "rank": "401",
+        "word": "\u5e08",
+        "en": "Division"
+    },
+    "Li": {
+        "rank": "403",
+        "word": "\u8389",
+        "en": "Li"
+    },
+    "Bad": {
+        "rank": "436",
+        "word": "\u4e0d\u597d",
+        "en": "Bad"
+    },
+    "Electricity": {
+        "rank": "405",
+        "word": "\u7535",
+        "en": "Electricity"
+    },
+    "Item": {
+        "rank": "407",
+        "word": "\u4ef6",
+        "en": "Item"
+    },
+    "Who": {
+        "rank": "483",
+        "word": "\u8c01",
+        "en": "Who"
+    },
+    "Brothers": {
+        "rank": "409",
+        "word": "\u5144\u5f1f",
+        "en": "Brothers"
+    },
+    "Before": {
+        "rank": "410",
+        "word": "\u4e4b\u524d",
+        "en": "Before"
+    },
+    "Talk": {
+        "rank": "411",
+        "word": "\u8c08",
+        "en": "Talk"
+    },
+    "Send": {
+        "rank": "510",
+        "word": "\u6d3e",
+        "en": "Send"
+    },
+    "Previous": {
+        "rank": "415",
+        "word": "\u4ee5\u524d",
+        "en": "Previous"
+    },
+    "Room": {
+        "rank": "523",
+        "word": "\u5ba4",
+        "en": "Room"
+    },
+    "Marriage": {
+        "rank": "417",
+        "word": "\u5a5a",
+        "en": "Marriage"
+    },
+    "Drink": {
+        "rank": "418",
+        "word": "\u559d",
+        "en": "Drink"
+    },
+    "Tonight": {
+        "rank": "420",
+        "word": "\u4eca\u665a",
+        "en": "Tonight"
+    },
+    "Interest": {
+        "rank": "421",
+        "word": "\u5174",
+        "en": "Interest"
+    },
+    "Crazy": {
+        "rank": "422",
+        "word": "\u75af",
+        "en": "Crazy"
+    },
+    "Within": {
+        "rank": "425",
+        "word": "\u5185",
+        "en": "Within"
+    },
+    "Light": {
+        "rank": "515",
+        "word": "\u5149",
+        "en": "Light"
+    },
+    "Approximately": {
+        "rank": "427",
+        "word": "\u7ea6",
+        "en": "Approximately"
+    },
+    "Sound": {
+        "rank": "447",
+        "word": "\u97f3",
+        "en": "Sound"
+    },
+    "Not work": {
+        "rank": "430",
+        "word": "\u4e0d\u884c",
+        "en": "Not work"
+    },
+    "In the end": {
+        "rank": "431",
+        "word": "\u5230\u5e95",
+        "en": "In the end"
+    },
+    "Mine": {
+        "rank": "432",
+        "word": "\u96f7",
+        "en": "Mine"
+    },
+    "Dimension": {
+        "rank": "433",
+        "word": "\u7ef4",
+        "en": "Dimension"
+    },
+    "Article": {
+        "rank": "434",
+        "word": "\u6761",
+        "en": "Article"
+    },
+    "Tomorrow": {
+        "rank": "435",
+        "word": "\u660e\u5929",
+        "en": "Tomorrow"
+    },
+    "Already": {
+        "rank": "996",
+        "word": "\u5df2",
+        "en": "Already"
+    },
+    "Rockwell": {
+        "rank": "439",
+        "word": "\u6d1b",
+        "en": "Rockwell"
+    },
+    "Protect": {
+        "rank": "440",
+        "word": "\u62a4",
+        "en": "Protect"
+    },
+    "Tower": {
+        "rank": "441",
+        "word": "\u5854",
+        "en": "Tower"
+    },
+    "Transport": {
+        "rank": "442",
+        "word": "\u8fd0",
+        "en": "Transport"
+    },
+    "Meet": {
+        "rank": "443",
+        "word": "\u63a5",
+        "en": "Meet"
+    },
+    "Ball": {
+        "rank": "444",
+        "word": "\u7403",
+        "en": "Ball"
+    },
+    "Wear": {
+        "rank": "561",
+        "word": "\u6234",
+        "en": "Wear"
+    },
+    "Raw": {
+        "rank": "450",
+        "word": "\u751f",
+        "en": "Raw"
+    },
+    "Return": {
+        "rank": "451",
+        "word": "\u56de",
+        "en": "Return"
+    },
+    "East": {
+        "rank": "453",
+        "word": "\u4e1c",
+        "en": "East"
+    },
+    "Enter": {
+        "rank": "547",
+        "word": "\u5165",
+        "en": "Enter"
+    },
+    "Ground": {
+        "rank": "459",
+        "word": "\u5730",
+        "en": "Ground"
+    },
+    "Children": {
+        "rank": "460",
+        "word": "\u5b69\u5b50",
+        "en": "Children"
+    },
+    "Help": {
+        "rank": "709",
+        "word": "\u52a9",
+        "en": "Help"
+    },
+    "Look for": {
+        "rank": "463",
+        "word": "\u627e",
+        "en": "Look for"
+    },
+    "Nigeria": {
+        "rank": "464",
+        "word": "\u5c3c",
+        "en": "Nigeria"
+    },
+    "Under": {
+        "rank": "466",
+        "word": "\u4e0b",
+        "en": "Under"
+    },
+    "Horse": {
+        "rank": "467",
+        "word": "\u9a6c",
+        "en": "Horse"
+    },
+    "Profit": {
+        "rank": "469",
+        "word": "\u5229",
+        "en": "Profit"
+    },
+    "Which": {
+        "rank": "472",
+        "word": "\u54ea",
+        "en": "Which"
+    },
+    "Negligent": {
+        "rank": "473",
+        "word": "\u61c8",
+        "en": "Negligent"
+    },
+    "Row": {
+        "rank": "474",
+        "word": "\u884c",
+        "en": "Row"
+    },
+    "Home": {
+        "rank": "475",
+        "word": "\u5bb6",
+        "en": "Home"
+    },
+    "Pull": {
+        "rank": "476",
+        "word": "\u62c9",
+        "en": "Pull"
+    },
+    "See": {
+        "rank": "990",
+        "word": "\u89c1",
+        "en": "See"
+    },
+    "Hand": {
+        "rank": "480",
+        "word": "\u624b",
+        "en": "Hand"
+    },
+    "Law": {
+        "rank": "481",
+        "word": "\u6cd5",
+        "en": "Law"
+    },
+    "Oh": {
+        "rank": "987",
+        "word": "\u54e6",
+        "en": "Oh"
+    },
+    "Head": {
+        "rank": "484",
+        "word": "\u5934",
+        "en": "Head"
+    },
+    "Work": {
+        "rank": "905",
+        "word": "\u5de5",
+        "en": "Work"
+    },
+    "May": {
+        "rank": "488",
+        "word": "\u53ef\u80fd",
+        "en": "May"
+    },
+    "Salary": {
+        "rank": "489",
+        "word": "\u85aa",
+        "en": "Salary"
+    },
+    "Friend": {
+        "rank": "490",
+        "word": "\u670b\u53cb",
+        "en": "Friend"
+    },
+    "Please": {
+        "rank": "821",
+        "word": "\u8acb",
+        "en": "Please"
+    },
+    "Promise": {
+        "rank": "896",
+        "word": "\u8bfa",
+        "en": "Promise"
+    },
+    "Years": {
+        "rank": "626",
+        "word": "\u5c81",
+        "en": "Years"
+    },
+    "Those": {
+        "rank": "494",
+        "word": "\u90a3\u4e9b",
+        "en": "Those"
+    },
+    "Together": {
+        "rank": "496",
+        "word": "\u4e00\u8d77",
+        "en": "Together"
+    },
+    "However": {
+        "rank": "497",
+        "word": "\u7136",
+        "en": "However"
+    },
+    "Eat": {
+        "rank": "498",
+        "word": "\u5403",
+        "en": "Eat"
+    },
+    "Write": {
+        "rank": "499",
+        "word": "\u5199",
+        "en": "Write"
+    },
+    "I am pleased to": {
+        "rank": "501",
+        "word": "\u6211\u559c",
+        "en": "I am pleased to"
+    },
+    "Eph.": {
+        "rank": "502",
+        "word": "\u5f17",
+        "en": "Eph."
+    },
+    "Exhausted": {
+        "rank": "503",
+        "word": "\u5c3d",
+        "en": "Exhausted"
+    },
+    "Yeah": {
+        "rank": "778",
+        "word": "\u5440",
+        "en": "Yeah"
+    },
+    "Tuan": {
+        "rank": "506",
+        "word": "\u890d",
+        "en": "Tuan"
+    },
+    "Fall": {
+        "rank": "507",
+        "word": "\u6389",
+        "en": "Fall"
+    },
+    "Book": {
+        "rank": "508",
+        "word": "\u4e66",
+        "en": "Book"
+    },
+    "Other": {
+        "rank": "509",
+        "word": "\u5176\u4ed6",
+        "en": "Other"
+    },
+    "Scholar": {
+        "rank": "511",
+        "word": "\u58eb",
+        "en": "Scholar"
+    },
+    "Implement": {
+        "rank": "512",
+        "word": "\u5668",
+        "en": "Implement"
+    },
+    "Loose": {
+        "rank": "513",
+        "word": "\u677e",
+        "en": "Loose"
+    },
+    "Its": {
+        "rank": "516",
+        "word": "\u5176",
+        "en": "Its"
+    },
+    "Think I": {
+        "rank": "517",
+        "word": "\u60f3\u6211",
+        "en": "Think I"
+    },
+    "Pole": {
+        "rank": "518",
+        "word": "\u6781",
+        "en": "Pole"
+    },
+    "Entirely": {
+        "rank": "520",
+        "word": "\u5b8c\u5168",
+        "en": "Entirely"
+    },
+    "Done": {
+        "rank": "521",
+        "word": "\u505a\u4e86",
+        "en": "Done"
+    },
+    "Shadow": {
+        "rank": "522",
+        "word": "\u5f71",
+        "en": "Shadow"
+    },
+    "Be subject": {
+        "rank": "524",
+        "word": "\u53d7",
+        "en": "Be subject"
+    },
+    "Odd": {
+        "rank": "525",
+        "word": "\u5947",
+        "en": "Odd"
+    },
+    "Test": {
+        "rank": "908",
+        "word": "\u9a8c",
+        "en": "Test"
+    },
+    "Dress": {
+        "rank": "527",
+        "word": "\u88c5",
+        "en": "Dress"
+    },
+    "At night": {
+        "rank": "528",
+        "word": "\u665a\u4e0a",
+        "en": "At night"
+    },
+    "Evil": {
+        "rank": "973",
+        "word": "\u90aa",
+        "en": "Evil"
+    },
+    "Should": {
+        "rank": "603",
+        "word": "\u61c9\u8a72",
+        "en": "Should"
+    },
+    "Miss": {
+        "rank": "531",
+        "word": "\u5c0f\u59d0",
+        "en": "Miss"
+    },
+    "Strength": {
+        "rank": "533",
+        "word": "\u5f3a",
+        "en": "Strength"
+    },
+    "Industry": {
+        "rank": "534",
+        "word": "\u4e1a",
+        "en": "Industry"
+    },
+    "Class": {
+        "rank": "865",
+        "word": "\u73ed",
+        "en": "Class"
+    },
+    "Complex": {
+        "rank": "536",
+        "word": "\u590d",
+        "en": "Complex"
+    },
+    "Austrian": {
+        "rank": "537",
+        "word": "\u5965",
+        "en": "Austrian"
+    },
+    "Dream": {
+        "rank": "538",
+        "word": "\u68a6",
+        "en": "Dream"
+    },
+    "Mouth": {
+        "rank": "590",
+        "word": "\u53e3",
+        "en": "Mouth"
+    },
+    "Recognize": {
+        "rank": "541",
+        "word": "\u8ba4",
+        "en": "Recognize"
+    },
+    "Dad": {
+        "rank": "543",
+        "word": "\u7238",
+        "en": "Dad"
+    },
+    "Photo": {
+        "rank": "934",
+        "word": "\u7167\u7247",
+        "en": "Photo"
+    },
+    "Outstanding": {
+        "rank": "545",
+        "word": "\u6770",
+        "en": "Outstanding"
+    },
+    "Why": {
+        "rank": "546",
+        "word": "\u70ba\u4ec0\u9ebc",
+        "en": "Why"
+    },
+    "Sleep": {
+        "rank": "548",
+        "word": "\u7761",
+        "en": "Sleep"
+    },
+    "Clothes": {
+        "rank": "637",
+        "word": "\u8863\u670d",
+        "en": "Clothes"
+    },
+    "Festival": {
+        "rank": "551",
+        "word": "\u8282",
+        "en": "Festival"
+    },
+    "Dayton": {
+        "rank": "552",
+        "word": "\u987f",
+        "en": "Dayton"
+    },
+    "Understand": {
+        "rank": "782",
+        "word": "\u660e\u767d",
+        "en": "Understand"
+    },
+    "Root": {
+        "rank": "554",
+        "word": "\u6839",
+        "en": "Root"
+    },
+    "Egg": {
+        "rank": "555",
+        "word": "\u86cb",
+        "en": "Egg"
+    },
+    "Tight": {
+        "rank": "556",
+        "word": "\u7d27",
+        "en": "Tight"
+    },
+    "Hemp": {
+        "rank": "557",
+        "word": "\u9ebb",
+        "en": "Hemp"
+    },
+    "Quickly": {
+        "rank": "558",
+        "word": "\u5f88\u5feb",
+        "en": "Quickly"
+    },
+    "Tour": {
+        "rank": "559",
+        "word": "\u6e38",
+        "en": "Tour"
+    },
+    "Shakespeare": {
+        "rank": "562",
+        "word": "\u838e",
+        "en": "Shakespeare"
+    },
+    "Story": {
+        "rank": "563",
+        "word": "\u6545\u4e8b",
+        "en": "Story"
+    },
+    "Regard": {
+        "rank": "564",
+        "word": "\u89c6",
+        "en": "Regard"
+    },
+    "Crab": {
+        "rank": "566",
+        "word": "\u87f9",
+        "en": "Crab"
+    },
+    "Fee": {
+        "rank": "567",
+        "word": "\u8d39",
+        "en": "Fee"
+    },
+    "By": {
+        "rank": "616",
+        "word": "\u7531",
+        "en": "By"
+    },
+    "Anti-": {
+        "rank": "570",
+        "word": "\u53cd",
+        "en": "Anti-"
+    },
+    "Word": {
+        "rank": "571",
+        "word": "\u5b57",
+        "en": "Word"
+    },
+    "Degree": {
+        "rank": "572",
+        "word": "\u5ea6",
+        "en": "Degree"
+    },
+    "Bureau": {
+        "rank": "574",
+        "word": "\u5c40",
+        "en": "Bureau"
+    },
+    "Mo": {
+        "rank": "575",
+        "word": "\u83ab",
+        "en": "Mo"
+    },
+    "Language": {
+        "rank": "577",
+        "word": "\u8bed",
+        "en": "Language"
+    },
+    "Sex": {
+        "rank": "578",
+        "word": "\u6027",
+        "en": "Sex"
+    },
+    "Often": {
+        "rank": "579",
+        "word": "\u5e38",
+        "en": "Often"
+    },
+    "Levin": {
+        "rank": "580",
+        "word": "\u83b1",
+        "en": "Levin"
+    },
+    "From time to": {
+        "rank": "582",
+        "word": "\u53ef\u4e0d",
+        "en": "From time to"
+    },
+    "Mother": {
+        "rank": "583",
+        "word": "\u6bcd",
+        "en": "Mother"
+    },
+    "Stay": {
+        "rank": "584",
+        "word": "\u7559\u4e0b",
+        "en": "Stay"
+    },
+    "Outside": {
+        "rank": "728",
+        "word": "\u5916\u9762",
+        "en": "Outside"
+    },
+    "When the": {
+        "rank": "991",
+        "word": "\u5f53",
+        "en": "When the"
+    },
+    "Shock": {
+        "rank": "588",
+        "word": "\u60ca",
+        "en": "Shock"
+    },
+    "Bo": {
+        "rank": "589",
+        "word": "\u4f2f",
+        "en": "Bo"
+    },
+    "the": {
+        "rank": "818",
+        "word": "the",
+        "en": "the"
+    },
+    "Doing": {
+        "rank": "819",
+        "word": "\u5728\u505a",
+        "en": "Doing"
+    },
+    "Five": {
+        "rank": "822",
+        "word": "\u4e94",
+        "en": "Five"
+    },
+    "Mark": {
+        "rank": "823",
+        "word": "\u6807",
+        "en": "Mark"
+    },
+    "Painting": {
+        "rank": "824",
+        "word": "\u753b",
+        "en": "Painting"
+    },
+    "Main": {
+        "rank": "601",
+        "word": "\u4e3b",
+        "en": "Main"
+    },
+    "Thank you": {
+        "rank": "645",
+        "word": "\u8c22\u8c22",
+        "en": "Thank you"
+    },
+    "Quiet": {
+        "rank": "604",
+        "word": "\u9759",
+        "en": "Quiet"
+    },
+    "Bomb": {
+        "rank": "605",
+        "word": "\u5f39",
+        "en": "Bomb"
+    },
+    "Change": {
+        "rank": "751",
+        "word": "\u53d8",
+        "en": "Change"
+    },
+    "Wine": {
+        "rank": "607",
+        "word": "\u9152",
+        "en": "Wine"
+    },
+    "Lun": {
+        "rank": "608",
+        "word": "\u4f26",
+        "en": "Lun"
+    },
+    "Flower": {
+        "rank": "610",
+        "word": "\u82b1",
+        "en": "Flower"
+    },
+    "Continue": {
+        "rank": "611",
+        "word": "\u7eed",
+        "en": "Continue"
+    },
+    "Gosh": {
+        "rank": "612",
+        "word": "\u5929\u54ea",
+        "en": "Gosh"
+    },
+    "Here": {
+        "rank": "613",
+        "word": "\u9019\u88e1",
+        "en": "Here"
+    },
+    "House": {
+        "rank": "614",
+        "word": "\u623f\u5b50",
+        "en": "House"
+    },
+    "Drug": {
+        "rank": "617",
+        "word": "\u836f",
+        "en": "Drug"
+    },
+    "Morning": {
+        "rank": "619",
+        "word": "\u65e9\u4e0a",
+        "en": "Morning"
+    },
+    "Wave": {
+        "rank": "620",
+        "word": "\u6ce2",
+        "en": "Wave"
+    },
+    "Business": {
+        "rank": "622",
+        "word": "\u52a1",
+        "en": "Business"
+    },
+    "Original": {
+        "rank": "623",
+        "word": "\u539f",
+        "en": "Original"
+    },
+    "Lose": {
+        "rank": "745",
+        "word": "\u5931\u53bb",
+        "en": "Lose"
+    },
+    "Collectively": {
+        "rank": "627",
+        "word": "\u7edf",
+        "en": "Collectively"
+    },
+    "Oblique": {
+        "rank": "628",
+        "word": "\u659c",
+        "en": "Oblique"
+    },
+    "Run": {
+        "rank": "630",
+        "word": "\u8dd1",
+        "en": "Run"
+    },
+    "Absence": {
+        "rank": "631",
+        "word": "\u4e0d\u5728",
+        "en": "Absence"
+    },
+    "Harm": {
+        "rank": "632",
+        "word": "\u5bb3",
+        "en": "Harm"
+    },
+    "Ni": {
+        "rank": "635",
+        "word": "\u59ae",
+        "en": "Ni"
+    },
+    "Triumphant": {
+        "rank": "636",
+        "word": "\u51ef",
+        "en": "Triumphant"
+    },
+    "Rule": {
+        "rank": "638",
+        "word": "\u6cbb",
+        "en": "Rule"
+    },
+    "Passenger": {
+        "rank": "640",
+        "word": "\u5ba2",
+        "en": "Passenger"
+    },
+    "Discuss": {
+        "rank": "641",
+        "word": "\u8bae",
+        "en": "Discuss"
+    },
+    "Entrust": {
+        "rank": "646",
+        "word": "\u6258",
+        "en": "Entrust"
+    },
+    "Game": {
+        "rank": "647",
+        "word": "\u8d5b",
+        "en": "Game"
+    },
+    "Office": {
+        "rank": "648",
+        "word": "\u4efb",
+        "en": "Office"
+    },
+    "Color": {
+        "rank": "649",
+        "word": "\u8272",
+        "en": "Color"
+    },
+    "Independent": {
+        "rank": "650",
+        "word": "\u72ec",
+        "en": "Independent"
+    },
+    "Black": {
+        "rank": "652",
+        "word": "\u9ed1",
+        "en": "Black"
+    },
+    "China": {
+        "rank": "653",
+        "word": "\u534e",
+        "en": "China"
+    },
+    "On the": {
+        "rank": "654",
+        "word": "\u653e\u5728",
+        "en": "On the"
+    },
+    "When": {
+        "rank": "656",
+        "word": "\u7684\u6642\u5019",
+        "en": "When"
+    },
+    "Station": {
+        "rank": "657",
+        "word": "\u7ad9",
+        "en": "Station"
+    },
+    "Child": {
+        "rank": "995",
+        "word": "\u5b50",
+        "en": "Child"
+    },
+    "Lives in": {
+        "rank": "659",
+        "word": "\u4f4f\u5728",
+        "en": "Lives in"
+    },
+    "Coffee": {
+        "rank": "660",
+        "word": "\u5496\u5561",
+        "en": "Coffee"
+    },
+    "Is": {
+        "rank": "965",
+        "word": "\u5c31\u662f",
+        "en": "Is"
+    },
+    "Yu": {
+        "rank": "663",
+        "word": "\u8915",
+        "en": "Yu"
+    },
+    "Week": {
+        "rank": "664",
+        "word": "\u5468",
+        "en": "Week"
+    },
+    "Control": {
+        "rank": "665",
+        "word": "\u63a7\u5236",
+        "en": "Control"
+    },
+    "Speech": {
+        "rank": "666",
+        "word": "\u8a00",
+        "en": "Speech"
+    },
+    "Dare": {
+        "rank": "667",
+        "word": "\u6562",
+        "en": "Dare"
+    },
+    "Win": {
+        "rank": "668",
+        "word": "\u8d62",
+        "en": "Win"
+    },
+    "Half": {
+        "rank": "669",
+        "word": "\u534a",
+        "en": "Half"
+    },
+    "White": {
+        "rank": "670",
+        "word": "\u767d",
+        "en": "White"
+    },
+    "Release": {
+        "rank": "671",
+        "word": "\u91ca",
+        "en": "Release"
+    },
+    "Health": {
+        "rank": "673",
+        "word": "\u751f\u4e86",
+        "en": "Health"
+    },
+    "Nothing more": {
+        "rank": "674",
+        "word": "\u800c\u5df2",
+        "en": "Nothing more"
+    },
+    "Map": {
+        "rank": "675",
+        "word": "\u56fe",
+        "en": "Map"
+    },
+    "Strange": {
+        "rank": "941",
+        "word": "\u5947\u602a",
+        "en": "Strange"
+    },
+    "Subtitle": {
+        "rank": "678",
+        "word": "\u5b57\u5e55",
+        "en": "Subtitle"
+    },
+    "I am sorry": {
+        "rank": "679",
+        "word": "\u5c0d\u4e0d\u8d77",
+        "en": "I am sorry"
+    },
+    "To see": {
+        "rank": "680",
+        "word": "\u53bb\u770b",
+        "en": "To see"
+    },
+    "Keeping": {
+        "rank": "682",
+        "word": "\u4fdd\u6301",
+        "en": "Keeping"
+    },
+    "Worship": {
+        "rank": "684",
+        "word": "\u62dc",
+        "en": "Worship"
+    },
+    "Want to know": {
+        "rank": "687",
+        "word": "\u60f3\u77e5\u9053",
+        "en": "Want to know"
+    },
+    "Time": {
+        "rank": "961",
+        "word": "\u65f6",
+        "en": "Time"
+    },
+    "Speak": {
+        "rank": "689",
+        "word": "\u8bb2",
+        "en": "Speak"
+    },
+    "Fry": {
+        "rank": "692",
+        "word": "\u70b8",
+        "en": "Fry"
+    },
+    "Choose": {
+        "rank": "693",
+        "word": "\u62e9",
+        "en": "Choose"
+    },
+    "Said": {
+        "rank": "695",
+        "word": "\u8aaa\u7684",
+        "en": "Said"
+    },
+    "Code": {
+        "rank": "696",
+        "word": "\u7801",
+        "en": "Code"
+    },
+    "Stopper": {
+        "rank": "698",
+        "word": "\u585e",
+        "en": "Stopper"
+    },
+    "Touch": {
+        "rank": "699",
+        "word": "\u78b0",
+        "en": "Touch"
+    },
+    "Put down": {
+        "rank": "700",
+        "word": "\u653e\u4e0b",
+        "en": "Put down"
+    },
+    "Equally": {
+        "rank": "701",
+        "word": "\u4e00\u6a23",
+        "en": "Equally"
+    },
+    "Be afraid": {
+        "rank": "702",
+        "word": "\u5bb3\u6015",
+        "en": "Be afraid"
+    },
+    "Jack": {
+        "rank": "703",
+        "word": "\u6770\u514b",
+        "en": "Jack"
+    },
+    "Welcome": {
+        "rank": "704",
+        "word": "\u8fce",
+        "en": "Welcome"
+    },
+    "Absolutely": {
+        "rank": "705",
+        "word": "\u7edd",
+        "en": "Absolutely"
+    },
+    "King": {
+        "rank": "708",
+        "word": "\u738b",
+        "en": "King"
+    },
+    "Joe": {
+        "rank": "710",
+        "word": "\u4e54",
+        "en": "Joe"
+    },
+    "Justice": {
+        "rank": "711",
+        "word": "\u4e49",
+        "en": "Justice"
+    },
+    "Back to": {
+        "rank": "712",
+        "word": "\u56de\u5230",
+        "en": "Back to"
+    },
+    "Save": {
+        "rank": "713",
+        "word": "\u6551",
+        "en": "Save"
+    },
+    "Clear": {
+        "rank": "714",
+        "word": "\u6e05\u695a",
+        "en": "Clear"
+    },
+    "Cold": {
+        "rank": "715",
+        "word": "\u51b7",
+        "en": "Cold"
+    },
+    "Pay": {
+        "rank": "718",
+        "word": "\u4ed8",
+        "en": "Pay"
+    },
+    "Tube": {
+        "rank": "719",
+        "word": "\u7ba1",
+        "en": "Tube"
+    },
+    "Mad": {
+        "rank": "720",
+        "word": "\u72c2",
+        "en": "Mad"
+    },
+    "Early": {
+        "rank": "721",
+        "word": "\u65e9",
+        "en": "Early"
+    },
+    "One day": {
+        "rank": "722",
+        "word": "\u4e00\u5929",
+        "en": "One day"
+    },
+    "Exceed": {
+        "rank": "723",
+        "word": "\u8d85",
+        "en": "Exceed"
+    },
+    "Bosom": {
+        "rank": "724",
+        "word": "\u6000",
+        "en": "Bosom"
+    },
+    "Break": {
+        "rank": "893",
+        "word": "\u7834",
+        "en": "Break"
+    },
+    "Four": {
+        "rank": "729",
+        "word": "\u56db",
+        "en": "Four"
+    },
+    "Floor": {
+        "rank": "730",
+        "word": "\u697c",
+        "en": "Floor"
+    },
+    "Another": {
+        "rank": "731",
+        "word": "\u53e6\u4e00",
+        "en": "Another"
+    },
+    "Joke": {
+        "rank": "732",
+        "word": "\u73a9\u7b11",
+        "en": "Joke"
+    },
+    "Hospital": {
+        "rank": "735",
+        "word": "\u9662",
+        "en": "Hospital"
+    },
+    "Air": {
+        "rank": "736",
+        "word": "\u7a7a",
+        "en": "Air"
+    },
+    "Na": {
+        "rank": "737",
+        "word": "\u5a1c",
+        "en": "Na"
+    },
+    "Go on": {
+        "rank": "739",
+        "word": "\u4e0b\u53bb",
+        "en": "Go on"
+    },
+    "Pass": {
+        "rank": "740",
+        "word": "\u4f20",
+        "en": "Pass"
+    },
+    "Blood": {
+        "rank": "744",
+        "word": "\u8840",
+        "en": "Blood"
+    },
+    "End": {
+        "rank": "746",
+        "word": "\u7ec8",
+        "en": "End"
+    },
+    "Price": {
+        "rank": "748",
+        "word": "\u4ef7",
+        "en": "Price"
+    },
+    "Package": {
+        "rank": "749",
+        "word": "\u5305",
+        "en": "Package"
+    },
+    "Quasi-": {
+        "rank": "752",
+        "word": "\u51c6",
+        "en": "Quasi-"
+    },
+    "Check": {
+        "rank": "910",
+        "word": "\u68c0",
+        "en": "Check"
+    },
+    "Card": {
+        "rank": "755",
+        "word": "\u5361",
+        "en": "Card"
+    },
+    "Where": {
+        "rank": "757",
+        "word": "\u5728\u54ea",
+        "en": "Where"
+    },
+    "Fixed": {
+        "rank": "758",
+        "word": "\u5b9a",
+        "en": "Fixed"
+    },
+    "Place": {
+        "rank": "759",
+        "word": "\u5904",
+        "en": "Place"
+    },
+    "Really": {
+        "rank": "985",
+        "word": "\u771f\u7684",
+        "en": "Really"
+    },
+    "Insurance": {
+        "rank": "761",
+        "word": "\u4fdd",
+        "en": "Insurance"
+    },
+    "Safe": {
+        "rank": "763",
+        "word": "\u5b89",
+        "en": "Safe"
+    },
+    "Take": {
+        "rank": "765",
+        "word": "\u62ff",
+        "en": "Take"
+    },
+    "Die": {
+        "rank": "768",
+        "word": "\u890b",
+        "en": "Die"
+    },
+    "U.S.": {
+        "rank": "770",
+        "word": "\u7f8e",
+        "en": "U.S."
+    },
+    "Ago": {
+        "rank": "773",
+        "word": "\u524d",
+        "en": "Ago"
+    },
+    "Grid": {
+        "rank": "774",
+        "word": "\u683c",
+        "en": "Grid"
+    },
+    "Field": {
+        "rank": "775",
+        "word": "\u573a",
+        "en": "Field"
+    },
+    "Everyone": {
+        "rank": "936",
+        "word": "\u6240\u6709\u4eba",
+        "en": "Everyone"
+    },
+    "System": {
+        "rank": "779",
+        "word": "\u7cfb",
+        "en": "System"
+    },
+    "Parent": {
+        "rank": "781",
+        "word": "\u4eb2",
+        "en": "Parent"
+    },
+    "Equipment": {
+        "rank": "783",
+        "word": "\u5907",
+        "en": "Equipment"
+    },
+    "Cloth": {
+        "rank": "784",
+        "word": "\u5e03",
+        "en": "Cloth"
+    },
+    "Meter": {
+        "rank": "794",
+        "word": "\u7c73",
+        "en": "Meter"
+    },
+    "Grace": {
+        "rank": "786",
+        "word": "\u6069",
+        "en": "Grace"
+    },
+    "Find": {
+        "rank": "787",
+        "word": "\u627e\u5230",
+        "en": "Find"
+    },
+    "Her": {
+        "rank": "788",
+        "word": "\u5979\u7684",
+        "en": "Her"
+    },
+    "Old": {
+        "rank": "789",
+        "word": "\u8001",
+        "en": "Old"
+    },
+    "Ai": {
+        "rank": "790",
+        "word": "\u827e",
+        "en": "Ai"
+    },
+    "Door": {
+        "rank": "792",
+        "word": "\u95e8",
+        "en": "Door"
+    },
+    "La": {
+        "rank": "793",
+        "word": "\u5566",
+        "en": "La"
+    },
+    "Ask": {
+        "rank": "796",
+        "word": "\u95ee",
+        "en": "Ask"
+    },
+    "Etc.": {
+        "rank": "800",
+        "word": "\u7b49\u7b49",
+        "en": "Etc."
+    },
+    "Guess": {
+        "rank": "802",
+        "word": "\u731c",
+        "en": "Guess"
+    },
+    "Blessing": {
+        "rank": "803",
+        "word": "\u798f",
+        "en": "Blessing"
+    },
+    "Plan": {
+        "rank": "804",
+        "word": "\u6253\u7b97",
+        "en": "Plan"
+    },
+    "Suitable": {
+        "rank": "805",
+        "word": "\u9002",
+        "en": "Suitable"
+    },
+    "Danger": {
+        "rank": "806",
+        "word": "\u5371",
+        "en": "Danger"
+    },
+    "Fear": {
+        "rank": "808",
+        "word": "\u6015",
+        "en": "Fear"
+    },
+    "Do not need to": {
+        "rank": "810",
+        "word": "\u4e0d\u9700\u8981",
+        "en": "Do not need to"
+    },
+    "Prison": {
+        "rank": "813",
+        "word": "\u72f1",
+        "en": "Prison"
+    },
+    "Brat": {
+        "rank": "815",
+        "word": "\u5c0f\u5b50",
+        "en": "Brat"
+    },
+    "Interesting": {
+        "rank": "816",
+        "word": "\u6709\u8da3",
+        "en": "Interesting"
+    },
+    "At least": {
+        "rank": "827",
+        "word": "\u81f3\u5c11",
+        "en": "At least"
+    },
+    "Take off": {
+        "rank": "829",
+        "word": "\u8131",
+        "en": "Take off"
+    },
+    "News": {
+        "rank": "830",
+        "word": "\u6d88\u606f",
+        "en": "News"
+    },
+    "Do not like": {
+        "rank": "831",
+        "word": "\u4e0d\u559c",
+        "en": "Do not like"
+    },
+    "Block": {
+        "rank": "832",
+        "word": "\u5757",
+        "en": "Block"
+    },
+    "Brisk walking": {
+        "rank": "833",
+        "word": "\u5feb\u8d70",
+        "en": "Brisk walking"
+    },
+    "Everybody": {
+        "rank": "835",
+        "word": "\u5404\u4f4d",
+        "en": "Everybody"
+    },
+    "Count": {
+        "rank": "836",
+        "word": "\u7b97",
+        "en": "Count"
+    },
+    "Problem": {
+        "rank": "837",
+        "word": "\u554f\u984c",
+        "en": "Problem"
+    },
+    "All right": {
+        "rank": "838",
+        "word": "\u6c92\u4e8b",
+        "en": "All right"
+    },
+    "Guide": {
+        "rank": "839",
+        "word": "\u5bfc",
+        "en": "Guide"
+    },
+    "State": {
+        "rank": "840",
+        "word": "\u5dde",
+        "en": "State"
+    },
+    "Catch": {
+        "rank": "845",
+        "word": "\u6293\u4f4f",
+        "en": "Catch"
+    },
+    "On behalf of": {
+        "rank": "843",
+        "word": "\u4ee3",
+        "en": "On behalf of"
+    },
+    "Mongolian": {
+        "rank": "844",
+        "word": "\u8499",
+        "en": "Mongolian"
+    },
+    "Mountain": {
+        "rank": "846",
+        "word": "\u5c71",
+        "en": "Mountain"
+    },
+    "Beat": {
+        "rank": "847",
+        "word": "\u62cd",
+        "en": "Beat"
+    },
+    "Sand": {
+        "rank": "848",
+        "word": "\u6c99",
+        "en": "Sand"
+    },
+    "Face": {
+        "rank": "850",
+        "word": "\u8138",
+        "en": "Face"
+    },
+    "Responsibility": {
+        "rank": "851",
+        "word": "\u8d23",
+        "en": "Responsibility"
+    },
+    "Yourself": {
+        "rank": "852",
+        "word": "\u4f60\u81ea\u5df1",
+        "en": "Yourself"
+    },
+    "Come back": {
+        "rank": "853",
+        "word": "\u56de\u4f86",
+        "en": "Come back"
+    },
+    "Song": {
+        "rank": "854",
+        "word": "\u6b4c",
+        "en": "Song"
+    },
+    "Star": {
+        "rank": "855",
+        "word": "\u661f",
+        "en": "Star"
+    },
+    "Right": {
+        "rank": "856",
+        "word": "\u6743",
+        "en": "Right"
+    },
+    "Technique": {
+        "rank": "857",
+        "word": "\u672f",
+        "en": "Technique"
+    },
+    "Show": {
+        "rank": "858",
+        "word": "\u663e",
+        "en": "Show"
+    },
+    "Fortunately": {
+        "rank": "859",
+        "word": "\u5e78",
+        "en": "Fortunately"
+    },
+    "Different": {
+        "rank": "861",
+        "word": "\u4e0d\u540c",
+        "en": "Different"
+    },
+    "Clever": {
+        "rank": "862",
+        "word": "\u806a",
+        "en": "Clever"
+    },
+    "Follow": {
+        "rank": "863",
+        "word": "\u968f",
+        "en": "Follow"
+    },
+    "Ascend": {
+        "rank": "864",
+        "word": "\u767b",
+        "en": "Ascend"
+    },
+    "Two": {
+        "rank": "866",
+        "word": "\u4e8c",
+        "en": "Two"
+    },
+    "Record": {
+        "rank": "867",
+        "word": "\u5f55",
+        "en": "Record"
+    },
+    "Weapon": {
+        "rank": "868",
+        "word": "\u6b66\u5668",
+        "en": "Weapon"
+    },
+    "Hot": {
+        "rank": "869",
+        "word": "\u70ed",
+        "en": "Hot"
+    },
+    "Ability": {
+        "rank": "870",
+        "word": "\u624d\u80fd",
+        "en": "Ability"
+    },
+    "Of course": {
+        "rank": "871",
+        "word": "\u7576\u7136",
+        "en": "Of course"
+    },
+    "Night": {
+        "rank": "872",
+        "word": "\u665a",
+        "en": "Night"
+    },
+    "Good night": {
+        "rank": "873",
+        "word": "\u665a\u5b89",
+        "en": "Good night"
+    },
+    "Success": {
+        "rank": "874",
+        "word": "\u6210\u529f",
+        "en": "Success"
+    },
+    "Participate": {
+        "rank": "876",
+        "word": "\u53c2",
+        "en": "Participate"
+    },
+    "Tile": {
+        "rank": "877",
+        "word": "\u74e6",
+        "en": "Tile"
+    },
+    "Rice": {
+        "rank": "878",
+        "word": "\u996d",
+        "en": "Rice"
+    },
+    "Handkerchief": {
+        "rank": "880",
+        "word": "\u5e15",
+        "en": "Handkerchief"
+    },
+    "To be": {
+        "rank": "881",
+        "word": "\u5f85",
+        "en": "To be"
+    },
+    "Whether": {
+        "rank": "882",
+        "word": "\u662f\u5426",
+        "en": "Whether"
+    },
+    "Le": {
+        "rank": "883",
+        "word": "\u52d2",
+        "en": "Le"
+    },
+    "Shoot": {
+        "rank": "884",
+        "word": "\u5c04",
+        "en": "Shoot"
+    },
+    "Table": {
+        "rank": "885",
+        "word": "\u8868",
+        "en": "Table"
+    },
+    "Guard": {
+        "rank": "886",
+        "word": "\u536b",
+        "en": "Guard"
+    },
+    "Accepted": {
+        "rank": "888",
+        "word": "\u63a5\u53d7",
+        "en": "Accepted"
+    },
+    "Jump": {
+        "rank": "889",
+        "word": "\u8df3",
+        "en": "Jump"
+    },
+    "Elephant": {
+        "rank": "890",
+        "word": "\u8c61",
+        "en": "Elephant"
+    },
+    "Spirit": {
+        "rank": "891",
+        "word": "\u7075",
+        "en": "Spirit"
+    },
+    "I really do not": {
+        "rank": "892",
+        "word": "\u771f\u4e0d",
+        "en": "I really do not"
+    },
+    "Mrs.": {
+        "rank": "894",
+        "word": "\u592b\u4eba",
+        "en": "Mrs."
+    },
+    "Exercise": {
+        "rank": "895",
+        "word": "\u64cd",
+        "en": "Exercise"
+    },
+    "Bodhisattva": {
+        "rank": "897",
+        "word": "\u8428",
+        "en": "Bodhisattva"
+    },
+    "Sell": {
+        "rank": "898",
+        "word": "\u5356",
+        "en": "Sell"
+    },
+    "Selected": {
+        "rank": "899",
+        "word": "\u9009",
+        "en": "Selected"
+    },
+    "Note": {
+        "rank": "900",
+        "word": "\u6ce8\u610f",
+        "en": "Note"
+    },
+    "Calendar": {
+        "rank": "901",
+        "word": "\u5386",
+        "en": "Calendar"
+    },
+    "Foot": {
+        "rank": "902",
+        "word": "\u811a",
+        "en": "Foot"
+    },
+    "Wire": {
+        "rank": "903",
+        "word": "\u4e1d",
+        "en": "Wire"
+    },
+    "Less": {
+        "rank": "904",
+        "word": "\u5c11",
+        "en": "Less"
+    },
+    "Fish": {
+        "rank": "907",
+        "word": "\u9c7c",
+        "en": "Fish"
+    },
+    "No longer": {
+        "rank": "909",
+        "word": "\u4e0d\u518d",
+        "en": "No longer"
+    },
+    "Cheat": {
+        "rank": "911",
+        "word": "\u9a97",
+        "en": "Cheat"
+    },
+    "a": {
+        "rank": "913",
+        "word": "a",
+        "en": "a"
+    },
+    "Free": {
+        "rank": "914",
+        "word": "\u81ea\u7531",
+        "en": "Free"
+    },
+    "Cup": {
+        "rank": "915",
+        "word": "\u676f",
+        "en": "Cup"
+    },
+    "Shop": {
+        "rank": "944",
+        "word": "\u5e97",
+        "en": "Shop"
+    },
+    "Complete": {
+        "rank": "933",
+        "word": "\u5b8c\u6210",
+        "en": "Complete"
+    },
+    "Chase": {
+        "rank": "918",
+        "word": "\u8ffd",
+        "en": "Chase"
+    },
+    "Occasion": {
+        "rank": "919",
+        "word": "\u9645",
+        "en": "Occasion"
+    },
+    "Yield": {
+        "rank": "920",
+        "word": "\u4ea7",
+        "en": "Yield"
+    },
+    "Income": {
+        "rank": "922",
+        "word": "\u6536",
+        "en": "Income"
+    },
+    "Explore": {
+        "rank": "923",
+        "word": "\u63a2",
+        "en": "Explore"
+    },
+    "Until": {
+        "rank": "924",
+        "word": "\u76f4\u5230",
+        "en": "Until"
+    },
+    "Cool": {
+        "rank": "925",
+        "word": "\u9177",
+        "en": "Cool"
+    },
+    "Random": {
+        "rank": "926",
+        "word": "\u4e71",
+        "en": "Random"
+    },
+    "Capital": {
+        "rank": "927",
+        "word": "\u8d44",
+        "en": "Capital"
+    },
+    "Ruin": {
+        "rank": "928",
+        "word": "\u6bc1",
+        "en": "Ruin"
+    },
+    "Claim": {
+        "rank": "929",
+        "word": "\u8981\u6c42",
+        "en": "Claim"
+    },
+    "Urgent": {
+        "rank": "930",
+        "word": "\u6025",
+        "en": "Urgent"
+    },
+    "Mary": {
+        "rank": "931",
+        "word": "\u739b",
+        "en": "Mary"
+    },
+    "Square": {
+        "rank": "932",
+        "word": "\u65b9",
+        "en": "Square"
+    },
+    "Receive": {
+        "rank": "935",
+        "word": "\u6536\u5230",
+        "en": "Receive"
+    },
+    "Doctor": {
+        "rank": "937",
+        "word": "\u535a\u58eb",
+        "en": "Doctor"
+    },
+    "you": {
+        "rank": "939",
+        "word": "you",
+        "en": "you"
+    },
+    "Parents": {
+        "rank": "940",
+        "word": "\u7236\u6bcd",
+        "en": "Parents"
+    },
+    "Boy": {
+        "rank": "942",
+        "word": "\u7537\u5b69",
+        "en": "Boy"
+    },
+    "Attack": {
+        "rank": "943",
+        "word": "\u653b",
+        "en": "Attack"
+    },
+    "Angstrom": {
+        "rank": "945",
+        "word": "\u57c3",
+        "en": "Angstrom"
+    },
+    "How long": {
+        "rank": "946",
+        "word": "\u591a\u4e45",
+        "en": "How long"
+    },
+    "We": {
+        "rank": "953",
+        "word": "\u6211\u5011",
+        "en": "We"
+    },
+    "Present": {
+        "rank": "957",
+        "word": "\u73b0",
+        "en": "Present"
+    },
+    "Sri Lanka": {
+        "rank": "958",
+        "word": "\u65af",
+        "en": "Sri Lanka"
+    },
+    "Open": {
+        "rank": "963",
+        "word": "\u5f00",
+        "en": "Open"
+    },
+    "Listen": {
+        "rank": "974",
+        "word": "\u542c",
+        "en": "Listen"
+    },
+    "Gram": {
+        "rank": "975",
+        "word": "\u514b",
+        "en": "Gram"
+    },
+    "Again": {
+        "rank": "976",
+        "word": "\u518d",
+        "en": "Again"
+    },
+    "Fast": {
+        "rank": "977",
+        "word": "\u5feb",
+        "en": "Fast"
+    },
+    "Yes": {
+        "rank": "980",
+        "word": "\u662f\u7684",
+        "en": "Yes"
+    },
+    "Large": {
+        "rank": "981",
+        "word": "\u5927",
+        "en": "Large"
+    },
+    "Mr.": {
+        "rank": "982",
+        "word": "\u5148\u751f",
+        "en": "Mr."
+    },
+    "Thank": {
+        "rank": "986",
+        "word": "\u8c22",
+        "en": "Thank"
+    },
+    "Words": {
+        "rank": "988",
+        "word": "\u8bdd",
+        "en": "Words"
+    },
+    "Instrument": {
+        "rank": "989",
+        "word": "\u68b0",
+        "en": "Instrument"
+    },
+    "Core": {
+        "rank": "992",
+        "word": "\u82af",
+        "en": "Core"
+    },
+    "Western": {
+        "rank": "994",
+        "word": "\u897f",
+        "en": "Western"
+    },
+    "Small": {
+        "rank": "998",
+        "word": "\u5c0f",
+        "en": "Small"
+    },
+    "Special": {
+        "rank": "1000",
+        "word": "\u7279",
+        "en": "Special"
+    }
+}

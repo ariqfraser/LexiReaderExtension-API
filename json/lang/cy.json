@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "fel",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "Yr wyf yn",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "ei",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "bod",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "ef",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "oedd",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "gyfer",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "ar",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "yn",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "gyda",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "maent",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "fod yn",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "yn",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "un",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "wedi",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "hwn",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "o",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "gan",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "poeth",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "gair",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "ond",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "beth",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "rhai",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "yw",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "mae\u2019n",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "chi",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "neu",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "Roedd gan",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "\u00e2\u2019r",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "yr",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "i\u2019r",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "a\u2019r",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "mae",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "yn",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "rydym",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "gall",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "allan",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "arall",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "Roedd",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "sy\u2019n",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "wneud",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "eu",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "amser",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "os",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "bydd",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "sut",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "Dywedodd",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "mae",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "pob un",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "dweud",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "gwneud",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "set",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tri",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "eisiau",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "aer",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "yn dda",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "hefyd",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "chwarae",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "bach",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "pen",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "rhoi",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "cartref",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "darllen",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "llaw",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "porthladd",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "mawr",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "sillafu",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "ychwanegu",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "hyd yn oed",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "tir",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "yma",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "rhaid",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "mawr",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "uchel",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "fath",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "dilyn",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "gweithredu",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "pam",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "gofyn",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "dynion",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "newid",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "aeth",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "golau",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "fath",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "off",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "angen",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "t\u0177",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "llun",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "ceisiwch",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "ni",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "eto",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "anifail",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "pwynt",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "mam",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "byd",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "ger",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "adeiladu",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "hunan",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "ddaear",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "tad",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "unrhyw",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "newydd",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "gwaith",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "rhan",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "cymryd",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "cael",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "lle",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "wnaed",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "byw",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "lle",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "ar \u00f4l",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "yn \u00f4l",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "bach",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "yn unig",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "rownd",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "dyn",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "flwyddyn",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "Daeth",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "sioe",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "bob",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "dda",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "mi",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "rhoi",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "ein",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "o dan",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "enw",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "iawn",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "trwy",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "yn unig",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "ffurflen",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "dedfryd",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "mawr",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "meddwl",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "dweud",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "helpu",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "isel",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "llinell",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "yn wahanol",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "dro",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "achos",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "llawer",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "golygu",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "cyn",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "symud",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "hawl",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "bachgen",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "oed",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "rhy",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "un fath",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "hi",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "gyd",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "yno",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "pan",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "i fyny",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "defnydd",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "eich",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "ffordd",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "tua",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "llawer",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "yna,",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "nhw",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "ysgrifennu",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "byddai",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "hoffi",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "felly",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "rhain",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "hi",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "hir",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "gwneud",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "beth",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "gweld",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "iddo",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "dau",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "Mae gan",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "edrych",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "mwy",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "diwrnod",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "gallai",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "fynd",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "dod",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "wnaeth",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "rhif",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "sain",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "dim",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "y rhan fwyaf",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "pobl",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "fy",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "dros",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "gwybod",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "d\u0175r",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "nag",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "alwad",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "yn gyntaf",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "pwy",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "gall",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "i lawr",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "ochr",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "bod",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "awr",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "dod o hyd i",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "pen",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "sefyll",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "eu hunain",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "dudalen",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "Dylai",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "gwlad",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "dod o hyd i",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "ateb",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "ysgol",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "tyfu",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "astudiaeth",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "dal",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "dysgu",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "planhigion",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "clawr",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "bwyd",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "haul",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "pedwar",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "rhwng",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "cyflwr",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "cadw",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "llygad",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "byth",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "diwethaf",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "gadewch",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "meddwl",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "ddinas",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "goeden",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "croesi",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "fferm",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "caled",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "cychwyn",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "allai",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "stori",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "welodd",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "yn hyn",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "m\u00f4r",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "tynnu",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "Gadawodd",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "hwyr",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "rhedeg",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "peidiwch \u00e2",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "tra",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "wasg",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "agos",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "nos",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "go iawn",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "bywyd",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "ychydig",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "gogledd",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "llyfr",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "cario",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "cymerodd",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "gwyddoniaeth",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "bwyta",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "ystafell",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "ffrind",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "dechreuodd",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "syniad",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "pysgod",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "mynydd",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "rhoi\u2019r gorau i",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "unwaith",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "sylfaen",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "clywed",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "ceffyl",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "torri",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "siwr",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "gwylio",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "lliw",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "wyneb",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "pren",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "prif",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "agored",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "ymddangos",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "gyda\u2019i gilydd",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "nesaf",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "gwyn",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "plant",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "dechrau",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "got",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "cerdded",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "enghraifft",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "leddfu",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "papur",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "gr\u0175p",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "bob amser",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "cerddoriaeth",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "y rhai",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "ddau",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "marc",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "yn aml",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "llythyr",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "nes",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "milltir",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "afon",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "car",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "traed",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "gofal",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "yn ail",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "ddigon",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "plaen",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "merch",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "arferol",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "ifanc",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "barod",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "uchod",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "erioed",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "coch",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "rhestr",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "er bod",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "teimlo",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "sgwrs",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "adar",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "yn fuan",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "corff",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "ci",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "teulu",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "uniongyrchol",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "peri",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "gadael",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "c\u00e2n",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "mesur",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "drws",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "cynnyrch",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "du",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "byr",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "rhifolyn",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "dosbarth",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "gwynt",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "cwestiwn",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "yn digwydd",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "cwblhau",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "llong",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "ardal",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "hanner",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "graig",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "gorchymyn",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "t\u00e2n",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "de",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "problem",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "darn",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "gwybod",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "gwybod",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "pasio",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "ers",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "top",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "cyfan",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "brenin",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "stryd",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "modfedd",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "lluosi",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "dim byd",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "cwrs",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "aros",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "olwyn",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "llawn",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "grym",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "glas",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "gwrthrych",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "penderfynu",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "wyneb",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "dwfn",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "lleuad",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "ynys",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "droed",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "system",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "brysur",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "prawf",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "cofnod",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "cwch",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "gyffredin",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "aur",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "bosibl",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "awyren",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "le ef",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "sych",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "Tybed",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "chwerthin",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "mil",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "yn \u00f4l",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "rhedodd",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "gwirio",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "g\u00eam",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "si\u00e2p",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "cyfateb",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "miss",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "dwyn",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "gwres",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "eira",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "teiars",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "dod \u00e2",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "ie",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "bell",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "llenwi",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "ddwyrain",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "paent",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "iaith",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "ymhlith",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "uned",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "p\u0175er",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "dref",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "dirwy",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "penodol",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "hedfan",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "disgyn",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "arwain",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "crio",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "tywyll",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "peiriant",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "nodyn",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "aros",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "cynllun",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "ffigur",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "seren",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "blwch",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "enw",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "maes",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "gorffwys",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "gywir",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "gallu",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "punt",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "Da",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "harddwch",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "gyriant",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "sefyll",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "cynnwys",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "blaen",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "dysgu",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "wythnos",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "terfynol",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "Rhoddodd",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "gwyrdd",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "cyflym",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "datblygu",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "cefnfor",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "gynnes",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "rhad ac am ddim",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "munud",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "gryf",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "arbennig",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "meddwl",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "y tu \u00f4l i",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "glir",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "gynffon",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "cynhyrchu",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "ffaith",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "gofod",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "clywed",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "gorau",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "awr",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "gwell",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "yn wir",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "yn ystod",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "cant",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "pump",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "cofio",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "cam",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "gynnar",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "dal",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "orllewin",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "ddaear",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "llog",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "cyrraedd",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "cyflym",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "berf",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "canu",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "gwrando",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "chwech",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "tabl",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "teithio",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "llai",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "bore",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "deg",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "syml",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "nifer",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "llafariad",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "tuag",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "rhyfel",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "lleyg",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "erbyn",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "patrwm",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "araf",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "canolfan",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "wrth eu bodd",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "person",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "arian",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "gwasanaethu",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "ymddangos",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "ffordd",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "fap",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "glaw",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "rheol",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "llywodraethu",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "tynnu",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "oer",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "rhybudd",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "llais",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "ynni",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "helfa",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "tebygol",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "gwely",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "brawd",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "wy",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "taith",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "cell",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "yn credu",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "efallai",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "ddewis",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "sydyn",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "cyfrif",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "sgw\u00e2r",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "rheswm",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "hyd",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "cynrychioli",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "celf",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "pwnc",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "rhanbarth",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "maint y",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "amrywio",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "setlo",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "siarad",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "pwysau",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "gyffredinol",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "i\u00e2",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "mater",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "cylch",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "p\u00e2r",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "cynnwys",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "rhaniad",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "sillaf",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "Teimlwyd",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "mawreddog",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "p\u00eal",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "eto",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "don",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "gollwng",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "galon",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "wyf",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "bresennol",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "trwm",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "dawns",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "peiriant",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "sefyllfa",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "braich",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "eang",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "hwylio",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "deunydd",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "ffracsiwn",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "goedwig",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "eistedd",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "hil",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "ffenestr",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "siop",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "haf",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "tr\u00ean",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "cysgu",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "profi",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "eich pen eich hun",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "goes",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "ymarfer corff",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "wal",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "dal",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "mynydd",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "dymuno",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "awyr",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "bwrdd",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "llawenydd",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "gaeaf",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "sat",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "ysgrifenedig",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "gwyllt",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "offeryn",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "cadw",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "gwydr",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "glaswellt",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "buwch",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "swydd",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "ymyl",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "arwydd",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "ymweliad",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "gorffennol",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "meddal",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "hwyl",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "llachar",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "nwy",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "tywydd",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "mis",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "miliwn",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "arth",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "gorffen",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "hapus",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "gobeithio",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "blodyn",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "dilladu",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "rhyfedd",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "wedi mynd",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "masnach",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "alaw",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "daith",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "swyddfa",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "derbyn",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "rhes",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "geg",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "union",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "arwydd",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "marw",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "lleiaf",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "trafferth",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "gweiddi",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "ac eithrio",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "ysgrifennodd",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "hadau",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "t\u00f4n",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "ymuno",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "awgrymu",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "l\u00e2n",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "egwyl",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "wraig",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "iard",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "codi",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "drwg",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "ergyd",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "olew",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "gwaed",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "cyffwrdd",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "Tyfodd",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "cant",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "cymysgu",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "t\u00eem",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "gwifren",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "chost",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "gollwyd",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "brown",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "gwisgo",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "gardd",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "gyfartal",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "anfon",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "dewis",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "syrthiodd",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "ffitio",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "llif",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "deg",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "banc",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "casglu",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "arbed",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "rheoli",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "degol",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "clust",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "arall",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "eithaf",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "torrodd",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "achos",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "canol",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "lladd",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "mab",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "llyn",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "hyn o bryd",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "graddfa",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "uchel",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "gwanwyn",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "arsylwi",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "plentyn",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "syth",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "cytseiniaid",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "cenedl",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "geiriadur",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "llaeth",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "cyflymder",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "dull",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organ",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "talu",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "oedran",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "adran",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "gwisg",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "cwmwl",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "syndod",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "dawel",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "cerrig",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "bach",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "dringo",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "oer",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "dylunio",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "gwael",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "llawer",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "arbrawf",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "gwaelod",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "allweddol",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "haearn",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "sengl",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "ffon",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "fflat",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "ugain",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "croen",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "gwenu",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "cris",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "twll",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "neidio",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "babi",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "wyth",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "pentref",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "cwrdd",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "gwraidd",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "prynu",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "codi",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "datrys",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "metel",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "p\u2019un a",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "gwthio",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "saith",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "paragraff",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "trydydd",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "rhaid",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "a gedwir yn",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "gwallt",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "disgrifio",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "cogydd",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "llawr",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "naill ai",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "canlyniad",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "llosgi",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "bryn",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "yn ddiogel",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "cath",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "ganrif",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "ystyried",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "math",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "gyfraith",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "bit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "arfordir",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "copi",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "ymadrodd",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "dawel",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "tal",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "tywod",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "pridd",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "gofrestr",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "tymheredd",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "bys",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "diwydiant",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "gwerth",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "frwydr",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "gorwedd",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "guro",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "cyffroi",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "naturiol",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "barn",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "synnwyr",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "cyfalaf",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "Ni fydd",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "gadeirydd",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "perygl",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "ffrwythau",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "gyfoethog",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "trwchus",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "milwr",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "broses",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "gweithredu",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "ymarfer",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "ar wah\u00e2n",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "anodd",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "meddyg",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "os gwelwch yn dda",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "amddiffyn",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "canol dydd",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "cnwd",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "modern",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "elfen",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "taro",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "myfyriwr",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "cornel",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "parti",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "cyflenwad",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "y mae ei",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "o hyd",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "ffoniwch",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "cymeriad",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "pryfed",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "dal",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "cyfnod",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "dangos",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "Cymru",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "Siaradodd",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atom",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "dynol",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "hanes",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "effaith",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "trydan",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "disgwyl",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "esgyrn",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "rheilffyrdd",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "dychmygu",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "darparu",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "cytuno",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "felly",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "ysgafn",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "fenyw",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "capten",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "dyfalu",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "angenrheidiol",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "miniog",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "adain",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "creu",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "cymydog",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "golchi",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "ystlumod",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "yn hytrach",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "dorf",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "corn",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "cymharu",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "cerdd",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "llinyn",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "cloch",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "dibynnu",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "cig",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "rhwbio",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tiwb",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "enwog",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "doler",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "nant",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "ofn",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "golwg",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "tenau",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "triongl",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "blaned",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "frys",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "prif",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "nythfa",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "cloc",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "mwynglawdd",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "tei",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "fynd i mewn",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "mawr",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "ffres",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "chwilio",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "anfon",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "melyn",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "gwn",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "caniat\u00e1u",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "print",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "marw",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "fan a\u2019r lle",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "anialwch",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "siwt",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "ar hyn o bryd",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "lifft",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "rhosyn",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "cyrraedd",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "meistr",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "trac",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "rhiant",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "lan",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "is-adran",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "taflen",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "sylweddau",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "ffafrio",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "cysylltu",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "swydd",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "gwario",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "tant",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "braster",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "falch",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "gwreiddiol",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "rhannu",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "orsaf",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "dad",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "bara",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "codi t\u00e2l",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "briodol",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "cynnig",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "gylchran",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "gaethweision",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "hwyaden",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "amrantiad",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "farchnad",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "gradd",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "boblogi",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "cyw",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "annwyl",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "gelyn",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "ateb",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "diod",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "yn digwydd",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "cymorth",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "lleferydd",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "natur",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "amrediad",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "st\u00eam",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "cynnig",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "llwybr",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "hylif",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "log",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "golygu",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "cyniferydd",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "dannedd",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "cragen",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "gwddf",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "ocsigen",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "siwgr",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "marwolaeth",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "\u2019n bert",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "sgiliau",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "menywod",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "tymor",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "ateb",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magnet",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "arian",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "diolch",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "gangen",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "g\u00eam",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "\u00f4l-ddodiad",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "yn enwedig",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "ffig",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "ofn",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "enfawr",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "chwaer",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "dur",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "trafod",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "ymlaen",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "tebyg",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "arwain",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "profiad",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "sg\u00f4r",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "afal",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "brynwyd",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "arweinir",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "traw",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "c\u00f4t",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "m\u00e0s",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "cerdyn",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "mand",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "rhaff",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "slip",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "ennill",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "freuddwyd",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "gyda\u2019r nos",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "cyflwr",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "porthiant",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "offeryn",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "cyfanswm",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "sylfaenol",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "arogl",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "dyffryn",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "nac",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "dwbl",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "sedd",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "parhau",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "bloc",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "siart",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "het",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "gwerthu",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "llwyddiant",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "cwmni",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "tynnu",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "digwyddiad",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "penodol",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "delio",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "nofio",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "dymor",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "gyferbyn",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "gwraig",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "esgid",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "ysgwydd",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "lledaenu",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "trefnu",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "gwersyll",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "dyfeisio",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "cotwm",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "anwyd",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "penderfynu",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "chwart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "naw",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "lori",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "s\u0175n",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "lefel",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "cyfle",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "casglu",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "siop",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "ymestyn",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "taflu",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "disgleirio",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "eiddo",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "colofn",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "moleciwl",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "dewis",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "anghywir",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "llwyd",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "ailadrodd",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "ei gwneud yn ofynnol",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "eang",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "paratoi",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "halen",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "trwyn",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "lluosog",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "dicter",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "hawliad",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "cyfandir",
+        "en": "continent"
+    }
+}

@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "\u09b9\u09bf\u09b8\u09be\u09ac\u09c7",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "\u0986\u09ae\u09bf",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "\u09a4\u09be\u09b0",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "\u09af\u09c7",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "\u09a4\u09bf\u09a8\u09bf",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "\u099b\u09bf\u09b2",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "\u099c\u09a8\u09cd\u09af",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "\u0989\u09aa\u09b0",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "\u09b9\u09af\u09bc",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "\u09b8\u0999\u09cd\u0997\u09c7",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "\u09a4\u09be\u09b0\u09be",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "\u09b9\u09a4\u09c7",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "\u098f",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "\u098f\u0995",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "\u0986\u099b\u09c7",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "\u098f\u0987",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "\u09a5\u09c7\u0995\u09c7",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "\u09a6\u09cd\u09ac\u09be\u09b0\u09be",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "\u0997\u09b0\u09ae",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "\u09b6\u09ac\u09cd\u09a6",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "\u0995\u09bf\u09a8\u09cd\u09a4\u09c1",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "\u0995\u09bf",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "\u0995\u09bf\u099b\u09c1",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "\u09b9\u09af\u09bc",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "\u098f\u099f\u09be",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "\u0986\u09aa\u09a8\u09bf",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "\u09ac\u09be",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "\u099b\u09bf\u09b2",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "\u09a6\u09c0",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "\u098f\u09b0",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "\u09a5\u09c7\u0995\u09c7",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "\u098f\u09ac\u0982",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "\u098f\u0995\u099f\u09bf",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "\u09ae\u09a7\u09cd\u09af\u09c7",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "\u0986\u09ae\u09b0\u09be",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "\u0995\u09b0\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7\u09a8",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "\u0986\u0989\u099f",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "\u0985\u09a8\u09cd\u09af\u09be\u09a8\u09cd\u09af",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "\u099b\u09bf\u09b2",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "\u09af\u09be",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "\u0995\u09bf",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "\u09a4\u09be\u09a6\u09c7\u09b0",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "\u09b8\u09ae\u09af\u09bc",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "\u09af\u09a6\u09bf",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "\u0985\u09ad\u09bf\u09b2\u09be\u09b7",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "\u0995\u09bf\u09ad\u09be\u09ac\u09c7",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "\u09a4\u09bf\u09a8\u09bf \u09ac\u09b2\u09c7\u09a8,",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "\u098f\u0995\u099f\u09bf",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "\u09aa\u09cd\u09b0\u09a4\u09bf\u099f\u09bf",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "\u09ac\u09b2\u09c1\u09a8",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "\u09a8\u09be",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "\u09b8\u09c7\u099f",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "\u09a4\u09bf\u09a8",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "\u099a\u09be\u09a8",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "\u09ac\u09be\u09af\u09bc\u09c1",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "\u09ad\u09be\u09b2",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "\u098f\u099b\u09be\u09a1\u09bc\u09be\u0993",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "\u0996\u09c7\u09b2\u09be",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "\u099b\u09cb\u099f",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "\u09b6\u09c7\u09b7",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "\u0995\u09b0\u09be",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "\u09b9\u09cb\u09ae",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "\u09aa\u09a1\u09bc\u09be",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "\u09b9\u09be\u09a4",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "\u09aa\u09cb\u09b0\u09cd\u099f",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "\u09ac\u09a1\u09bc",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "\u09ac\u09be\u09a8\u09be\u09a8",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "\u09af\u09cb\u0997 \u0995\u09b0\u09be",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "\u098f\u09ae\u09a8\u0995\u09bf",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "\u099c\u09ae\u09bf",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "\u098f\u0996\u09be\u09a8\u09c7",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "\u0985\u09ac\u09b6\u09cd\u09af\u0987",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "\u09ac\u09a1\u09bc",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "\u0989\u099a\u09cd\u099a",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "\u098f\u09ae\u09a8",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "\u0985\u09a8\u09c1\u09b8\u09b0\u09a3 \u0995\u09b0\u09be",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "\u0986\u0987\u09a8",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "\u0995\u09c7\u09a8",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "\u099c\u09bf\u099c\u09cd\u099e\u09be\u09b8\u09be",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "\u09aa\u09c1\u09b0\u09c1\u09b7",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "\u09aa\u09b0\u09bf\u09ac\u09b0\u09cd\u09a4\u09a8",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "\u0997\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09be\u09ae",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "\u0986\u09b2\u09cb",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "\u09a7\u09b0\u09a8\u09c7\u09b0",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "\u09ac\u09a8\u09cd\u09a7",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "\u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "\u0998\u09b0",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "\u099b\u09ac\u09bf",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "\u099a\u09c7\u09b7\u09cd\u099f\u09be",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "\u0986\u09ae\u09be\u09a6\u09c7\u09b0",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "\u0986\u09ac\u09be\u09b0",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "\u09aa\u09b6\u09c1",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "\u09ac\u09bf\u09a8\u09cd\u09a6\u09c1",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "\u09ae\u09be",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "\u0995\u09be\u099b\u09be\u0995\u09be\u099b\u09bf",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09ae\u09be\u09a3",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "\u09b8\u09cd\u09ac",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "\u09aa\u09c3\u09a5\u09bf\u09ac\u09c0",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "\u09ac\u09be\u09ac\u09be",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "\u0995\u09cb\u09a8\u09cb",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "\u09a8\u09a4\u09c1\u09a8",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "\u0995\u09be\u099c",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "\u0985\u0982\u09b6",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "\u0997\u09cd\u09b0\u09b9\u09a3 \u0995\u09b0\u09be",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "\u09aa\u09be\u0993\u09af\u09bc\u09be",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "\u09b8\u09cd\u09a5\u09be\u09a8",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "\u09a4\u09c8\u09b0\u09bf",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "\u09ac\u09be\u09b8",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "\u09af\u09c7\u0996\u09be\u09a8\u09c7",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "\u09aa\u09b0\u09c7",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "\u09ab\u09bf\u09b0\u09c7",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "\u09b8\u09be\u09ae\u09be\u09a8\u09cd\u09af",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "\u09b6\u09c1\u09a7\u09c1\u09ae\u09be\u09a4\u09cd\u09b0",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "\u09ac\u09c3\u09a4\u09cd\u09a4\u09be\u0995\u09be\u09b0",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "\u09ae\u09be\u09a8\u09c1\u09b7",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "\u09ac\u099b\u09b0",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "\u0986\u09b8\u09c7\u09a8",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "\u09b6\u09cb",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "\u09aa\u09cd\u09b0\u09a4\u09bf",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "\u09ad\u09be\u09b2",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "\u0986\u09ae\u09be\u0995\u09c7",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "\u09a6\u09bf\u09a4\u09c7",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "\u0986\u09ae\u09be\u09a6\u09c7\u09b0",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "\u0985\u09a7\u09c0\u09a8",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "\u09a8\u09be\u09ae",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "\u0996\u09c1\u09ac",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "\u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "\u09a0\u09bf\u0995",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "\u09ab\u09b0\u09cd\u09ae",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "\u09ac\u09be\u0995\u09cd\u09af",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "\u09ae\u09b9\u09be\u09a8",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "\u09ae\u09a8\u09c7",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "\u09ac\u09b2\u09c7",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "\u09b8\u09be\u09b9\u09be\u09af\u09cd\u09af",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "\u0995\u09ae",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "\u09b2\u09be\u0987\u09a8",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "\u09aa\u09c3\u09a5\u0995",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "\u09aa\u09be\u09b2\u09be",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "\u0995\u09be\u09b0\u09a3",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "\u0985\u09a8\u09c7\u0995",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "\u0997\u09a1\u09bc",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "\u0986\u0997\u09c7",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "\u09aa\u09a6\u0995\u09cd\u09b7\u09c7\u09aa",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "\u0985\u09a7\u09bf\u0995\u09be\u09b0",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "\u099b\u09c7\u09b2\u09c7",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "\u09aa\u09c1\u09b0\u09be\u09a4\u09a8",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "\u0996\u09c1\u09ac",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "\u098f\u0995\u0987",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "\u09a4\u09bf\u09a8\u09bf",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "\u09b8\u09ac",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "\u09b8\u09c7\u0996\u09be\u09a8\u09c7",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "\u09af\u0996\u09a8",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "\u0986\u09aa",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "\u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "\u0986\u09aa\u09a8\u09be\u09b0",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "\u0989\u09aa\u09be\u09af\u09bc",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "\u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "\u0985\u09a8\u09c7\u0995",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "\u09a4\u09be\u09b0\u09aa\u09b0",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "\u09a4\u09be\u09a6\u09c7\u09b0",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "\u09b2\u09bf\u0996\u09c1\u09a8",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "\u09b9\u09ac\u09c7",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "\u09ae\u09a4",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "\u09b8\u09c1\u09a4\u09b0\u09be\u0982",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "\u098f\u0987",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "\u09a4\u09be\u09b0",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "\u09a6\u09c0\u09b0\u09cd\u0998",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "\u09a8\u09be",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "\u09ac\u09bf\u09b7\u09af\u09bc",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "\u09a6\u09c7\u0996\u09be",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "\u09a4\u09be\u0995\u09c7",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "\u09a6\u09c1\u0987",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "\u0986\u099b\u09c7",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "\u099a\u09c7\u09b9\u09be\u09b0\u09be",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "\u0986\u09b0\u09cb",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "\u09a6\u09bf\u09a8",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "\u09aa\u09be\u09b0\u09be",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "\u09af\u09be\u0993\u09af\u09bc\u09be",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "\u0986\u09b8\u09be",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "\u0995\u09bf",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "\u09b8\u0982\u0996\u09cd\u09af\u09be",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "\u09b6\u09ac\u09cd\u09a6",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "\u0995\u09cb\u09a8",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "\u09b8\u09ac\u099a\u09c7\u09af\u09bc\u09c7",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "\u09ae\u09be\u09a8\u09c1\u09b7",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "\u0986\u09ae\u09be\u09b0",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "\u0989\u09aa\u09b0",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "\u099c\u09be\u09a8\u09be",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "\u099c\u09b2",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "\u09a4\u09c1\u09b2\u09a8\u09be\u09af\u09bc",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "\u0995\u09b2",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "\u09aa\u09cd\u09b0\u09a5\u09ae",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "\u09af\u09be\u09b0\u09be",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "\u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "\u09a8\u09bf\u099a\u09c7",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "\u09aa\u09be\u09b6",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "\u09b9\u09af\u09bc\u09c7\u099b\u09c7",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "\u098f\u0996\u09a8",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "\u098f\u099f\u09bf",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "\u09ae\u09be\u09a5\u09be",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "\u09a6\u09be\u0981\u09a1\u09bc\u09be\u09a8\u09cb",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "\u09a8\u09bf\u099c\u09b8\u09cd\u09ac",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "\u09aa\u09c3\u09b7\u09cd\u09a0\u09be",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "\u0989\u099a\u09bf\u09a4",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "\u09a6\u09c7\u09b6",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "\u09aa\u09be\u0993\u09af\u09bc\u09be",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "\u0989\u09a4\u09cd\u09a4\u09b0",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "\u09b8\u09cd\u0995\u09c1\u09b2",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "\u09b9\u09a4\u09cd\u09a4\u09af\u09bc\u09be",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "\u0997\u09ac\u09c7\u09b7\u09a3\u09be",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "\u098f\u0996\u09a8\u0993",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "\u09b6\u09c7\u0996\u09be",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "\u0989\u09a6\u09cd\u09ad\u09bf\u09a6",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "\u0995\u09ad\u09be\u09b0",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "\u0996\u09be\u09a6\u09cd\u09af",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "\u09b8\u09c2\u09b0\u09cd\u09af",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "\u099a\u09be\u09b0",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "\u09ae\u09a7\u09cd\u09af\u09c7",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "\u09b0\u09be\u0996\u09be",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "\u099a\u09cb\u0996",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "\u09a8\u09be",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "\u09b6\u09c7\u09b7",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "\u09af\u09be\u0995",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "\u099a\u09bf\u09a8\u09cd\u09a4\u09be\u09b0",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "\u09b6\u09b9\u09b0",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "\u0997\u09be\u099b",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "\u0995\u09cd\u09b0\u09c1\u09b6",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "\u0996\u09be\u09ae\u09be\u09b0",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "\u0995\u09a0\u09bf\u09a8",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "\u09b6\u09c1\u09b0\u09c1",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "\u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "\u0997\u09b2\u09cd\u09aa",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "\u0995\u09b0\u09be\u09a4",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "\u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "\u09b8\u09ae\u09c1\u09a6\u09cd\u09b0",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "\u0986\u0981\u0995\u09be",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "\u09ac\u09be\u0995\u09bf",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "\u09a6\u09c7\u09b0\u09c0",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "\u09b0\u09be\u09a8",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "\u09a8\u09be",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "\u09af\u0996\u09a8",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "\u09aa\u09cd\u09b0\u09c7\u09b8",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "\u09ac\u09a8\u09cd\u09a7",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "\u09b0\u09be\u09a4",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "\u09ac\u09be\u09b8\u09cd\u09a4\u09ac",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "\u099c\u09c0\u09ac\u09a8",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "\u0995\u09af\u09bc\u09c7\u0995",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "\u0989\u09a4\u09cd\u09a4\u09b0",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "\u09ac\u0987",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "\u09ac\u09b9\u09a8",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "\u0997\u09cd\u09b0\u09b9\u09a3",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "\u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "\u0996\u09be\u0993\u09af\u09bc\u09be",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "\u09b0\u09c1\u09ae",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "\u09ac\u09a8\u09cd\u09a7\u09c1",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "\u09b6\u09c1\u09b0\u09c1",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "\u09a7\u09be\u09b0\u09a3\u09be",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "\u09ae\u09be\u099b",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "\u09aa\u09b0\u09cd\u09ac\u09a4",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "\u09ac\u09a8\u09cd\u09a7",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "\u098f\u0995\u09ac\u09be\u09b0",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "\u0998\u09be\u0981\u099f\u09bf",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "\u09b6\u09cd\u09b0\u09ac\u09a3",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "\u0998\u09cb\u09a1\u09bc\u09be",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "\u0995\u09be\u099f\u09be",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "\u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "\u0998\u09a1\u09bc\u09bf",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "\u09b0\u0999",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "\u09ae\u09c1\u0996",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "\u0995\u09be\u09a0",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "\u09aa\u09cd\u09b0\u09a7\u09be\u09a8",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "\u0996\u09cb\u09b2\u09be",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "\u09ae\u09a8\u09c7 \u09b9\u099a\u09cd\u099b\u09c7",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "\u098f\u0995\u09b8\u0999\u09cd\u0997\u09c7",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "\u09aa\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "\u09b8\u09be\u09a6\u09be",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "\u09b6\u09bf\u09b6\u09c1",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "\u09b6\u09c1\u09b0\u09c1",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "\u09aa\u09c7\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09be\u09ae",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "\u09aa\u09a6\u09ac\u09cd\u09b0\u099c\u09c7 \u09ad\u09cd\u09b0\u09ae\u09a3",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "\u0989\u09a6\u09be\u09b9\u09b0\u09a3",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "\u0986\u09b0\u09be\u09ae",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "\u0995\u09be\u0997\u099c",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "\u0997\u09cd\u09b0\u09c1\u09aa",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "\u09b8\u09ac\u09b8\u09ae\u09af\u09bc",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "\u09b8\u0999\u09cd\u0997\u09c0\u09a4",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "\u09af\u09be\u09b0\u09be",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "\u0989\u09ad\u09af\u09bc",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "\u099a\u09bf\u09b9\u09cd\u09a8",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "\u09aa\u09cd\u09b0\u09be\u09af\u09bc\u0987",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "\u099a\u09bf\u09a0\u09bf",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "\u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "\u09ae\u09be\u0987\u09b2",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "\u09a8\u09a6\u09c0",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "\u0997\u09be\u09a1\u09bc\u09c0",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "\u09ab\u09c1\u099f",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "\u09af\u09a4\u09cd\u09a8",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "\u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09af\u09bc",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "\u09af\u09a5\u09c7\u09b7\u09cd\u099f",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "\u09b8\u09be\u09a7\u09be\u09b0\u09a3",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "\u09ae\u09c7\u09af\u09bc\u09c7",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "\u09b8\u09cd\u09ac\u09be\u09ad\u09be\u09ac\u09bf\u0995",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "\u09a4\u09b0\u09c1\u09a3",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "\u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09c1\u09a4",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "\u0989\u09aa\u09b0\u09c7",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "\u0995\u0996\u09a8\u0993",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "\u09b2\u09be\u09b2",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "\u09a4\u09be\u09b2\u09bf\u0995\u09be",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "\u09af\u09a6\u09bf\u0993",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "\u09ae\u09a8\u09c7",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "\u0986\u09b2\u09be\u09aa",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "\u09aa\u09be\u0996\u09bf",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "\u09b6\u09c0\u0998\u09cd\u09b0\u0987",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "\u09b6\u09b0\u09c0\u09b0",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "\u0995\u09c1\u0995\u09c1\u09b0",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "\u09aa\u09b0\u09bf\u09ac\u09be\u09b0",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "\u09b8\u09b0\u09be\u09b8\u09b0\u09bf",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "\u099c\u09be\u09b9\u09bf\u09b0 \u0995\u09b0\u09be",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "\u09a4\u09cd\u09af\u09be\u0997",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "\u0997\u09be\u09a8",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "\u09aa\u09b0\u09bf\u09ae\u09be\u09aa",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "\u09a6\u09b0\u099c\u09be",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "\u09aa\u09a3\u09cd\u09af",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "\u0995\u09be\u09b2\u09cb",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "\u09b8\u0982\u0995\u09cd\u09b7\u09bf\u09aa\u09cd\u09a4",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "\u09b8\u0982\u0996\u09cd\u09af\u09be",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "\u09ac\u09b0\u09cd\u0997",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "\u09ac\u09be\u09af\u09bc\u09c1",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "\u09aa\u09cd\u09b0\u09b6\u09cd\u09a8",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "\u0998\u099f\u09be",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "\u09b8\u09ae\u09cd\u09aa\u09c2\u09b0\u09cd\u09a3",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "\u099c\u09be\u09b9\u09be\u099c",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "\u0995\u09cd\u09b7\u09c7\u09a4\u09cd\u09b0",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "\u0985\u09b0\u09cd\u09a7",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "\u09b6\u09bf\u09b2\u09be",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "\u09af\u09be\u09a4\u09c7",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "\u0986\u0997\u09c1\u09a8",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "\u09b8\u09ae\u09b8\u09cd\u09af\u09be",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "\u099f\u09c1\u0995\u09b0\u09be",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "\u09ac\u09b2\u09be",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "\u099c\u09be\u09a8\u09a4\u09be\u09ae",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "\u09aa\u09be\u09b8",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "\u0996\u09ac\u09b0",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "\u09b6\u09c0\u09b0\u09cd\u09b7",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "\u09b8\u09ae\u0997\u09cd\u09b0",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "\u09b0\u09be\u099c\u09be",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "\u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09af\u09bc",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "\u0987\u099e\u09cd\u099a\u09bf",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "\u09b8\u0982\u0996\u09cd\u09af\u09be\u09ac\u09c3\u09a6\u09cd\u09a7\u09bf",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "\u0995\u09bf\u099b\u09c1\u0987",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "\u09ae\u09be\u09a0",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "\u09a5\u09be\u0995\u09be\u09b0",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "\u099a\u09be\u0995\u09be",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "\u09aa\u09c2\u09b0\u09cd\u09a3",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "\u09ac\u09b2",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "\u09a8\u09c0\u09b2",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "\u09ac\u09b8\u09cd\u09a4\u09c1",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "\u09b8\u09cd\u09a5\u09bf\u09b0 \u0995\u09b0\u09be",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "\u09aa\u09c3\u09b7\u09cd\u09a0",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "\u0997\u09ad\u09c0\u09b0",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "\u099a\u09be\u0981\u09a6",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "\u09a6\u09cd\u09ac\u09c0\u09aa",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "\u09aa\u09be",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "\u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "\u09ac\u09cd\u09af\u09b8\u09cd\u09a4",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "\u09aa\u09b0\u09c0\u0995\u09cd\u09b7\u09be",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "\u09b0\u09c7\u0995\u09b0\u09cd\u09a1",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "\u09a8\u09cc\u0995\u09be",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "\u09b8\u09be\u09a7\u09be\u09b0\u09a3",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "\u09b8\u09cd\u09ac\u09b0\u09cd\u09a3",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "\u09b8\u09ae\u09cd\u09ad\u09ac",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "\u09b8\u09ae\u09a4\u09b2",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "\u0989\u09aa\u0995\u09be\u09b0",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "\u09b6\u09c1\u09b7\u09cd\u0995",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "\u0986\u09b6\u09cd\u099a\u09b0\u09cd\u09af\u09c7\u09b0",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "\u09ae\u099c\u09be",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "\u09b9\u09be\u099c\u09be\u09b0",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "\u0986\u0997\u09c7",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "\u09ac\u09bf\u09b6\u09c7\u09b7\u09a4\u09cd\u09ac\u09b9\u09c0\u09a8",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "\u099a\u09c7\u0995",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "\u0996\u09c7\u09b2\u09be",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "\u0986\u0995\u09c3\u09a4\u09bf",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "\u09b8\u09ae\u09c0\u0995\u09b0\u09a3",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "\u09ae\u09bf\u09b8\u09cd",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "\u0989\u09aa\u09a8\u09c0\u09a4",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "\u09a4\u09be\u09aa",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "\u09a4\u09c1\u09b7\u09be\u09b0",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "\u099f\u09be\u09af\u09bc\u09b0\u09be",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "\u0986\u09a8\u09be",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "\u09b9\u09cd\u09af\u09be\u0981",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "\u09a6\u09c2\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "\u09aa\u09c2\u09b0\u09a3",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "\u09aa\u09c2\u09b0\u09cd\u09ac",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "\u0986\u0981\u0995\u09be",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "\u09ad\u09be\u09b7\u09be",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "\u09ae\u09a7\u09cd\u09af\u09c7",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "\u0987\u0989\u09a8\u09bf\u099f",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "\u0995\u09cd\u09b7\u09ae\u09a4\u09be",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "\u09b6\u09b9\u09b0\u09c7",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "\u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09a6\u09bf\u09b7\u09cd\u099f",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "\u0989\u09a1\u09bc\u09c7",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "\u09aa\u09a1\u09bc\u09be",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "\u09a8\u09c7\u09a4\u09c3\u09a4\u09cd\u09ac",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "\u0995\u09be\u09a8\u09cd\u09a8\u09be\u0995\u09be\u099f\u09bf",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "\u0985\u09a8\u09cd\u09a7\u0995\u09be\u09b0",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "\u09ae\u09c7\u09b6\u09bf\u09a8",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "\u09a8\u09cb\u099f",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "\u0985\u09aa\u09c7\u0995\u09cd\u09b7\u09be \u0995\u09b0\u09c1\u09a8",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "\u09aa\u09b0\u09bf\u0995\u09b2\u09cd\u09aa\u09a8\u09be",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "\u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u09a4\u09cd\u09ac",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "\u09a4\u09be\u09b0\u09be",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "\u09ac\u0995\u09cd\u09b8",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "\u09ac\u09bf\u09b6\u09c7\u09b7\u09cd\u09af",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "\u0995\u09cd\u09b7\u09c7\u09a4\u09cd\u09b0",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "\u09ac\u09be\u0995\u09bf",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "\u09b8\u09a0\u09bf\u0995",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "\u09b8\u0995\u09cd\u09b7\u09ae",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "\u0986\u09a7\u09be \u0995\u09c7\u099c\u09bf",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "\u0995\u09be\u099c",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "\u09b8\u09cc\u09a8\u09cd\u09a6\u09b0\u09cd\u09af",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "\u09a1\u09cd\u09b0\u09be\u0987\u09ad",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "\u09a6\u09be\u0981\u09a1\u09bc\u09bf\u09af\u09bc\u09c7",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "\u09a7\u09be\u09b0\u09a3",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "\u09b8\u09be\u09ae\u09a8\u09c7",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "\u09b6\u09c7\u0996\u09be\u09a8",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "\u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "\u099a\u09c2\u09a1\u09bc\u09be\u09a8\u09cd\u09a4",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "\u09a6\u09bf\u09af\u09bc\u09c7\u099b\u09c7\u09a8",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "\u09b8\u09ac\u09c1\u099c",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "\u0989\u09b9\u09c1",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "\u09a6\u09cd\u09b0\u09c1\u09a4",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "\u09ac\u09bf\u0995\u09be\u09b6",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "\u09ae\u09b9\u09be\u09b8\u09be\u0997\u09b0",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "\u0989\u09b7\u09cd\u09a3",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "\u09ac\u09bf\u09a8\u09be\u09ae\u09c2\u09b2\u09cd\u09af\u09c7",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "\u09ae\u09bf\u09a8\u09bf\u099f",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "\u09b6\u0995\u09cd\u09a4\u09bf\u09b6\u09be\u09b2\u09c0",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "\u09ac\u09bf\u09b6\u09c7\u09b7",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "\u09ae\u09a8",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "\u09aa\u09bf\u099b\u09a8\u09c7",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "\u09b8\u09cd\u09aa\u09b7\u09cd\u099f",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "\u09b2\u09c7\u0999\u09cd\u0997\u09c1\u09a1\u09bc",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "\u0989\u09a4\u09cd\u09aa\u09be\u09a6\u09a8",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "\u0986\u09b8\u09b2\u09c7",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "\u09b8\u09cd\u09a5\u09be\u09a8",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "\u09b6\u09cb\u09a8\u09be",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "\u09b8\u09c7\u09b0\u09be",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "\u0998\u09a8\u09cd\u099f\u09be",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "\u09ad\u09be\u09b2",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "\u09b8\u09a4\u09cd\u09af",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "\u09b8\u09ae\u09af\u09bc",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "\u09b6\u09a4",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "\u09aa\u09be\u0981\u099a",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "\u09ae\u09a8\u09c7 \u09b0\u09be\u0996\u09ac\u09c7\u09a8,",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "\u09aa\u09a6\u0995\u09cd\u09b7\u09c7\u09aa",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "\u09aa\u09cd\u09b0\u09a5\u09ae",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "\u09b0\u09be\u0996\u09be",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "\u09aa\u09b6\u09cd\u099a\u09bf\u09ae",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "\u09b8\u09cd\u09a5\u09b2",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "\u09b8\u09c1\u09a6",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "\u09a8\u09be\u0997\u09be\u09b2",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "\u09a6\u09cd\u09b0\u09c1\u09a4",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "\u0995\u09cd\u09b0\u09bf\u09af\u09bc\u09be",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "\u0997\u09be\u09a4\u09cd\u09a4\u09af\u09bc\u09be",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "\u09b6\u09c1\u09a8\u09a4\u09c7",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "\u099b\u09af\u09bc",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "\u099f\u09c7\u09ac\u09bf\u09b2",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "\u09ad\u09cd\u09b0\u09ae\u09a3",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "\u0995\u09ae",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "\u09b8\u0995\u09be\u09b2",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "\u09a6\u09b6",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "\u09b8\u09b9\u099c",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "\u09ac\u09bf\u09ad\u09bf\u09a8\u09cd\u09a8",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "\u09b8\u09cd\u09ac\u09b0\u09ac\u09b0\u09cd\u09a3",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "\u09a6\u09bf\u0995\u09c7",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "\u09af\u09c1\u09a6\u09cd\u09a7",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "\u09b0\u09be\u0996\u09be",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "\u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "\u09aa\u09cd\u09af\u09be\u099f\u09be\u09b0\u09cd\u09a8",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "\u09a7\u09c0\u09b0",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "\u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "\u09aa\u09cd\u09b0\u09c7\u09ae",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "\u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "\u099f\u09be\u0995\u09be",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "\u09aa\u09b0\u09bf\u09ac\u09c7\u09b6\u09a8 \u0995\u09b0\u09be",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "\u09aa\u09cd\u09b0\u09a6\u09b0\u09cd\u09b6\u09bf\u09a4",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "\u09b0\u09be\u09b8\u09cd\u09a4\u09be",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "\u09ae\u09be\u09a8\u099a\u09bf\u09a4\u09cd\u09b0",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "\u09ac\u09c3\u09b7\u09cd\u099f\u09bf",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "\u09a8\u09bf\u09af\u09bc\u09ae",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "\u09b6\u09be\u09b8\u09a8 \u0995\u09b0\u09be",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "\u099f\u09be\u09a8",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "\u09a0\u09be\u09a8\u09cd\u09a1\u09be",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "\u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "\u09ad\u09af\u09bc\u09c7\u09b8",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "\u09b6\u0995\u09cd\u09a4\u09bf",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "\u0996\u09cb\u0981\u099c\u09be",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "\u09b8\u09ae\u09cd\u09ad\u09be\u09ac\u09cd\u09af",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "\u09ac\u09bf\u099b\u09be\u09a8\u09be",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "\u09ad\u09be\u0987",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "\u09a1\u09bf\u09ae",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "\u09af\u09be\u09a4\u09cd\u09b0\u09be\u09af\u09bc",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "\u09b8\u09c7\u09b2",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "\u09b8\u09ae\u09cd\u09ad\u09ac\u09a4",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "\u09ac\u09be\u099b\u09be\u0987",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "\u0986\u0995\u09b8\u09cd\u09ae\u09bf\u0995",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "\u0997\u09a3\u09a8\u09be",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "\u09ac\u09b0\u09cd\u0997",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "\u0995\u09be\u09b0\u09a3",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "\u09a6\u09c8\u09b0\u09cd\u0998\u09cd\u09af",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "\u09aa\u09cd\u09b0\u09a4\u09bf\u09a8\u09bf\u09a7\u09bf\u09a4\u09cd\u09ac",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "\u09b6\u09bf\u09b2\u09cd\u09aa",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "\u09ac\u09bf\u09b7\u09af\u09bc",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "\u0985\u099e\u09cd\u099a\u09b2",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "\u0986\u0995\u09be\u09b0",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "\u09aa\u09b0\u09bf\u09ac\u09b0\u09cd\u09a4\u09bf\u09a4 \u09b9\u09a4\u09c7",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "\u09b8\u09cd\u09a5\u09be\u09af\u09bc\u09c0\u09ad\u09be\u09ac\u09c7 \u09ac\u09b8\u09ac\u09be\u09b8 \u0995\u09b0\u09be",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "\u0995\u09a5\u09be \u09ac\u09b2\u09a4\u09c7",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "\u0993\u099c\u09a8",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "\u09b8\u09be\u09a7\u09be\u09b0\u09a3",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "\u09ac\u09b0\u09ab",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "\u09ac\u09cd\u09af\u09be\u09aa\u09be\u09b0",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "\u09ac\u09c3\u09a4\u09cd\u09a4",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "\u099c\u09cb\u09a1\u09bc\u09be",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "\u0985\u09a8\u09cd\u09a4\u09b0\u09cd\u09ad\u09c1\u0995\u09cd\u09a4",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "\u09ac\u09bf\u09ad\u0995\u09cd\u09a4 \u0995\u09b0\u09be",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "\u09b6\u09ac\u09cd\u09a6\u09be\u0982\u09b6",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "\u0985\u09a8\u09c1\u09ad\u09c2\u09a4",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "\u09ac\u09b2",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "\u098f\u0996\u09a8\u09cb",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "\u09a4\u09b0\u0999\u09cd\u0997",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "\u099d\u09b0\u09be",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "\u09b9\u09c3\u09a6\u09af\u09bc",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "\u0985\u09aa\u09b0\u09be\u09b9\u09cd\u09a8",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "\u09ac\u09b0\u09cd\u09a4\u09ae\u09be\u09a8",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "\u09ad\u09be\u09b0\u09c0",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "\u09a8\u09be\u099a",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "\u0987\u099e\u09cd\u099c\u09bf\u09a8",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "\u0985\u09ac\u09b8\u09cd\u09a5\u09be\u09a8",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "\u09b9\u09be\u09a4",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "\u09ac\u09cd\u09af\u09be\u09aa\u0995",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "\u09aa\u09be\u09b2 \u09a4\u09cb\u09b2\u09be",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "\u0989\u09aa\u09be\u09a6\u09be\u09a8",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "\u09ad\u0997\u09cd\u09a8\u09be\u0982\u09b6",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "\u09ac\u09a8",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "\u09ac\u09b8\u09a4\u09c7",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "\u099c\u09be\u09a4\u09bf",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "\u0989\u0987\u09a8\u09cd\u09a1\u09cb",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "\u09a6\u09cb\u0995\u09be\u09a8",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "\u0997\u09cd\u09b0\u09c0\u09b7\u09cd\u09ae",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "\u099f\u09cd\u09b0\u09c7\u09a8",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "\u0998\u09c1\u09ae",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "\u09aa\u09cd\u09b0\u09ae\u09be\u09a3",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u099c\u09a8",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "\u09aa\u09be",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "\u09ac\u09cd\u09af\u09be\u09af\u09bc\u09be\u09ae",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "\u09aa\u09cd\u09b0\u09be\u099a\u09c0\u09b0",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "\u09a7\u09b0\u09be",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "\u09ae\u09be\u0989\u09a8\u09cd\u099f",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "\u0987\u099a\u09cd\u099b\u09c1\u0995",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "\u0986\u0995\u09be\u09b6",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "\u09ac\u09cb\u09b0\u09cd\u09a1",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "\u0986\u09a8\u09a8\u09cd\u09a6",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "\u09b6\u09c0\u09a4\u0995\u09be\u09b2\u09c0\u09a8",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "\u09b6\u09a8\u09bf",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "\u09b2\u09c7\u0996\u09be",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "\u09ac\u09a8\u09cd\u09af",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "\u0989\u09aa\u0995\u09b0\u09a3",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "\u09b0\u09be\u0996\u09be",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "\u0995\u09be\u099a",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "\u0998\u09be\u09b8",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "\u0997\u09be\u09ad\u09c0",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "\u0995\u09be\u099c",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "\u09aa\u09cd\u09b0\u09be\u09a8\u09cd\u09a4",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "\u09b8\u09be\u0987\u09a8",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "\u09a6\u09b0\u09cd\u09b6\u09a8",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "\u0997\u09a4",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "\u09a8\u09b0\u09ae",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "\u09ae\u099c\u09be",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "\u0989\u099c\u09cd\u099c\u09cd\u09ac\u09b2",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "\u0997\u09cd\u09af\u09be\u09b8",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "\u0986\u09ac\u09b9\u09be\u0993\u09af\u09bc\u09be",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "\u09ae\u09be\u09b8",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "\u09ae\u09bf\u09b2\u09bf\u09af\u09bc\u09a8",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "\u09ad\u09be\u09b2\u09c1\u0995",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "\u09b6\u09c7\u09b7",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "\u0996\u09c1\u09b6\u09bf",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "\u0986\u09b6\u09be",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "\u09ab\u09c1\u09b2",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "\u0986\u09ac\u09c3\u09a4 \u0995\u09b0\u09be",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "\u0985\u09a6\u09cd\u09ad\u09c1\u09a4",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "\u09b8\u09b0\u09cd\u09ac\u09b8\u09cd\u09ac\u09be\u09a8\u09cd\u09a4",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "\u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "\u09b8\u09c1\u09b0",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "\u099f\u09cd\u09b0\u09bf\u09aa",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "\u0985\u09ab\u09bf\u09b8",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "\u09aa\u09be\u09ac\u09c7\u09a8",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "\u09b8\u09be\u09b0\u09bf",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "\u09ae\u09c1\u0996",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "\u09b8\u09a0\u09bf\u0995",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "\u09aa\u09cd\u09b0\u09a4\u09c0\u0995",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "\u09ae\u09b0\u09be",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "\u0985\u09a8\u09cd\u09a4\u09a4",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "\u0995\u09b7\u09cd\u099f",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "\u099a\u09bf\u09a4\u09cd\u0995\u09be\u09b0",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "\u099b\u09be\u09a1\u09bc\u09be",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "\u09b2\u09bf\u0996\u09c7\u099b\u09c7\u09a8",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "\u09ac\u09c0\u099c",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "\u09b8\u09cd\u09ac\u09a8",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "\u09af\u09cb\u0997\u09a6\u09be\u09a8",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "\u09b8\u09c1\u09aa\u09be\u09b0\u09bf\u09b6",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "\u09aa\u09b0\u09bf\u09b7\u09cd\u0995\u09be\u09b0",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "\u09ac\u09bf\u09b0\u09a4\u09bf",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "\u09ad\u09a6\u09cd\u09b0\u09ae\u09b9\u09bf\u09b2\u09be",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "\u0997\u099c",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "\u0993\u09a0\u09be",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "\u0996\u09be\u09b0\u09be\u09aa",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "\u0998\u09be",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "\u09a4\u09c7\u09b2",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "\u09b0\u0995\u09cd\u09a4",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "\u09b8\u09cd\u09aa\u09b0\u09cd\u09b6",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "\u09ac\u09a1\u09bc \u09b9\u09af\u09bc\u09c7\u099b\u09bf",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "\u09b6\u09a4\u09be\u0982\u09b6",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "\u09ae\u09bf\u09b6\u09cd\u09b0\u09bf\u09a4 \u0995\u09b0\u09be",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "\u09a6\u09b2",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "\u09a4\u09be\u09b0\u09c7\u09b0",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "\u0996\u09b0\u099a",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "\u09b9\u09be\u09b0\u09bf\u09af\u09bc\u09c7",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "\u09ac\u09be\u09a6\u09be\u09ae\u09c0",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "\u09aa\u09b0\u09bf\u09a7\u09be\u09a8",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "\u09ac\u09be\u0997\u09be\u09a8",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "\u09b8\u09ae\u09be\u09a8",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "\u09aa\u09be\u09a0\u09be\u09a8\u09cb",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "\u09b9\u09bf\u0982\u09b8\u09cd\u09b0",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "\u09ae\u09be\u09aa\u09b8\u0987",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "\u09aa\u09cd\u09b0\u09ac\u09be\u09b9",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "\u09a8\u09cd\u09af\u09be\u09af\u09cd\u09af",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "\u09ac\u09cd\u09af\u09be\u0982\u0995",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "\u09b8\u0982\u0997\u09cd\u09b0\u09b9 \u0995\u09b0\u09be",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "\u09b8\u0982\u09b0\u0995\u09cd\u09b7\u09a3",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "\u09a8\u09bf\u09af\u09bc\u09a8\u09cd\u09a4\u09cd\u09b0\u09a3",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "\u09a6\u09b6\u09ae\u09bf\u0995",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "\u0995\u09be\u09a8",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "\u0985\u09a8\u09cd\u09af",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "\u09aa\u09c1\u09b0\u09cb\u09aa\u09c1\u09b0\u09bf",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "\u09ad\u09c7\u0999\u09c7",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "\u0995\u09c7\u09b8",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "\u09ae\u09a7\u09cd\u09af\u09ae",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "\u09b9\u09a4\u09cd\u09af\u09be",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "\u099b\u09c7\u09b2\u09c7",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "\u09b9\u09cd\u09b0\u09a6",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "\u09ae\u09c1\u09b9\u09c2\u09b0\u09cd\u09a4",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "\u09b8\u09cd\u0995\u09c7\u09b2",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "\u0985\u099f\u09cd\u099f",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "\u09ac\u09b8\u09a8\u09cd\u09a4",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "\u09aa\u09be\u09b2\u09a8 \u0995\u09b0\u09be",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "\u09b6\u09bf\u09b6\u09c1",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "\u09b8\u09cb\u099c\u09be",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "\u09ac\u09cd\u09af\u099e\u09cd\u099c\u09a8\u09ac\u09b0\u09cd\u09a3",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "\u099c\u09be\u09a4\u09bf",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "\u0985\u09ad\u09bf\u09a7\u09be\u09a8",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "\u09a6\u09c1\u09a7",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "\u0997\u09a4\u09bf",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "\u09aa\u09a6\u09cd\u09a7\u09a4\u09bf",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "\u0985\u0999\u09cd\u0997",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "\u09aa\u09b0\u09bf\u09b6\u09cb\u09a7",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "\u09ac\u09af\u09bc\u09b8",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "\u0985\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "\u09aa\u09cb\u09b6\u09be\u0995",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "\u09ae\u09c7\u0998",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "\u09ac\u09bf\u09b8\u09cd\u09ae\u09af\u09bc",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "\u09b6\u09be\u09a8\u09cd\u09a4",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "\u09aa\u09be\u09a5\u09b0",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "\u0985\u09a4\u09bf \u0995\u09cd\u09b7\u09c1\u09a6\u09cd\u09b0",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "\u0986\u09b0\u09cb\u09b9\u09a8\u09c7\u09b0",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "\u09b6\u09be\u09a8\u09cd\u09a4",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "\u09a8\u0995\u09b6\u09be",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "\u09a6\u09b0\u09bf\u09a6\u09cd\u09b0",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "\u0985\u09a8\u09c7\u0995",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "\u09aa\u09b0\u09c0\u0995\u09cd\u09b7\u09be",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "\u09a8\u09c0\u099a\u09c7",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "\u099a\u09be\u09ac\u09bf",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "\u09b2\u09cb\u09b9\u09be",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "\u098f\u0995\u0995",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "\u09b2\u09be\u09a0\u09bf",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "\u09ab\u09cd\u09b2\u09cd\u09af\u09be\u099f",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "\u09ac\u09bf\u09b6",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "\u09a4\u09cd\u09ac\u0995",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "\u09b9\u09be\u09b8\u09bf",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "\u09ad\u09be\u0981\u099c \u0995\u09b0\u09be",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "\u0997\u09b0\u09cd\u09a4",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "\u099d\u09be\u0981\u09aa",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "\u09b6\u09bf\u09b6\u09c1\u09b0",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "\u0986\u099f",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "\u0997\u09cd\u09b0\u09be\u09ae",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "\u09a6\u09c7\u0996\u09be",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "\u09b0\u09c1\u099f",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "\u0995\u09bf\u09a8\u09a4\u09c7",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "\u09ac\u09be\u09a1\u09bc\u09be\u09a4\u09c7",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "\u09b8\u09ae\u09be\u09a7\u09be\u09a8",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "\u09a7\u09be\u09a4\u09c1",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "\u0995\u09bf\u09a8\u09be",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "\u09a7\u09be\u0995\u09cd\u0995\u09be",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "\u09b8\u09be\u09a4",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "\u0985\u09a8\u09c1\u099a\u09cd\u099b\u09c7\u09a6",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "\u09a4\u09c3\u09a4\u09c0\u09af\u09bc",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "\u09b9\u0987\u09ac\u09c7",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "\u0985\u09a8\u09c1\u09b7\u09cd\u09a0\u09bf\u09a4",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "\u099a\u09c1\u09b2",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "\u09ac\u09b0\u09cd\u09a3\u09a8\u09be",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "\u09b0\u09be\u09a8\u09cd\u09a8\u09be\u0998\u09b0",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "\u09ae\u09c7\u099d\u09c7",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "\u09b9\u09af\u09bc",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "\u09ab\u09b2\u09c7",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "\u09ac\u09be\u09b0\u09cd\u09a8",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "\u09aa\u09be\u09b9\u09be\u09a1\u09bc",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "\u09a8\u09bf\u09b0\u09be\u09aa\u09a6",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "\u09ac\u09bf\u09a1\u09bc\u09be\u09b2",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "\u09b6\u09a4\u09be\u09ac\u09cd\u09a6\u09c0\u09b0",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "\u09ac\u09bf\u09ac\u09c7\u099a\u09a8\u09be \u0995\u09b0\u09be",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "\u099f\u09be\u0987\u09aa",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "\u0986\u0987\u09a8",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "\u0995\u09bf\u099b\u09c1\u0995\u09cd\u09b7\u09a3",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "\u0989\u09aa\u0995\u09c2\u09b2",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "\u0995\u09aa\u09bf",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "\u09ab\u09cd\u09b0\u09c7\u099c",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "\u09a8\u09c0\u09b0\u09ac",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "\u09b2\u09ae\u09cd\u09ac\u09be",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "\u09ac\u09be\u09b2\u09bf",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "\u09ae\u09be\u099f\u09bf",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "\u09b0\u09cb\u09b2",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "\u09a4\u09be\u09aa\u09ae\u09be\u09a4\u09cd\u09b0\u09be",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "\u0986\u0999\u09c1\u09b2",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "\u09b6\u09bf\u09b2\u09cd\u09aa",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "\u09ae\u09c2\u09b2\u09cd\u09af",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "\u09af\u09c1\u09a6\u09cd\u09a7",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "\u09ae\u09bf\u09a5\u09cd\u09af\u09be",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "\u09ac\u09c0\u099f",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "\u099c\u09be\u0997\u09be\u09a8",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "\u09aa\u09cd\u09b0\u09be\u0995\u09c3\u09a4\u09bf\u0995",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "\u09a6\u09c7\u0996\u09c1\u09a8",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "\u099c\u09cd\u099e\u09be\u09a8",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "\u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "\u09a8\u09be \u0995\u09b0\u09ac\u09c7 \u09a8\u09be",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "\u099a\u09c7\u09af\u09bc\u09be\u09b0",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "\u09ac\u09bf\u09aa\u09a6",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "\u09ab\u09b2",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "\u09b8\u09ae\u09c3\u09a6\u09cd\u09a7",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "\u09aa\u09c1\u09b0\u09c1",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "\u09b8\u09c8\u09a8\u09bf\u0995",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "\u09aa\u09cd\u09b0\u0995\u09cd\u09b0\u09bf\u09af\u09bc\u09be",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "\u0995\u09be\u099c",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "\u0985\u09a8\u09c1\u09b6\u09c0\u09b2\u09a8",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "\u09aa\u09c3\u09a5\u0995",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "\u0995\u09a0\u09bf\u09a8",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "\u09a1\u09be\u0995\u09cd\u09a4\u09be\u09b0",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "\u0995\u09b0\u09c1\u09a8",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "\u09b0\u0995\u09cd\u09b7\u09be",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "\u09a6\u09c1\u09aa\u09c1\u09b0",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "\u09ab\u09b8\u09b2",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "\u0986\u09a7\u09c1\u09a8\u09bf\u0995",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "\u0989\u09aa\u09be\u09a6\u09be\u09a8",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "\u0986\u0998\u09be\u09a4",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "\u099b\u09be\u09a4\u09cd\u09b0",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "\u0995\u09cb\u09a3",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "\u09a6\u09b2",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "\u09b8\u09b0\u09ac\u09b0\u09be\u09b9",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "\u09af\u09be\u09b0",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "\u09b8\u09a8\u09be\u0995\u09cd\u09a4",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "\u09b0\u09bf\u0982",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "\u099a\u09b0\u09bf\u09a4\u09cd\u09b0",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "\u09aa\u09cb\u0995\u09be",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "\u09a7\u09b0\u09be",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "\u09b8\u09ae\u09af\u09bc\u09c7\u09b0",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "\u09b0\u09c7\u09a1\u09bf\u0993",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "\u09ac\u0995\u09cd\u09a4\u09ac\u09cd\u09af \u09b0\u09be\u0996\u09c7\u09a8",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "\u09aa\u09b0\u09ae\u09be\u09a3\u09c1",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "\u09ae\u09be\u09a8\u09ac\u09c0\u09af\u09bc",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "\u0987\u09a4\u09bf\u09b9\u09be\u09b8",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "\u09aa\u09cd\u09b0\u09ad\u09be\u09ac",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "\u09ac\u09c8\u09a6\u09cd\u09af\u09c1\u09a4\u09bf\u0995",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "\u0986\u09b6\u09be \u0995\u09b0\u09be",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "\u09b9\u09be\u09a1\u09bc",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "\u09b0\u09c7\u09b2",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "\u0995\u09b2\u09cd\u09aa\u09a8\u09be",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "\u09aa\u09cd\u09b0\u09a6\u09be\u09a8",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "\u098f\u0995\u09ae\u09a4",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "\u098f\u0987\u09ad\u09be\u09ac\u09c7",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "\u09ae\u09c3\u09a6\u09c1",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "\u09a8\u09be\u09b0\u09c0",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "\u0985\u09a7\u09bf\u09a8\u09be\u09af\u09bc\u0995",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "\u0985\u09a8\u09c1\u09ae\u09be\u09a8",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "\u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8\u09c0\u09af\u09bc",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "\u09a7\u09be\u09b0\u09be\u09b2\u09cb",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "\u0997\u09b0\u09c2\u09ce",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "\u09a4\u09c8\u09b0\u09bf",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "\u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09c7\u09b6\u09c0",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "\u09a7\u09cb\u09af\u09bc\u09be\u09b0",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "\u09ac\u09be\u09a6\u09c1\u09a1\u09bc",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "\u09ac\u09b0\u0982",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "\u09ad\u09bf\u09a1\u09bc",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "\u09ad\u09c2\u099f\u09cd\u099f\u09be",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "\u09a4\u09c1\u09b2\u09a8\u09be",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "\u0995\u09ac\u09bf\u09a4\u09be",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u0982",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "\u0998\u09a3\u09cd\u099f\u09be",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09ad\u09b0 \u0995\u09b0\u09c7",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "\u09ae\u09be\u0982\u09b8",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "\u09ac\u09bf\u09aa\u09a4\u09cd\u09a4\u09bf",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "\u099f\u09bf\u0989\u09ac",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "\u09ac\u09bf\u0996\u09cd\u09af\u09be\u09a4",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "\u09a1\u09b2\u09be\u09b0",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "\u09aa\u09cd\u09b0\u09ac\u09be\u09b9",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "\u09ad\u09af\u09bc",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "\u09a6\u09c3\u09b7\u09cd\u099f\u09bf\u09b6\u0995\u09cd\u09a4\u09bf",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "\u09aa\u09be\u09a4\u09b2\u09be",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "\u09a4\u09cd\u09b0\u09bf\u09ad\u09c1\u099c",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "\u0997\u09cd\u09b0\u09b9",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "\u09a4\u09cd\u09ac\u09b0\u09be",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "\u09aa\u09cd\u09b0\u09a7\u09be\u09a8",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "\u0989\u09aa\u09a8\u09bf\u09ac\u09c7\u09b6",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "\u0998\u09a1\u09bc\u09bf",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "\u0996\u09a8\u09bf",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "\u099f\u09be\u0987",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "\u09aa\u09cd\u09b0\u09ac\u09c7\u09b6",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "\u09aa\u09cd\u09b0\u09a7\u09be\u09a8",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "\u09a4\u09be\u099c\u09be",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "\u0985\u09a8\u09c1\u09b8\u09a8\u09cd\u09a7\u09be\u09a8",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "\u09aa\u09be\u09a0\u09be\u09a8",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "\u09b9\u09b2\u09c1\u09a6",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "\u09ac\u09a8\u09cd\u09a6\u09c1\u0995",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "\u0985\u09a8\u09c1\u09ae\u09a4\u09bf",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "\u09ae\u09c1\u09a6\u09cd\u09b0\u09a3",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "\u09ae\u09c3\u09a4",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "\u0985\u0995\u09c1\u09b8\u09cd\u09a5\u09b2",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "\u09ae\u09b0\u09c1\u09ad\u09c2\u09ae\u09bf",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "\u09ae\u09be\u09ae\u09b2\u09be",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "\u09ac\u09b0\u09cd\u09a4\u09ae\u09be\u09a8",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "\u09b2\u09bf\u09ab\u099f",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "\u0997\u09cb\u09b2\u09be\u09aa",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "\u09aa\u09cc\u0981\u099b\u09be",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "\u09ae\u09be\u09b8\u09cd\u099f\u09be\u09b0",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "\u099f\u09cd\u09b0\u09cd\u09af\u09be\u0995",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "\u09aa\u09bf\u09a4\u09be \u09ac\u09be \u09ae\u09be\u09a4\u09be",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "\u09a4\u09c0\u09b0\u09c7",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "\u09ac\u09bf\u09ad\u09be\u0997",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "\u09b6\u09c0\u099f",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "\u09aa\u09a6\u09be\u09b0\u09cd\u09a5",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "\u0986\u09a8\u09c1\u0995\u09c2\u09b2\u09cd\u09af",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "\u09b8\u0982\u09af\u09cb\u0997",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "\u09aa\u09cb\u09b8\u09cd\u099f",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "\u09ac\u09cd\u09af\u09af\u09bc",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "\u099c\u09cd\u09af\u09be",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "\u099a\u09b0\u09cd\u09ac\u09bf",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "\u0986\u09a8\u09a8\u09cd\u09a6\u09bf\u09a4",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "\u09ae\u09c2\u09b2",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "\u09ad\u09be\u0997",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "\u09b8\u09cd\u099f\u09c7\u09b6\u09a8",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "\u09ac\u09be\u09ac\u09be",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "\u09b0\u09c1\u099f\u09bf",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "\u099a\u09be\u09b0\u09cd\u099c",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "\u09b8\u09a0\u09bf\u0995",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "\u09ac\u09be\u09b0",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "\u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09be\u09ac",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "\u0985\u0982\u09b6",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "\u0995\u09cd\u09b0\u09c0\u09a4\u09a6\u09be\u09b8",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "\u09b9\u09be\u0981\u09b8",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "\u09a4\u09be\u09a4\u09cd\u0995\u09cd\u09b7\u09a3\u09bf\u0995",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "\u09ac\u09be\u099c\u09be\u09b0",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "\u09a1\u09bf\u0997\u09cd\u09b0\u09c0",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "\u09aa\u09c2\u09b0\u09a3",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "\u0995\u09c1\u0995\u09cd\u0995\u09c1\u099f",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "\u09a6\u09c1\u09b0\u09cd\u09ae\u09c2\u09b2\u09cd\u09af",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "\u09b6\u09a4\u09cd\u09b0\u09c1",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "\u0989\u09a4\u09cd\u09a4\u09b0",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "\u09aa\u09be\u09a8\u09c0\u09af\u09bc",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "\u0998\u099f\u09a4\u09c7",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "\u09b8\u09ae\u09b0\u09cd\u09a5\u09a8",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "\u09ac\u0995\u09cd\u09a4\u09c3\u09a4\u09be",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "\u09aa\u09cd\u09b0\u0995\u09c3\u09a4\u09bf",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "\u09aa\u09b0\u09bf\u09b8\u09b0",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "\u09ac\u09be\u09b7\u09cd\u09aa",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "\u0997\u09a4\u09bf",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "\u09aa\u09a5",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "\u09a4\u09b0\u09b2",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "\u09b2\u0997 \u0987\u09a8",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "\u09ac\u09cb\u099d\u09be\u09a8\u09cb",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "\u09ad\u09be\u0997\u09ab\u09b2",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "\u09a6\u09be\u0981\u09a4",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "\u0996\u09cb\u09b2\u09be",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "\u0998\u09be\u09a1\u09bc",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "\u0985\u0995\u09cd\u09b8\u09bf\u099c\u09c7\u09a8",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "\u099a\u09bf\u09a8\u09bf",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "\u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "\u099a\u09ae\u09a4\u09cd\u0995\u09be\u09b0",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "\u09a6\u0995\u09cd\u09b7\u09a4\u09be",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "\u09a8\u09be\u09b0\u09c0",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "\u098b\u09a4\u09c1",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "\u09b8\u09ae\u09be\u09a7\u09be\u09a8",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "\u099a\u09c1\u09ae\u09cd\u09ac\u0995",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "\u09b0\u09c2\u09aa\u09be\u09b2\u09c0",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "\u09a7\u09a8\u09cd\u09af\u09ac\u09be\u09a6",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "\u09b6\u09be\u0996\u09be",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "\u09ae\u09cd\u09af\u09be\u099a",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "\u09ae\u09c2\u09b2 \u09b6\u09ac\u09cd\u09a6\u09c7\u09b0 \u0985\u09a8\u09cd\u09a4\u09c7 \u09af\u09c1\u0995\u09cd\u09a4 \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09af\u09bc \u09ac\u09bf\u09ad\u0995\u09cd\u09a4\u09bf \u09aa\u09cd\u09b0\u09ad\u09c3\u09a4\u09bf",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "\u09ac\u09bf\u09b6\u09c7\u09b7 \u0995\u09b0\u09c7",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "\u09a1\u09c1\u09ae\u09c1\u09b0",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "\u09ad\u09af\u09bc",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "\u09ac\u09bf\u09b6\u09be\u09b2",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "\u09ac\u09cb\u09a8",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "\u0987\u09b8\u09cd\u09aa\u09be\u09a4",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "\u0986\u09b2\u09cb\u099a\u09a8\u09be",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "\u0985\u0997\u09cd\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "\u0985\u09a8\u09c1\u09b0\u09c2\u09aa",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "\u0995\u09cc\u09b6\u09b2",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "\u0985\u09ad\u09bf\u099c\u09cd\u099e\u09a4\u09be",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "\u09b8\u09cd\u0995\u09cb\u09b0",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "\u0986\u09aa\u09c7\u09b2",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "\u0995\u09c7\u09a8\u09be",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "\u099a\u09be\u09b2\u09bf\u09a4",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "\u09aa\u09bf\u099a",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "\u0995\u09cb\u099f",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "\u09ad\u09b0",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "\u0995\u09be\u09b0\u09cd\u09a1",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "\u09ac\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "\u09a6\u09a1\u09bc\u09bf",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "\u09b8\u09cd\u09b2\u09bf\u09aa",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "\u099c\u09af\u09bc",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "\u09b8\u09cd\u09ac\u09aa\u09cd\u09a8",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "\u09b8\u09a8\u09cd\u09a7\u09cd\u09af\u09be\u09af\u09bc",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "\u09b6\u09b0\u09cd\u09a4",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "\u09ab\u09bf\u09a1",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "\u099f\u09c1\u09b2",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "\u09ae\u09cb\u099f",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "\u09ae\u09cc\u09b2\u09bf\u0995",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "\u0997\u09a8\u09cd\u09a7",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "\u0989\u09aa\u09a4\u09cd\u09af\u0995\u09be",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "\u09a8\u09be",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "\u09a1\u09ac\u09b2",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "\u0986\u09b8\u09a8",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "\u0985\u09ac\u09bf\u09b0\u09a4",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "\u09ac\u09cd\u09b2\u0995",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "\u099a\u09be\u09b0\u09cd\u099f",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "\u099f\u09c1\u09aa\u09bf",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "\u09ac\u09bf\u0995\u09cd\u09b0\u09bf",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "\u09b8\u09be\u09ab\u09b2\u09cd\u09af",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "\u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "\u09ac\u09bf\u09af\u09bc\u09cb\u0997 \u0995\u09b0\u09be",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "\u0998\u099f\u09a8\u09be",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "\u09ac\u09bf\u09b6\u09c7\u09b7",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "\u09b2\u09c7\u09a8\u09a6\u09c7\u09a8",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "\u09b8\u09be\u0981\u09a4\u09be\u09b0 \u0995\u09be\u099f\u09be",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "\u09b6\u09ac\u09cd\u09a6",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "\u09ac\u09bf\u09aa\u09b0\u09c0\u09a4",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "\u09b8\u09cd\u09a4\u09cd\u09b0\u09c0",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "\u099c\u09c1\u09a4\u09cb",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "\u0995\u09be\u0981\u09a7",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "\u09ac\u09bf\u09b8\u09cd\u09a4\u09be\u09b0",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "\u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "\u09b6\u09bf\u09ac\u09bf\u09b0",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "\u0989\u09a6\u09cd\u09ad\u09be\u09ac\u09bf\u09a4",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "\u09a4\u09c1\u09b2\u09be",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "\u099c\u09a8\u09cd\u09ae",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09a7\u09be\u09b0\u09a3",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "\u0997\u09cd\u09af\u09be\u09b2\u09a8\u09c7\u09b0 \u099a\u09a4\u09c1\u09b0\u09cd\u09a5\u09be\u0982\u09b6",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "\u09a8\u09af\u09bc",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "\u099f\u09cd\u09b0\u09be\u0995",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "\u09b6\u09ac\u09cd\u09a6",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "\u09b8\u09cd\u09a4\u09b0",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "\u09b8\u09c1\u09af\u09cb\u0997",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "\u099c\u09a1\u09bc\u09cb \u0995\u09b0\u09be",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "\u09a6\u09cb\u0995\u09be\u09a8",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "\u09aa\u09cd\u09b0\u09b8\u09be\u09b0\u09bf\u09a4",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "\u09a8\u09bf\u0995\u09cd\u09b7\u09c7\u09aa",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "\u0989\u099c\u09cd\u099c\u09cd\u09ac\u09b2",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "\u09b8\u09ae\u09cd\u09aa\u09a4\u09cd\u09a4\u09bf",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "\u0995\u09b2\u09be\u09ae",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "\u0985\u09a3\u09c1",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "\u09ad\u09c1\u09b2",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "\u09a7\u09c2\u09b8\u09b0",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "\u09aa\u09c1\u09a8\u09b0\u09be\u09ac\u09c3\u09a4\u09cd\u09a4\u09bf",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "\u09aa\u09cd\u09b0\u09af\u09bc\u09cb\u099c\u09a8",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "\u09ac\u09bf\u09b8\u09cd\u09a4\u09c3\u09a4",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "\u09aa\u09cd\u09b0\u09b8\u09cd\u09a4\u09c1\u09a4",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "\u09b2\u09ac\u09a3",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "\u09a8\u09be\u0995",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "\u09ac\u09b9\u09c1\u09ac\u099a\u09a8",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "\u09b0\u09be\u0997",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "\u09a6\u09be\u09ac\u09bf",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "\u09ae\u09b9\u09be\u09a6\u09c7\u09b6",
+        "en": "continent"
+    }
+}

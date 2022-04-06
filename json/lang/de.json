@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "wie",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "ich",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "seine",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "dass",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "er",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "war",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "f\u00fcr",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "auf",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "sind",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "mit",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "sie",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "sein",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "bei",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "ein",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "haben",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "dies",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "aus",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "durch",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "hei\u00df",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "Wort",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "aber",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "was",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "einige",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "ist",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "es",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "Sie",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "oder",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "hatte",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "die",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "von",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "zu",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "und",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "ein",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "bei",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "wir",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "k\u00f6nnen",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "aus",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "andere",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "waren",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "die",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "tun",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "ihre",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "Zeit",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "wenn",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "werden",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "wie",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "sagte",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "ein",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "jeder",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "sagen",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "tut",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "Satz",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "drei",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "wollen",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "Luft",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "gut",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "auch",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "spielen",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "klein",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "Ende",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "setzen",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "Zuhause",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "lesen",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "seits",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "Hafen",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "gro\u00df",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "buchstabieren",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "hinzuf\u00fcgen",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "auch",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "Lande",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "hier",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "muss",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "gro\u00df",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "hoch",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "so",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "folgen",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "Akt",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "warum",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "fragen",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "M\u00e4nner",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "Ver\u00e4nderung",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "ging",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "Licht",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "Art",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "aus",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "m\u00fcssen",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "Haus",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "Bild",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "versuchen",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "uns",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "wieder",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "Tier",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "Punkt",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "Mutter",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "Welt",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "in der N\u00e4he von",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "bauen",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "selbst",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "Erde",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "Vater",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "jeder",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "neu",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "Arbeit",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "Teil",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "nehmen",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "erhalten",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "Ort",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "gemacht",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "leben",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "wo",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "nach",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "zur\u00fcck",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "wenig",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "nur",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "Runde",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "Mann",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "Jahr",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "kam",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "zeigen",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "jeder",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "gut",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "mir",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "geben",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "unsere",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "unter",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "Name",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "sehr",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "durch",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "nur",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "Formular",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "Satz",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "gro\u00df",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "denken",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "sagen",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "Hilfe",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "niedrig",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "Linie",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "abweichen",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "wiederum",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "Ursache",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "viel",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "bedeuten",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "vor",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "Umzug",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "Recht",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "Junge",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "alt",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "zu",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "gleich",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "sie",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "alle",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "da",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "wenn",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "nach oben",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "Verwendung",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "Ihre",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "Weg",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "\u00fcber",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "viele",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "dann",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "sie",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "schreiben",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "w\u00fcrde",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "wie",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "so",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "diese",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "sie",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "lange",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "machen",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "Sache",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "sehen",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "ihm",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "zwei",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "hat",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "suchen",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "mehr",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "Tag",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "k\u00f6nnte",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "gehen",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "kommen",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "tat",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "Anzahl",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "klingen",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "nicht",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "am meisten",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "Menschen",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "meine",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "\u00fcber",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "wissen",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "Wasser",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "als",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "Anruf",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "erste",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "die",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "k\u00f6nnen",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "nach unten",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "Seite",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "gewesen",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "jetzt",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "finden",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "Kopf",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "stehen",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "besitzen",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "Seite",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "sollte",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "Land",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "gefunden",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "Antwort",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "Schule",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "wachsen",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "Studie",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "noch",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "lernen",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "Anlage",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "Abdeckung",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "Lebensmittel",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "Sonne",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "vier",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "zwischen",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "Zustand",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "halten",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "Auge",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "nie",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "letzte",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "lassen",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "Gedanken",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "Stadt",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "Baum",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "\u00fcberqueren",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "Bauernhof",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "schwer",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "Beginn",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "Macht",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "Geschichte",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "S\u00e4ge",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "weit",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "Meer",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "ziehen",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "links",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "sp\u00e4t",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "laufen",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "unterlassen Sie",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "w\u00e4hrend",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "Presse",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "Schlie\u00dfen",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "Nacht",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "realen",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "Leben",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "wenige",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "Norden",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "Buch",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "tragen",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "nahm",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "Wissenschaft",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "essen",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "Zimmer",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "Freund",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "begann",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "Idee",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "Fisch",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "berg",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "Stopp",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "einmal",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "Basis",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "h\u00f6ren",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "Pferd",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "Schnitt",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "sicher",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "beobachten",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "Farbe",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "Gesicht",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "Holz",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "Haupt-",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "ge\u00f6ffnet",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "scheinen",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "zusammen",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "n\u00e4chste",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "wei\u00df",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "Kinder",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "Start",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "bekam",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "gehen",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "Beispiel",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "erleichtern",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "Papier",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "Gruppe",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "immer",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "Musik",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "diejenigen",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "beide",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "Marke",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "oft",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "Schreiben",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "bis",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "Meile",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "Fluss",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "Auto",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "F\u00fc\u00dfe",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "Pflege",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "zweite",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "genug",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "Ebene",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "M\u00e4dchen",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "\u00fcblich",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "jung",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "bereit",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "oben",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "je",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "rot",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "Liste",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "obwohl",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "f\u00fchlen",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "Vortrag",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "Vogel",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "bald",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "K\u00f6rper",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "Hund",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "Familie",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "direkt",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "Pose",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "verlassen",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "Lied",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "messen",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "T\u00fcr",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "Produkt",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "schwarz",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "kurz",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "Zahl",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "Klasse",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "Wind",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "Frage",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "passieren",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "vollst\u00e4ndig",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "Schiff",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "Bereich",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "H\u00e4lfte",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "Stein",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "bestellen",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "Feuer",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "S\u00fcden",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "Problem",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "St\u00fcck",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "sagte",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "wusste",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "passieren",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "seit",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "obere",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "ganze",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "K\u00f6nig",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "Stra\u00dfe",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "Zoll",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "multiplizieren",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "nichts",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "Kurs",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "bleiben",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "Rad",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "voll",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "Kraft",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "blau",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "Objekt",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "entscheiden",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "Oberfl\u00e4che",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "tief",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "Mond",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "Insel",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "Fu\u00df",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "System",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "besch\u00e4ftigt",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "Pr\u00fcfung",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "Rekord",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "Boot",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "gemeinsam",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "goldenen",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "m\u00f6glich",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "Flugzeug",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "statt",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "trocken",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "Wunder",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "Lachen",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "tausend",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "vor",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "lief",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "\u00fcberpr\u00fcfen",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "Spiel",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "Form",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "gleichsetzen",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "Fehl",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "gebracht",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "W\u00e4rme",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "Schnee",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "Reifen",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "bringen",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "ja",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "entfernt",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "f\u00fcllen",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "Osten",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "malen",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "Sprache",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "unter",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "Einheit",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "Macht",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "Stadt",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "fein",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "sicher",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "fliegen",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "fallen",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "f\u00fchren",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "Schrei",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "dunkel",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "Maschine",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "note",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "warten",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "Plan",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "Abbildung",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "Stern",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "Kasten",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "Nomen",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "Feld",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "Rest",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "richtig",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "f\u00e4hig",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "Pfund",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "getan",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "Sch\u00f6nheit",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "Antriebs",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "stand",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "enthalten",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "Front",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "lehren",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "Woche",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "Finale",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "gab",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "gr\u00fcn",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "schnell",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "entwickeln",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "Ozean",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "warme",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "kostenlos",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "Minute",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "stark",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "besondere",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "Geist",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "hinter",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "klar",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "Schwanz",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "produzieren",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "Tatsache",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "Raum",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "geh\u00f6rt",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "beste",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "Stunde",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "besser",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "wahr",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "w\u00e4hrend",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "hundert",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "f\u00fcnf",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "merken",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "Schritt",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "fr\u00fch",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "halten",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "Westen",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "Boden",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "Interesse",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "erreichen",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "schnell",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "Verbum",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "singen",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "h\u00f6ren",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "sechs",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "Tabelle",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "Reise",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "weniger",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "Morgen",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "zehn",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "einfach",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "mehrere",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "Vokal",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "auf",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "Krieg",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "legen",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "gegen",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "Muster",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "schleppend",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "Zentrum",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "Liebe",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "Person",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "Geld",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "dienen",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "erscheinen",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "Stra\u00dfe",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "Karte",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "regen",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "Regel",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "regieren",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "ziehen",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "K\u00e4lte",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "Hinweis",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "Stimme",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "Energie",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "Jagd",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "wahrscheinlich",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "Bett",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "Bruder",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "Ei",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "Fahrt",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "Zelle",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "glauben",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "vielleicht",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "pfl\u00fccken",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "pl\u00f6tzlich",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "z\u00e4hlen",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "Platz",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "Grund",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "Dauer",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "vertreten",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "Kunst",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "Thema",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "Region",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "Gr\u00f6\u00dfe",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "variieren",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "regeln",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "sprechen",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "Gewicht",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "allgemein",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "Eis",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "Materie",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "Kreis",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "Paar",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "umfassen",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "Kluft",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "Silbe",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "Filz",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "gro\u00df",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "Kugel",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "noch",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "Welle",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "fallen",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "Herz",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "Uhr",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "vorhanden",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "schwer",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "Tanz",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "Motor",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "Position",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "Arm",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "breit",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "Segel",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "Material",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "Fraktion",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "Wald",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "sitzen",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "Rennen",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "Fenster",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "Speicher",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "Sommer",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "Zug",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "Schlaf",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "beweisen",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "einsam",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "Bein",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "\u00dcbung",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "Wand",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "Fang",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "Berg",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "w\u00fcnschen",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "Himmel",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "Board",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "Freude",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "Winter",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "sa",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "geschrieben",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "wilden",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "Instrument",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "gehalten",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "Glas",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "Gras",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "Kuh",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "Arbeit",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "Rand",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "Zeichen",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "Besuch",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "Vergangenheit",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "weich",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "Spa\u00df",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "hell",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "Gases",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "Wetter",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "Monat",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "Million",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "tragen",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "Finish",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "gl\u00fccklich",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "hoffen",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "blume",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "kleiden",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "seltsam",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "Vorbei",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "Handel",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "Melodie",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "Reise",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "B\u00fcro",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "empfangen",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "Reihe",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "Mund",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "genau",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "Zeichen",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "sterben",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "am wenigsten",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "\u00c4rger",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "Schrei",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "au\u00dfer",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "schrieb",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "Samen",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "Ton",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "beitreten",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "vorschlagen",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "sauber",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "Pause",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "Dame",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "Hof",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "steigen",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "schlecht",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "Schlag",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "\u00d6l",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "Blut",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "ber\u00fchren",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "wuchs",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "Cent",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "mischen",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "Mannschaft",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "Draht",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "Kosten",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "verloren",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "braun",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "tragen",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "Garten",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "gleich",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "gesendet",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "w\u00e4hlen",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "fiel",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "passen",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "flie\u00dfen",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "Messe",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "Bank",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "sammeln",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "sparen",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "Kontrolle",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "dezimal",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "Ohr",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "sonst",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "ganz",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "pleite",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "Fall",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "Mitte",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "t\u00f6ten",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "Sohn",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "See",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "Moment",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "Ma\u00dfstab",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "laut",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "Fr\u00fchling",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "beobachten",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "Kind",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "gerade",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "Konsonant",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "Nation",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "W\u00f6rterbuch",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "milch",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "Geschwindigkeit",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "Verfahren",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "Orgel",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "zahlen",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "Alter",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "Abschnitt",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "Kleid",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "Wolke",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "\u00dcberraschung",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "ruhig",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "Stein",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "winzig",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "Aufstieg",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "k\u00fchlen",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "Entwurf",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "arm",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "Menge",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "Versuch",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "Boden",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "Schl\u00fcssel",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "Eisen",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "Einzel",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "Stick",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "Wohnung",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "zwanzig",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "Haut",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "L\u00e4cheln",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "Falte",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "Loch",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "springen",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "Kind",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "acht",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "Dorf",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "treffen",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "Wurzel",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "kaufen",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "erh\u00f6hen",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "l\u00f6sen",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "Metall",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "ob",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "dr\u00fccken",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "sieben",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "Absatz",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "dritte",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "wird",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "Hand",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "Haar",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "beschreiben",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "Koch",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "Boden",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "entweder",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "Ergebnis",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "brennen",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "H\u00fcgel",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "sicher",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "Katze",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "Jahrhundert",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "betrachten",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "Typ",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "Gesetz",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "Bit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "K\u00fcste",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "Kopie",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "Ausdruck",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "still",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "hoch",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "Sand",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "Boden",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "Rolle",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "Temperatur",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "Finger",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "Industrie",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "Wert",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "Kampf",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "L\u00fcge",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "schlagen",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "begeistern",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "nat\u00fcrlich",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "Blick",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "Sinn",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "Hauptstadt",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "wird nicht",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "Stuhl",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "Achtung",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "Obst",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "reich",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "dick",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "Soldat",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "Prozess",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "betreiben",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "Praxis",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "trennen",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "schwierig",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "Arzt",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "Bitte",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "sch\u00fctzen",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "Mittag",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "Ernte",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "modernen",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "Elementes",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "treffen",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "Sch\u00fcler",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "Ecke",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "Partei",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "Versorgung",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "deren",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "lokalisieren",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "Rings",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "Charakter",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "insekt",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "gefangen",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "Zeit",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "zeigen",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "Funk",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "Speiche",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "Atom",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "Mensch",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "Geschichte",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "Wirkung",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "elektrisch",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "erwarten",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "Knochen",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "Schiene",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "vorstellen",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "bieten",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "zustimmen",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "so",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "sanft",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "Frau",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "Kapit\u00e4n",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "erraten",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "erforderlich",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "scharf",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "Fl\u00fcgel",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "schaffen",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "Nachbar",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "Wasch",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "Fledermaus",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "eher",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "Menge",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "mais",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "vergleichen",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "Gedicht",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "Schnur",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "Glocke",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "abh\u00e4ngen",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "Fleisch",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "einreiben",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "Rohr",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "ber\u00fchmt",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "Dollar",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "Strom",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "Angst",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "Blick",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "d\u00fcnn",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "Dreieck",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "Erde",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "Eile",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "Chef",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "Kolonie",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "Uhr",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "Mine",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "Krawatte",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "eingeben",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "Dur",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "frisch",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "Suche",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "senden",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "gelb",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "Pistole",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "erlauben",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "Druck",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "tot",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "Stelle",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "W\u00fcste",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "Anzug",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "Strom",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "Aufzug",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "stiegen",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "ankommen",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "Stamm",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "Spur",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "Elternteil",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "Ufer",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "Teilung",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "Blatt",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "Substanz",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "beg\u00fcnstigen",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "verbinden",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "nach",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "verbringen",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "Akkord",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "Fett",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "froh",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "Original",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "Aktie",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "Station",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "Papa",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "Brot",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "aufladen",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "richtig",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "Leiste",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "Angebot",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "Segment",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "Sklave",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "ente",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "Augenblick",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "Markt",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "Grad",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "besiedeln",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "k\u00fcken",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "liebe",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "Feind",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "antworten",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "Getr\u00e4nk",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "auftreten",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "Unterst\u00fctzung",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "Rede",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "Natur",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "Angebot",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "Dampf",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "Bewegung",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "Weg",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "Fl\u00fcssigkeit",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "protokollieren",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "gemeint",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "Quotient",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "Gebiss",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "Schale",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "Hals",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "Sauerstoff",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "Zucker",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "Tod",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "ziemlich",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "Geschicklichkeit",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "Frauen",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "Saison",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "L\u00f6sung",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "Magnet",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "Silber",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "danken",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "Zweig",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "Spiel",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "Suffix",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "insbesondere",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "Feige",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "\u00e4ngstlich",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "riesig",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "Schwester",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "Stahl",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "diskutieren",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "vorw\u00e4rts",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "\u00e4hnlich",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "f\u00fchren",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "Erfahrung",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "Partitur",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "apfel",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "gekauft",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "gef\u00fchrt",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "Tonh\u00f6he",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "Mantel",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "Masse",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "Karte",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "Band",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "Seil",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "Rutsch",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "gewinnen",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "tr\u00e4umen",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "Abend",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "Zustand",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "Futtermittel",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "Werkzeug",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "gesamt",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "Basis",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "Geruch",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "Tal",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "noch",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "doppelt",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "Sitz",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "fortsetzen",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "Block",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "Tabelle",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "Hut",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "verkaufen",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "Erfolg",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "Firma",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "subtrahieren",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "Veranstaltung",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "besondere",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "viel",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "schwimmen",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "Begriff",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "Gegenteil",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "Frau",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "Schuh",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "Schulter",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "Verbreitung",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "arrangieren",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "Lager",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "erfinden",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "Baumwolle",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "geboren",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "bestimmen",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "Quart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "neun",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "Lastwagen",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "L\u00e4rm",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "Ebene",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "Chance",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "sammeln",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "Gesch\u00e4ft",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "Stretch",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "werfen",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "Glanz",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "Immobilien",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "Spalte",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "Molek\u00fcl",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "w\u00e4hlen",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "falsch",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "grau",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "Wiederholung",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "erfordern",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "breit",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "vorbereiten",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "Salz",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "Nase",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "mehreren",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "Zorn",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "Anspruch",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "Kontinent",
+        "en": "continent"
+    }
+}

@@ -1,0 +1,4997 @@
+{
+    "as": {
+        "rank": "1",
+        "word": "bilang",
+        "en": "as"
+    },
+    "I": {
+        "rank": "2",
+        "word": "ako",
+        "en": "I"
+    },
+    "his": {
+        "rank": "3",
+        "word": "kanyang",
+        "en": "his"
+    },
+    "that": {
+        "rank": "4",
+        "word": "na",
+        "en": "that"
+    },
+    "he": {
+        "rank": "5",
+        "word": "siya",
+        "en": "he"
+    },
+    "was": {
+        "rank": "6",
+        "word": "noon ay",
+        "en": "was"
+    },
+    "for": {
+        "rank": "7",
+        "word": "para sa",
+        "en": "for"
+    },
+    "on": {
+        "rank": "8",
+        "word": "sa",
+        "en": "on"
+    },
+    "are": {
+        "rank": "9",
+        "word": "ay",
+        "en": "are"
+    },
+    "with": {
+        "rank": "10",
+        "word": "may",
+        "en": "with"
+    },
+    "they": {
+        "rank": "11",
+        "word": "sila",
+        "en": "they"
+    },
+    "be": {
+        "rank": "12",
+        "word": "maging",
+        "en": "be"
+    },
+    "at": {
+        "rank": "13",
+        "word": "sa",
+        "en": "at"
+    },
+    "one": {
+        "rank": "14",
+        "word": "isa",
+        "en": "one"
+    },
+    "have": {
+        "rank": "15",
+        "word": "mayroon",
+        "en": "have"
+    },
+    "this": {
+        "rank": "16",
+        "word": "ito",
+        "en": "this"
+    },
+    "from": {
+        "rank": "17",
+        "word": "mula sa",
+        "en": "from"
+    },
+    "by": {
+        "rank": "18",
+        "word": "sa pamamagitan ng",
+        "en": "by"
+    },
+    "hot": {
+        "rank": "387",
+        "word": "mainit",
+        "en": "hot"
+    },
+    "word": {
+        "rank": "20",
+        "word": "salita",
+        "en": "word"
+    },
+    "but": {
+        "rank": "21",
+        "word": "ngunit",
+        "en": "but"
+    },
+    "what": {
+        "rank": "22",
+        "word": "kung ano",
+        "en": "what"
+    },
+    "some": {
+        "rank": "23",
+        "word": "ilang",
+        "en": "some"
+    },
+    "is": {
+        "rank": "24",
+        "word": "ay",
+        "en": "is"
+    },
+    "it": {
+        "rank": "25",
+        "word": "ito",
+        "en": "it"
+    },
+    "you": {
+        "rank": "26",
+        "word": "sa iyo",
+        "en": "you"
+    },
+    "or": {
+        "rank": "27",
+        "word": "o",
+        "en": "or"
+    },
+    "had": {
+        "rank": "28",
+        "word": "nagkaroon",
+        "en": "had"
+    },
+    "the": {
+        "rank": "29",
+        "word": "ang",
+        "en": "the"
+    },
+    "of": {
+        "rank": "30",
+        "word": "ng",
+        "en": "of"
+    },
+    "to": {
+        "rank": "31",
+        "word": "sa",
+        "en": "to"
+    },
+    "and": {
+        "rank": "32",
+        "word": "at",
+        "en": "and"
+    },
+    "a": {
+        "rank": "33",
+        "word": "isang",
+        "en": "a"
+    },
+    "in": {
+        "rank": "34",
+        "word": "sa",
+        "en": "in"
+    },
+    "we": {
+        "rank": "35",
+        "word": "namin",
+        "en": "we"
+    },
+    "can": {
+        "rank": "36",
+        "word": "maaari",
+        "en": "can"
+    },
+    "out": {
+        "rank": "37",
+        "word": "out",
+        "en": "out"
+    },
+    "other": {
+        "rank": "38",
+        "word": "ibang",
+        "en": "other"
+    },
+    "were": {
+        "rank": "39",
+        "word": "ay",
+        "en": "were"
+    },
+    "which": {
+        "rank": "40",
+        "word": "kung saan",
+        "en": "which"
+    },
+    "do": {
+        "rank": "41",
+        "word": "gawin",
+        "en": "do"
+    },
+    "their": {
+        "rank": "42",
+        "word": "ang kanilang",
+        "en": "their"
+    },
+    "time": {
+        "rank": "43",
+        "word": "oras",
+        "en": "time"
+    },
+    "if": {
+        "rank": "44",
+        "word": "kung",
+        "en": "if"
+    },
+    "will": {
+        "rank": "45",
+        "word": "pamanahan",
+        "en": "will"
+    },
+    "how": {
+        "rank": "46",
+        "word": "kung paano",
+        "en": "how"
+    },
+    "said": {
+        "rank": "47",
+        "word": "sinabi",
+        "en": "said"
+    },
+    "an": {
+        "rank": "48",
+        "word": "isang",
+        "en": "an"
+    },
+    "each": {
+        "rank": "49",
+        "word": "bawat",
+        "en": "each"
+    },
+    "tell": {
+        "rank": "50",
+        "word": "sabihin",
+        "en": "tell"
+    },
+    "does": {
+        "rank": "51",
+        "word": "gumagana",
+        "en": "does"
+    },
+    "set": {
+        "rank": "52",
+        "word": "hanay",
+        "en": "set"
+    },
+    "three": {
+        "rank": "53",
+        "word": "tatlong",
+        "en": "three"
+    },
+    "want": {
+        "rank": "54",
+        "word": "gusto",
+        "en": "want"
+    },
+    "air": {
+        "rank": "55",
+        "word": "naka",
+        "en": "air"
+    },
+    "well": {
+        "rank": "56",
+        "word": "na rin",
+        "en": "well"
+    },
+    "also": {
+        "rank": "57",
+        "word": "ring",
+        "en": "also"
+    },
+    "play": {
+        "rank": "58",
+        "word": "maglaro",
+        "en": "play"
+    },
+    "small": {
+        "rank": "59",
+        "word": "maliit",
+        "en": "small"
+    },
+    "end": {
+        "rank": "60",
+        "word": "pagtatapos",
+        "en": "end"
+    },
+    "put": {
+        "rank": "61",
+        "word": "ilagay",
+        "en": "put"
+    },
+    "home": {
+        "rank": "62",
+        "word": "tahanan",
+        "en": "home"
+    },
+    "read": {
+        "rank": "63",
+        "word": "basahin",
+        "en": "read"
+    },
+    "hand": {
+        "rank": "64",
+        "word": "kamay",
+        "en": "hand"
+    },
+    "port": {
+        "rank": "65",
+        "word": "port",
+        "en": "port"
+    },
+    "large": {
+        "rank": "66",
+        "word": "malaki",
+        "en": "large"
+    },
+    "spell": {
+        "rank": "67",
+        "word": "oras ng paggawa",
+        "en": "spell"
+    },
+    "add": {
+        "rank": "68",
+        "word": "magdagdag",
+        "en": "add"
+    },
+    "even": {
+        "rank": "69",
+        "word": "kahit na",
+        "en": "even"
+    },
+    "land": {
+        "rank": "70",
+        "word": "lupa",
+        "en": "land"
+    },
+    "here": {
+        "rank": "71",
+        "word": "dito",
+        "en": "here"
+    },
+    "must": {
+        "rank": "72",
+        "word": "kailangan",
+        "en": "must"
+    },
+    "big": {
+        "rank": "73",
+        "word": "malaki",
+        "en": "big"
+    },
+    "high": {
+        "rank": "74",
+        "word": "mataas",
+        "en": "high"
+    },
+    "such": {
+        "rank": "75",
+        "word": "tulad",
+        "en": "such"
+    },
+    "follow": {
+        "rank": "76",
+        "word": "sundin",
+        "en": "follow"
+    },
+    "act": {
+        "rank": "77",
+        "word": "kumilos",
+        "en": "act"
+    },
+    "why": {
+        "rank": "78",
+        "word": "bakit",
+        "en": "why"
+    },
+    "ask": {
+        "rank": "79",
+        "word": "magtanong",
+        "en": "ask"
+    },
+    "men": {
+        "rank": "80",
+        "word": "mga lalaki",
+        "en": "men"
+    },
+    "change": {
+        "rank": "81",
+        "word": "pagbabago",
+        "en": "change"
+    },
+    "went": {
+        "rank": "82",
+        "word": "nagpunta",
+        "en": "went"
+    },
+    "light": {
+        "rank": "83",
+        "word": "liwanag",
+        "en": "light"
+    },
+    "kind": {
+        "rank": "84",
+        "word": "uri",
+        "en": "kind"
+    },
+    "off": {
+        "rank": "85",
+        "word": "mula sa",
+        "en": "off"
+    },
+    "need": {
+        "rank": "86",
+        "word": "kailangan",
+        "en": "need"
+    },
+    "house": {
+        "rank": "87",
+        "word": "bahay",
+        "en": "house"
+    },
+    "picture": {
+        "rank": "88",
+        "word": "larawan",
+        "en": "picture"
+    },
+    "try": {
+        "rank": "89",
+        "word": "subukan",
+        "en": "try"
+    },
+    "us": {
+        "rank": "90",
+        "word": "atin",
+        "en": "us"
+    },
+    "again": {
+        "rank": "91",
+        "word": "muli",
+        "en": "again"
+    },
+    "animal": {
+        "rank": "92",
+        "word": "hayop",
+        "en": "animal"
+    },
+    "point": {
+        "rank": "93",
+        "word": "punto",
+        "en": "point"
+    },
+    "mother": {
+        "rank": "94",
+        "word": "nanay",
+        "en": "mother"
+    },
+    "world": {
+        "rank": "95",
+        "word": "mundo",
+        "en": "world"
+    },
+    "near": {
+        "rank": "96",
+        "word": "malapit",
+        "en": "near"
+    },
+    "build": {
+        "rank": "97",
+        "word": "magtayo",
+        "en": "build"
+    },
+    "self": {
+        "rank": "98",
+        "word": "sarili",
+        "en": "self"
+    },
+    "earth": {
+        "rank": "99",
+        "word": "lupa",
+        "en": "earth"
+    },
+    "father": {
+        "rank": "100",
+        "word": "ama",
+        "en": "father"
+    },
+    "any": {
+        "rank": "101",
+        "word": "anumang",
+        "en": "any"
+    },
+    "new": {
+        "rank": "102",
+        "word": "bago",
+        "en": "new"
+    },
+    "work": {
+        "rank": "103",
+        "word": "trabaho",
+        "en": "work"
+    },
+    "part": {
+        "rank": "104",
+        "word": "bahagi",
+        "en": "part"
+    },
+    "take": {
+        "rank": "105",
+        "word": "kumuha",
+        "en": "take"
+    },
+    "get": {
+        "rank": "106",
+        "word": "kumuha",
+        "en": "get"
+    },
+    "place": {
+        "rank": "107",
+        "word": "lugar",
+        "en": "place"
+    },
+    "made": {
+        "rank": "108",
+        "word": "ginawa",
+        "en": "made"
+    },
+    "live": {
+        "rank": "109",
+        "word": "mabuhay",
+        "en": "live"
+    },
+    "where": {
+        "rank": "110",
+        "word": "saan",
+        "en": "where"
+    },
+    "after": {
+        "rank": "111",
+        "word": "pagkatapos",
+        "en": "after"
+    },
+    "back": {
+        "rank": "112",
+        "word": "likod",
+        "en": "back"
+    },
+    "little": {
+        "rank": "113",
+        "word": "maliit",
+        "en": "little"
+    },
+    "only": {
+        "rank": "114",
+        "word": "lamang",
+        "en": "only"
+    },
+    "round": {
+        "rank": "115",
+        "word": "pag-ikot",
+        "en": "round"
+    },
+    "man": {
+        "rank": "116",
+        "word": "tao",
+        "en": "man"
+    },
+    "year": {
+        "rank": "117",
+        "word": "taon",
+        "en": "year"
+    },
+    "came": {
+        "rank": "118",
+        "word": "dumating",
+        "en": "came"
+    },
+    "show": {
+        "rank": "119",
+        "word": "palabas",
+        "en": "show"
+    },
+    "every": {
+        "rank": "120",
+        "word": "bawat",
+        "en": "every"
+    },
+    "good": {
+        "rank": "121",
+        "word": "mabuti",
+        "en": "good"
+    },
+    "me": {
+        "rank": "122",
+        "word": "sa akin",
+        "en": "me"
+    },
+    "give": {
+        "rank": "123",
+        "word": "magbigay",
+        "en": "give"
+    },
+    "our": {
+        "rank": "124",
+        "word": "ang aming",
+        "en": "our"
+    },
+    "under": {
+        "rank": "125",
+        "word": "sa ilalim",
+        "en": "under"
+    },
+    "name": {
+        "rank": "126",
+        "word": "pangalan",
+        "en": "name"
+    },
+    "very": {
+        "rank": "127",
+        "word": "napaka",
+        "en": "very"
+    },
+    "through": {
+        "rank": "128",
+        "word": "sa pamamagitan ng",
+        "en": "through"
+    },
+    "just": {
+        "rank": "129",
+        "word": "lamang",
+        "en": "just"
+    },
+    "form": {
+        "rank": "130",
+        "word": "paraan",
+        "en": "form"
+    },
+    "sentence": {
+        "rank": "131",
+        "word": "pangungusap",
+        "en": "sentence"
+    },
+    "great": {
+        "rank": "132",
+        "word": "mahusay",
+        "en": "great"
+    },
+    "think": {
+        "rank": "133",
+        "word": "palagay",
+        "en": "think"
+    },
+    "say": {
+        "rank": "134",
+        "word": "sabihin",
+        "en": "say"
+    },
+    "help": {
+        "rank": "135",
+        "word": "tulungan",
+        "en": "help"
+    },
+    "low": {
+        "rank": "136",
+        "word": "mababa",
+        "en": "low"
+    },
+    "line": {
+        "rank": "137",
+        "word": "linya",
+        "en": "line"
+    },
+    "differ": {
+        "rank": "138",
+        "word": "mag-iba",
+        "en": "differ"
+    },
+    "turn": {
+        "rank": "139",
+        "word": "pagliko",
+        "en": "turn"
+    },
+    "cause": {
+        "rank": "140",
+        "word": "dahilan",
+        "en": "cause"
+    },
+    "much": {
+        "rank": "141",
+        "word": "magkano",
+        "en": "much"
+    },
+    "mean": {
+        "rank": "142",
+        "word": "ibig sabihin",
+        "en": "mean"
+    },
+    "before": {
+        "rank": "143",
+        "word": "bago",
+        "en": "before"
+    },
+    "move": {
+        "rank": "144",
+        "word": "paglipat",
+        "en": "move"
+    },
+    "right": {
+        "rank": "145",
+        "word": "karapatan",
+        "en": "right"
+    },
+    "boy": {
+        "rank": "146",
+        "word": "batang lalaki",
+        "en": "boy"
+    },
+    "old": {
+        "rank": "147",
+        "word": "luma",
+        "en": "old"
+    },
+    "too": {
+        "rank": "148",
+        "word": "masyado",
+        "en": "too"
+    },
+    "same": {
+        "rank": "149",
+        "word": "pareho",
+        "en": "same"
+    },
+    "she": {
+        "rank": "150",
+        "word": "siya",
+        "en": "she"
+    },
+    "all": {
+        "rank": "151",
+        "word": "lahat",
+        "en": "all"
+    },
+    "there": {
+        "rank": "152",
+        "word": "doon",
+        "en": "there"
+    },
+    "when": {
+        "rank": "153",
+        "word": "kapag",
+        "en": "when"
+    },
+    "up": {
+        "rank": "154",
+        "word": "up",
+        "en": "up"
+    },
+    "use": {
+        "rank": "155",
+        "word": "gamitin",
+        "en": "use"
+    },
+    "your": {
+        "rank": "156",
+        "word": "iyong",
+        "en": "your"
+    },
+    "way": {
+        "rank": "157",
+        "word": "paraan",
+        "en": "way"
+    },
+    "about": {
+        "rank": "158",
+        "word": "tungkol sa",
+        "en": "about"
+    },
+    "many": {
+        "rank": "159",
+        "word": "marami",
+        "en": "many"
+    },
+    "then": {
+        "rank": "160",
+        "word": "pagkatapos",
+        "en": "then"
+    },
+    "them": {
+        "rank": "161",
+        "word": "sila",
+        "en": "them"
+    },
+    "write": {
+        "rank": "162",
+        "word": "sumulat",
+        "en": "write"
+    },
+    "would": {
+        "rank": "163",
+        "word": "ibig",
+        "en": "would"
+    },
+    "like": {
+        "rank": "164",
+        "word": "tulad ng",
+        "en": "like"
+    },
+    "so": {
+        "rank": "165",
+        "word": "kaya",
+        "en": "so"
+    },
+    "these": {
+        "rank": "166",
+        "word": "mga",
+        "en": "these"
+    },
+    "her": {
+        "rank": "167",
+        "word": "sa kanya",
+        "en": "her"
+    },
+    "long": {
+        "rank": "168",
+        "word": "mahaba",
+        "en": "long"
+    },
+    "make": {
+        "rank": "169",
+        "word": "gumawa",
+        "en": "make"
+    },
+    "thing": {
+        "rank": "170",
+        "word": "bagay",
+        "en": "thing"
+    },
+    "see": {
+        "rank": "171",
+        "word": "tingnan",
+        "en": "see"
+    },
+    "him": {
+        "rank": "172",
+        "word": "sa kanya",
+        "en": "him"
+    },
+    "two": {
+        "rank": "173",
+        "word": "dalawang",
+        "en": "two"
+    },
+    "has": {
+        "rank": "174",
+        "word": "may",
+        "en": "has"
+    },
+    "look": {
+        "rank": "175",
+        "word": "tumingin",
+        "en": "look"
+    },
+    "more": {
+        "rank": "176",
+        "word": "higit pa",
+        "en": "more"
+    },
+    "day": {
+        "rank": "177",
+        "word": "araw",
+        "en": "day"
+    },
+    "could": {
+        "rank": "178",
+        "word": "ng dati",
+        "en": "could"
+    },
+    "go": {
+        "rank": "179",
+        "word": "pumunta",
+        "en": "go"
+    },
+    "come": {
+        "rank": "180",
+        "word": "dumating",
+        "en": "come"
+    },
+    "did": {
+        "rank": "181",
+        "word": "ginawa",
+        "en": "did"
+    },
+    "number": {
+        "rank": "182",
+        "word": "numero",
+        "en": "number"
+    },
+    "sound": {
+        "rank": "183",
+        "word": "tunog",
+        "en": "sound"
+    },
+    "no": {
+        "rank": "184",
+        "word": "walang",
+        "en": "no"
+    },
+    "most": {
+        "rank": "185",
+        "word": "karamihan",
+        "en": "most"
+    },
+    "people": {
+        "rank": "186",
+        "word": "mga tao",
+        "en": "people"
+    },
+    "my": {
+        "rank": "187",
+        "word": "ko",
+        "en": "my"
+    },
+    "over": {
+        "rank": "188",
+        "word": "sa ibabaw",
+        "en": "over"
+    },
+    "know": {
+        "rank": "189",
+        "word": "alam",
+        "en": "know"
+    },
+    "water": {
+        "rank": "190",
+        "word": "tubig",
+        "en": "water"
+    },
+    "than": {
+        "rank": "191",
+        "word": "kaysa",
+        "en": "than"
+    },
+    "call": {
+        "rank": "192",
+        "word": "tawag",
+        "en": "call"
+    },
+    "first": {
+        "rank": "193",
+        "word": "unang",
+        "en": "first"
+    },
+    "who": {
+        "rank": "194",
+        "word": "kung sino",
+        "en": "who"
+    },
+    "may": {
+        "rank": "195",
+        "word": "maaari",
+        "en": "may"
+    },
+    "down": {
+        "rank": "196",
+        "word": "pababa",
+        "en": "down"
+    },
+    "side": {
+        "rank": "197",
+        "word": "gilid",
+        "en": "side"
+    },
+    "been": {
+        "rank": "198",
+        "word": "naging",
+        "en": "been"
+    },
+    "now": {
+        "rank": "199",
+        "word": "ngayon",
+        "en": "now"
+    },
+    "find": {
+        "rank": "200",
+        "word": "hanapin",
+        "en": "find"
+    },
+    "head": {
+        "rank": "201",
+        "word": "ulo",
+        "en": "head"
+    },
+    "stand": {
+        "rank": "202",
+        "word": "tumayo",
+        "en": "stand"
+    },
+    "own": {
+        "rank": "203",
+        "word": "sarili",
+        "en": "own"
+    },
+    "page": {
+        "rank": "204",
+        "word": "pahina",
+        "en": "page"
+    },
+    "should": {
+        "rank": "205",
+        "word": "dapat",
+        "en": "should"
+    },
+    "country": {
+        "rank": "206",
+        "word": "bansa",
+        "en": "country"
+    },
+    "found": {
+        "rank": "207",
+        "word": "natagpuan",
+        "en": "found"
+    },
+    "answer": {
+        "rank": "208",
+        "word": "sagot",
+        "en": "answer"
+    },
+    "school": {
+        "rank": "209",
+        "word": "paaralan",
+        "en": "school"
+    },
+    "grow": {
+        "rank": "210",
+        "word": "lumaki",
+        "en": "grow"
+    },
+    "study": {
+        "rank": "211",
+        "word": "pag-aaral",
+        "en": "study"
+    },
+    "still": {
+        "rank": "212",
+        "word": "pa rin",
+        "en": "still"
+    },
+    "learn": {
+        "rank": "213",
+        "word": "malaman",
+        "en": "learn"
+    },
+    "plant": {
+        "rank": "214",
+        "word": "halaman",
+        "en": "plant"
+    },
+    "cover": {
+        "rank": "215",
+        "word": "pabalat",
+        "en": "cover"
+    },
+    "food": {
+        "rank": "216",
+        "word": "pagkain",
+        "en": "food"
+    },
+    "sun": {
+        "rank": "217",
+        "word": "sun",
+        "en": "sun"
+    },
+    "four": {
+        "rank": "218",
+        "word": "apat",
+        "en": "four"
+    },
+    "between": {
+        "rank": "219",
+        "word": "sa pagitan ng",
+        "en": "between"
+    },
+    "state": {
+        "rank": "220",
+        "word": "estado",
+        "en": "state"
+    },
+    "keep": {
+        "rank": "221",
+        "word": "panatilihin",
+        "en": "keep"
+    },
+    "eye": {
+        "rank": "222",
+        "word": "mata",
+        "en": "eye"
+    },
+    "never": {
+        "rank": "223",
+        "word": "hindi kailanman",
+        "en": "never"
+    },
+    "last": {
+        "rank": "224",
+        "word": "huli",
+        "en": "last"
+    },
+    "let": {
+        "rank": "225",
+        "word": "ipaalam",
+        "en": "let"
+    },
+    "thought": {
+        "rank": "226",
+        "word": "pag-iisip",
+        "en": "thought"
+    },
+    "city": {
+        "rank": "227",
+        "word": "lungsod",
+        "en": "city"
+    },
+    "tree": {
+        "rank": "228",
+        "word": "puno",
+        "en": "tree"
+    },
+    "cross": {
+        "rank": "229",
+        "word": "tumawid",
+        "en": "cross"
+    },
+    "farm": {
+        "rank": "230",
+        "word": "sakahan",
+        "en": "farm"
+    },
+    "hard": {
+        "rank": "231",
+        "word": "matapang",
+        "en": "hard"
+    },
+    "start": {
+        "rank": "232",
+        "word": "simula",
+        "en": "start"
+    },
+    "might": {
+        "rank": "233",
+        "word": "lakas",
+        "en": "might"
+    },
+    "story": {
+        "rank": "234",
+        "word": "kuwento",
+        "en": "story"
+    },
+    "saw": {
+        "rank": "235",
+        "word": "nakita",
+        "en": "saw"
+    },
+    "far": {
+        "rank": "236",
+        "word": "malayo",
+        "en": "far"
+    },
+    "sea": {
+        "rank": "237",
+        "word": "dagat",
+        "en": "sea"
+    },
+    "draw": {
+        "rank": "238",
+        "word": "gumuhit",
+        "en": "draw"
+    },
+    "left": {
+        "rank": "239",
+        "word": "ang natitira",
+        "en": "left"
+    },
+    "late": {
+        "rank": "240",
+        "word": "late",
+        "en": "late"
+    },
+    "run": {
+        "rank": "241",
+        "word": "tumakbo",
+        "en": "run"
+    },
+    "don\u2019t": {
+        "rank": "242",
+        "word": "hindi",
+        "en": "don\u2019t"
+    },
+    "while": {
+        "rank": "243",
+        "word": "habang",
+        "en": "while"
+    },
+    "press": {
+        "rank": "244",
+        "word": "pindutin ang",
+        "en": "press"
+    },
+    "close": {
+        "rank": "245",
+        "word": "malapit",
+        "en": "close"
+    },
+    "night": {
+        "rank": "246",
+        "word": "gabi",
+        "en": "night"
+    },
+    "real": {
+        "rank": "247",
+        "word": "tunay",
+        "en": "real"
+    },
+    "life": {
+        "rank": "248",
+        "word": "buhay",
+        "en": "life"
+    },
+    "few": {
+        "rank": "249",
+        "word": "ilan",
+        "en": "few"
+    },
+    "north": {
+        "rank": "250",
+        "word": "hilaga",
+        "en": "north"
+    },
+    "book": {
+        "rank": "251",
+        "word": "aklat",
+        "en": "book"
+    },
+    "carry": {
+        "rank": "252",
+        "word": "Nagtitinda",
+        "en": "carry"
+    },
+    "took": {
+        "rank": "253",
+        "word": "kinuha",
+        "en": "took"
+    },
+    "science": {
+        "rank": "254",
+        "word": "agham",
+        "en": "science"
+    },
+    "eat": {
+        "rank": "255",
+        "word": "kumain",
+        "en": "eat"
+    },
+    "room": {
+        "rank": "256",
+        "word": "room",
+        "en": "room"
+    },
+    "friend": {
+        "rank": "257",
+        "word": "kaibigan",
+        "en": "friend"
+    },
+    "began": {
+        "rank": "258",
+        "word": "Sinimulan ni",
+        "en": "began"
+    },
+    "idea": {
+        "rank": "259",
+        "word": "idea",
+        "en": "idea"
+    },
+    "fish": {
+        "rank": "260",
+        "word": "isda",
+        "en": "fish"
+    },
+    "mountain": {
+        "rank": "261",
+        "word": "bundok",
+        "en": "mountain"
+    },
+    "stop": {
+        "rank": "262",
+        "word": "itigil",
+        "en": "stop"
+    },
+    "once": {
+        "rank": "263",
+        "word": "sabay-sabay",
+        "en": "once"
+    },
+    "base": {
+        "rank": "264",
+        "word": "base",
+        "en": "base"
+    },
+    "hear": {
+        "rank": "265",
+        "word": "pakinggan",
+        "en": "hear"
+    },
+    "horse": {
+        "rank": "266",
+        "word": "kabayo",
+        "en": "horse"
+    },
+    "cut": {
+        "rank": "267",
+        "word": "hiwa",
+        "en": "cut"
+    },
+    "sure": {
+        "rank": "268",
+        "word": "sigurado",
+        "en": "sure"
+    },
+    "watch": {
+        "rank": "269",
+        "word": "panoorin",
+        "en": "watch"
+    },
+    "color": {
+        "rank": "270",
+        "word": "kulay",
+        "en": "color"
+    },
+    "face": {
+        "rank": "271",
+        "word": "mukha",
+        "en": "face"
+    },
+    "wood": {
+        "rank": "272",
+        "word": "wood",
+        "en": "wood"
+    },
+    "main": {
+        "rank": "273",
+        "word": "pangunahin",
+        "en": "main"
+    },
+    "open": {
+        "rank": "274",
+        "word": "bukas",
+        "en": "open"
+    },
+    "seem": {
+        "rank": "275",
+        "word": "mukhang",
+        "en": "seem"
+    },
+    "together": {
+        "rank": "276",
+        "word": "magkasama",
+        "en": "together"
+    },
+    "next": {
+        "rank": "277",
+        "word": "susunod",
+        "en": "next"
+    },
+    "white": {
+        "rank": "278",
+        "word": "puting",
+        "en": "white"
+    },
+    "children": {
+        "rank": "279",
+        "word": "mga bata",
+        "en": "children"
+    },
+    "begin": {
+        "rank": "280",
+        "word": "simulan",
+        "en": "begin"
+    },
+    "got": {
+        "rank": "281",
+        "word": "Nakakuha",
+        "en": "got"
+    },
+    "walk": {
+        "rank": "282",
+        "word": "lumakad",
+        "en": "walk"
+    },
+    "example": {
+        "rank": "283",
+        "word": "halimbawa",
+        "en": "example"
+    },
+    "ease": {
+        "rank": "284",
+        "word": "luwag",
+        "en": "ease"
+    },
+    "paper": {
+        "rank": "285",
+        "word": "papel",
+        "en": "paper"
+    },
+    "group": {
+        "rank": "286",
+        "word": "pangkat",
+        "en": "group"
+    },
+    "always": {
+        "rank": "287",
+        "word": "palagi",
+        "en": "always"
+    },
+    "music": {
+        "rank": "288",
+        "word": "musika",
+        "en": "music"
+    },
+    "those": {
+        "rank": "289",
+        "word": "iyon",
+        "en": "those"
+    },
+    "both": {
+        "rank": "290",
+        "word": "kapwa",
+        "en": "both"
+    },
+    "mark": {
+        "rank": "291",
+        "word": "mark",
+        "en": "mark"
+    },
+    "often": {
+        "rank": "292",
+        "word": "madalas",
+        "en": "often"
+    },
+    "letter": {
+        "rank": "293",
+        "word": "sulat",
+        "en": "letter"
+    },
+    "until": {
+        "rank": "294",
+        "word": "hanggang sa",
+        "en": "until"
+    },
+    "mile": {
+        "rank": "295",
+        "word": "milya",
+        "en": "mile"
+    },
+    "river": {
+        "rank": "296",
+        "word": "ilog",
+        "en": "river"
+    },
+    "car": {
+        "rank": "297",
+        "word": "kotse",
+        "en": "car"
+    },
+    "feet": {
+        "rank": "298",
+        "word": "paa",
+        "en": "feet"
+    },
+    "care": {
+        "rank": "299",
+        "word": "pag-aalaga",
+        "en": "care"
+    },
+    "second": {
+        "rank": "300",
+        "word": "pangalawa",
+        "en": "second"
+    },
+    "enough": {
+        "rank": "301",
+        "word": "sapat",
+        "en": "enough"
+    },
+    "plain": {
+        "rank": "302",
+        "word": "plain",
+        "en": "plain"
+    },
+    "girl": {
+        "rank": "303",
+        "word": "batang babae",
+        "en": "girl"
+    },
+    "usual": {
+        "rank": "304",
+        "word": "karaniwan",
+        "en": "usual"
+    },
+    "young": {
+        "rank": "305",
+        "word": "batang",
+        "en": "young"
+    },
+    "ready": {
+        "rank": "306",
+        "word": "handa",
+        "en": "ready"
+    },
+    "above": {
+        "rank": "307",
+        "word": "sa itaas",
+        "en": "above"
+    },
+    "ever": {
+        "rank": "308",
+        "word": "kailanman",
+        "en": "ever"
+    },
+    "red": {
+        "rank": "309",
+        "word": "pula",
+        "en": "red"
+    },
+    "list": {
+        "rank": "310",
+        "word": "listahan",
+        "en": "list"
+    },
+    "though": {
+        "rank": "311",
+        "word": "bagaman",
+        "en": "though"
+    },
+    "feel": {
+        "rank": "312",
+        "word": "pakiramdam",
+        "en": "feel"
+    },
+    "talk": {
+        "rank": "313",
+        "word": "talk",
+        "en": "talk"
+    },
+    "bird": {
+        "rank": "314",
+        "word": "ibon",
+        "en": "bird"
+    },
+    "soon": {
+        "rank": "315",
+        "word": "sa lalong madaling panahon",
+        "en": "soon"
+    },
+    "body": {
+        "rank": "316",
+        "word": "katawan",
+        "en": "body"
+    },
+    "dog": {
+        "rank": "317",
+        "word": "aso",
+        "en": "dog"
+    },
+    "family": {
+        "rank": "318",
+        "word": "pamilya",
+        "en": "family"
+    },
+    "direct": {
+        "rank": "319",
+        "word": "direct",
+        "en": "direct"
+    },
+    "pose": {
+        "rank": "320",
+        "word": "imungkahi",
+        "en": "pose"
+    },
+    "leave": {
+        "rank": "321",
+        "word": "mag-iwan",
+        "en": "leave"
+    },
+    "song": {
+        "rank": "322",
+        "word": "kanta",
+        "en": "song"
+    },
+    "measure": {
+        "rank": "323",
+        "word": "sukatin",
+        "en": "measure"
+    },
+    "door": {
+        "rank": "324",
+        "word": "pinto",
+        "en": "door"
+    },
+    "product": {
+        "rank": "325",
+        "word": "produkto",
+        "en": "product"
+    },
+    "black": {
+        "rank": "326",
+        "word": "itim",
+        "en": "black"
+    },
+    "short": {
+        "rank": "327",
+        "word": "maikling",
+        "en": "short"
+    },
+    "numeral": {
+        "rank": "328",
+        "word": "numeral",
+        "en": "numeral"
+    },
+    "class": {
+        "rank": "329",
+        "word": "klase",
+        "en": "class"
+    },
+    "wind": {
+        "rank": "330",
+        "word": "hangin",
+        "en": "wind"
+    },
+    "question": {
+        "rank": "331",
+        "word": "tanong",
+        "en": "question"
+    },
+    "happen": {
+        "rank": "332",
+        "word": "mangyari",
+        "en": "happen"
+    },
+    "complete": {
+        "rank": "333",
+        "word": "kumpleto na ang",
+        "en": "complete"
+    },
+    "ship": {
+        "rank": "334",
+        "word": "barko",
+        "en": "ship"
+    },
+    "area": {
+        "rank": "335",
+        "word": "lugar",
+        "en": "area"
+    },
+    "half": {
+        "rank": "336",
+        "word": "kalahati",
+        "en": "half"
+    },
+    "rock": {
+        "rank": "337",
+        "word": "rock",
+        "en": "rock"
+    },
+    "order": {
+        "rank": "338",
+        "word": "pagkakasunud-sunod",
+        "en": "order"
+    },
+    "fire": {
+        "rank": "339",
+        "word": "sunog",
+        "en": "fire"
+    },
+    "south": {
+        "rank": "340",
+        "word": "timog",
+        "en": "south"
+    },
+    "problem": {
+        "rank": "341",
+        "word": "problema",
+        "en": "problem"
+    },
+    "piece": {
+        "rank": "342",
+        "word": "piraso",
+        "en": "piece"
+    },
+    "told": {
+        "rank": "343",
+        "word": "sinabi",
+        "en": "told"
+    },
+    "knew": {
+        "rank": "344",
+        "word": "alam",
+        "en": "knew"
+    },
+    "pass": {
+        "rank": "345",
+        "word": "pumasa",
+        "en": "pass"
+    },
+    "since": {
+        "rank": "346",
+        "word": "mula noong",
+        "en": "since"
+    },
+    "top": {
+        "rank": "347",
+        "word": "tuktok",
+        "en": "top"
+    },
+    "whole": {
+        "rank": "348",
+        "word": "kabuuan",
+        "en": "whole"
+    },
+    "king": {
+        "rank": "349",
+        "word": "king",
+        "en": "king"
+    },
+    "street": {
+        "rank": "350",
+        "word": "kalye",
+        "en": "street"
+    },
+    "inch": {
+        "rank": "351",
+        "word": "inch",
+        "en": "inch"
+    },
+    "multiply": {
+        "rank": "352",
+        "word": "paramihin",
+        "en": "multiply"
+    },
+    "nothing": {
+        "rank": "353",
+        "word": "walang anuman",
+        "en": "nothing"
+    },
+    "course": {
+        "rank": "354",
+        "word": "Siyempre",
+        "en": "course"
+    },
+    "stay": {
+        "rank": "355",
+        "word": "manatili",
+        "en": "stay"
+    },
+    "wheel": {
+        "rank": "356",
+        "word": "gulong",
+        "en": "wheel"
+    },
+    "full": {
+        "rank": "357",
+        "word": "ganap",
+        "en": "full"
+    },
+    "force": {
+        "rank": "358",
+        "word": "puwersa",
+        "en": "force"
+    },
+    "blue": {
+        "rank": "359",
+        "word": "asul",
+        "en": "blue"
+    },
+    "object": {
+        "rank": "360",
+        "word": "bagay",
+        "en": "object"
+    },
+    "decide": {
+        "rank": "361",
+        "word": "magpasiya",
+        "en": "decide"
+    },
+    "surface": {
+        "rank": "362",
+        "word": "pang-ibabaw",
+        "en": "surface"
+    },
+    "deep": {
+        "rank": "363",
+        "word": "malalim",
+        "en": "deep"
+    },
+    "moon": {
+        "rank": "364",
+        "word": "gumala",
+        "en": "moon"
+    },
+    "island": {
+        "rank": "365",
+        "word": "isla",
+        "en": "island"
+    },
+    "foot": {
+        "rank": "366",
+        "word": "paa",
+        "en": "foot"
+    },
+    "system": {
+        "rank": "367",
+        "word": "sistema",
+        "en": "system"
+    },
+    "busy": {
+        "rank": "368",
+        "word": "maraming ginagawa",
+        "en": "busy"
+    },
+    "test": {
+        "rank": "369",
+        "word": "pagsubok",
+        "en": "test"
+    },
+    "record": {
+        "rank": "370",
+        "word": "talaan",
+        "en": "record"
+    },
+    "boat": {
+        "rank": "371",
+        "word": "bangka",
+        "en": "boat"
+    },
+    "common": {
+        "rank": "372",
+        "word": "karaniwan",
+        "en": "common"
+    },
+    "gold": {
+        "rank": "373",
+        "word": "ginto",
+        "en": "gold"
+    },
+    "possible": {
+        "rank": "374",
+        "word": "posible",
+        "en": "possible"
+    },
+    "plane": {
+        "rank": "375",
+        "word": "eroplano",
+        "en": "plane"
+    },
+    "stead": {
+        "rank": "376",
+        "word": "stead",
+        "en": "stead"
+    },
+    "dry": {
+        "rank": "377",
+        "word": "dry",
+        "en": "dry"
+    },
+    "wonder": {
+        "rank": "378",
+        "word": "Wonder",
+        "en": "wonder"
+    },
+    "laugh": {
+        "rank": "379",
+        "word": "patawanin",
+        "en": "laugh"
+    },
+    "thousand": {
+        "rank": "380",
+        "word": "libo",
+        "en": "thousand"
+    },
+    "ago": {
+        "rank": "381",
+        "word": "nakaraan",
+        "en": "ago"
+    },
+    "ran": {
+        "rank": "382",
+        "word": "Pinatatakbo ng",
+        "en": "ran"
+    },
+    "check": {
+        "rank": "383",
+        "word": "suriin",
+        "en": "check"
+    },
+    "game": {
+        "rank": "384",
+        "word": "laro",
+        "en": "game"
+    },
+    "shape": {
+        "rank": "385",
+        "word": "hugis",
+        "en": "shape"
+    },
+    "equate": {
+        "rank": "386",
+        "word": "Tutumbas",
+        "en": "equate"
+    },
+    "miss": {
+        "rank": "388",
+        "word": "tamaan",
+        "en": "miss"
+    },
+    "brought": {
+        "rank": "389",
+        "word": "nagdala",
+        "en": "brought"
+    },
+    "heat": {
+        "rank": "390",
+        "word": "init",
+        "en": "heat"
+    },
+    "snow": {
+        "rank": "391",
+        "word": "snow",
+        "en": "snow"
+    },
+    "tire": {
+        "rank": "392",
+        "word": "gulong",
+        "en": "tire"
+    },
+    "bring": {
+        "rank": "393",
+        "word": "dalhin",
+        "en": "bring"
+    },
+    "yes": {
+        "rank": "394",
+        "word": "yes",
+        "en": "yes"
+    },
+    "distant": {
+        "rank": "395",
+        "word": "malayo",
+        "en": "distant"
+    },
+    "fill": {
+        "rank": "396",
+        "word": "punuin",
+        "en": "fill"
+    },
+    "east": {
+        "rank": "397",
+        "word": "silangan",
+        "en": "east"
+    },
+    "paint": {
+        "rank": "398",
+        "word": "pintahan",
+        "en": "paint"
+    },
+    "language": {
+        "rank": "399",
+        "word": "wika",
+        "en": "language"
+    },
+    "among": {
+        "rank": "400",
+        "word": "kasama ng",
+        "en": "among"
+    },
+    "unit": {
+        "rank": "401",
+        "word": "yunit",
+        "en": "unit"
+    },
+    "power": {
+        "rank": "402",
+        "word": "kapangyarihan",
+        "en": "power"
+    },
+    "town": {
+        "rank": "403",
+        "word": "bayan",
+        "en": "town"
+    },
+    "fine": {
+        "rank": "404",
+        "word": "mainam",
+        "en": "fine"
+    },
+    "certain": {
+        "rank": "405",
+        "word": "tiyak",
+        "en": "certain"
+    },
+    "fly": {
+        "rank": "406",
+        "word": "lumipad",
+        "en": "fly"
+    },
+    "fall": {
+        "rank": "407",
+        "word": "mahulog",
+        "en": "fall"
+    },
+    "lead": {
+        "rank": "408",
+        "word": "pangunahan",
+        "en": "lead"
+    },
+    "cry": {
+        "rank": "409",
+        "word": "sigaw",
+        "en": "cry"
+    },
+    "dark": {
+        "rank": "410",
+        "word": "dark",
+        "en": "dark"
+    },
+    "machine": {
+        "rank": "411",
+        "word": "makina",
+        "en": "machine"
+    },
+    "note": {
+        "rank": "412",
+        "word": "tala",
+        "en": "note"
+    },
+    "wait": {
+        "rank": "413",
+        "word": "maghintay",
+        "en": "wait"
+    },
+    "plan": {
+        "rank": "414",
+        "word": "plano",
+        "en": "plan"
+    },
+    "figure": {
+        "rank": "415",
+        "word": "pigura",
+        "en": "figure"
+    },
+    "star": {
+        "rank": "416",
+        "word": "star",
+        "en": "star"
+    },
+    "box": {
+        "rank": "417",
+        "word": "kahon",
+        "en": "box"
+    },
+    "noun": {
+        "rank": "418",
+        "word": "pangngalan",
+        "en": "noun"
+    },
+    "field": {
+        "rank": "419",
+        "word": "patlang",
+        "en": "field"
+    },
+    "rest": {
+        "rank": "420",
+        "word": "pahinga",
+        "en": "rest"
+    },
+    "correct": {
+        "rank": "421",
+        "word": "tama",
+        "en": "correct"
+    },
+    "able": {
+        "rank": "422",
+        "word": "magagawa",
+        "en": "able"
+    },
+    "pound": {
+        "rank": "423",
+        "word": "pound",
+        "en": "pound"
+    },
+    "done": {
+        "rank": "424",
+        "word": "tapos",
+        "en": "done"
+    },
+    "beauty": {
+        "rank": "425",
+        "word": "beauty",
+        "en": "beauty"
+    },
+    "drive": {
+        "rank": "426",
+        "word": "biyahe",
+        "en": "drive"
+    },
+    "stood": {
+        "rank": "427",
+        "word": "nakatayo",
+        "en": "stood"
+    },
+    "contain": {
+        "rank": "428",
+        "word": "may",
+        "en": "contain"
+    },
+    "front": {
+        "rank": "429",
+        "word": "front",
+        "en": "front"
+    },
+    "teach": {
+        "rank": "430",
+        "word": "magturo",
+        "en": "teach"
+    },
+    "week": {
+        "rank": "431",
+        "word": "linggo",
+        "en": "week"
+    },
+    "final": {
+        "rank": "432",
+        "word": "panghuling",
+        "en": "final"
+    },
+    "gave": {
+        "rank": "433",
+        "word": "ibinigay",
+        "en": "gave"
+    },
+    "green": {
+        "rank": "434",
+        "word": "berde",
+        "en": "green"
+    },
+    "oh": {
+        "rank": "435",
+        "word": "oh",
+        "en": "oh"
+    },
+    "quick": {
+        "rank": "436",
+        "word": "mabilis",
+        "en": "quick"
+    },
+    "develop": {
+        "rank": "437",
+        "word": "bumuo",
+        "en": "develop"
+    },
+    "ocean": {
+        "rank": "438",
+        "word": "karagatan",
+        "en": "ocean"
+    },
+    "warm": {
+        "rank": "439",
+        "word": "mainit-init",
+        "en": "warm"
+    },
+    "free": {
+        "rank": "440",
+        "word": "libre",
+        "en": "free"
+    },
+    "minute": {
+        "rank": "441",
+        "word": "minutong",
+        "en": "minute"
+    },
+    "strong": {
+        "rank": "442",
+        "word": "malakas",
+        "en": "strong"
+    },
+    "special": {
+        "rank": "443",
+        "word": "espesyal na",
+        "en": "special"
+    },
+    "mind": {
+        "rank": "444",
+        "word": "isip",
+        "en": "mind"
+    },
+    "behind": {
+        "rank": "445",
+        "word": "sa likod ng",
+        "en": "behind"
+    },
+    "clear": {
+        "rank": "446",
+        "word": "malinaw",
+        "en": "clear"
+    },
+    "tail": {
+        "rank": "447",
+        "word": "buntot",
+        "en": "tail"
+    },
+    "produce": {
+        "rank": "448",
+        "word": "gumawa",
+        "en": "produce"
+    },
+    "fact": {
+        "rank": "449",
+        "word": "katunayan",
+        "en": "fact"
+    },
+    "space": {
+        "rank": "450",
+        "word": "puwang",
+        "en": "space"
+    },
+    "heard": {
+        "rank": "451",
+        "word": "narinig",
+        "en": "heard"
+    },
+    "best": {
+        "rank": "452",
+        "word": "pinakamahusay",
+        "en": "best"
+    },
+    "hour": {
+        "rank": "453",
+        "word": "oras",
+        "en": "hour"
+    },
+    "better": {
+        "rank": "454",
+        "word": "mas mabuti",
+        "en": "better"
+    },
+    "true": {
+        "rank": "455",
+        "word": "totoo",
+        "en": "true"
+    },
+    "during": {
+        "rank": "456",
+        "word": "sa panahon ng",
+        "en": "during"
+    },
+    "hundred": {
+        "rank": "457",
+        "word": "daang",
+        "en": "hundred"
+    },
+    "five": {
+        "rank": "458",
+        "word": "lima",
+        "en": "five"
+    },
+    "remember": {
+        "rank": "459",
+        "word": "tandaan",
+        "en": "remember"
+    },
+    "step": {
+        "rank": "460",
+        "word": "hakbang",
+        "en": "step"
+    },
+    "early": {
+        "rank": "461",
+        "word": "maagang",
+        "en": "early"
+    },
+    "hold": {
+        "rank": "462",
+        "word": "matagalan",
+        "en": "hold"
+    },
+    "west": {
+        "rank": "463",
+        "word": "kanluran",
+        "en": "west"
+    },
+    "ground": {
+        "rank": "464",
+        "word": "lupa",
+        "en": "ground"
+    },
+    "interest": {
+        "rank": "465",
+        "word": "interes",
+        "en": "interest"
+    },
+    "reach": {
+        "rank": "466",
+        "word": "maabot",
+        "en": "reach"
+    },
+    "fast": {
+        "rank": "467",
+        "word": "mabilis",
+        "en": "fast"
+    },
+    "verb": {
+        "rank": "468",
+        "word": "pandiwa",
+        "en": "verb"
+    },
+    "sing": {
+        "rank": "469",
+        "word": "kantahin",
+        "en": "sing"
+    },
+    "listen": {
+        "rank": "470",
+        "word": "makinig",
+        "en": "listen"
+    },
+    "six": {
+        "rank": "471",
+        "word": "anim",
+        "en": "six"
+    },
+    "table": {
+        "rank": "472",
+        "word": "talahanayan",
+        "en": "table"
+    },
+    "travel": {
+        "rank": "473",
+        "word": "paglalakbay",
+        "en": "travel"
+    },
+    "less": {
+        "rank": "474",
+        "word": "mas",
+        "en": "less"
+    },
+    "morning": {
+        "rank": "475",
+        "word": "umaga",
+        "en": "morning"
+    },
+    "ten": {
+        "rank": "476",
+        "word": "sampu",
+        "en": "ten"
+    },
+    "simple": {
+        "rank": "477",
+        "word": "simple",
+        "en": "simple"
+    },
+    "several": {
+        "rank": "478",
+        "word": "ilang",
+        "en": "several"
+    },
+    "vowel": {
+        "rank": "479",
+        "word": "patinig",
+        "en": "vowel"
+    },
+    "toward": {
+        "rank": "480",
+        "word": "patungo",
+        "en": "toward"
+    },
+    "war": {
+        "rank": "481",
+        "word": "digmaan",
+        "en": "war"
+    },
+    "lay": {
+        "rank": "482",
+        "word": "mag-ipon",
+        "en": "lay"
+    },
+    "against": {
+        "rank": "483",
+        "word": "laban",
+        "en": "against"
+    },
+    "pattern": {
+        "rank": "484",
+        "word": "pattern",
+        "en": "pattern"
+    },
+    "slow": {
+        "rank": "485",
+        "word": "mabagal",
+        "en": "slow"
+    },
+    "center": {
+        "rank": "486",
+        "word": "center",
+        "en": "center"
+    },
+    "love": {
+        "rank": "487",
+        "word": "pag-ibig",
+        "en": "love"
+    },
+    "person": {
+        "rank": "488",
+        "word": "tao",
+        "en": "person"
+    },
+    "money": {
+        "rank": "489",
+        "word": "pera",
+        "en": "money"
+    },
+    "serve": {
+        "rank": "490",
+        "word": "maghatid",
+        "en": "serve"
+    },
+    "appear": {
+        "rank": "491",
+        "word": "lumitaw",
+        "en": "appear"
+    },
+    "road": {
+        "rank": "492",
+        "word": "kalsada",
+        "en": "road"
+    },
+    "map": {
+        "rank": "493",
+        "word": "mapa",
+        "en": "map"
+    },
+    "rain": {
+        "rank": "494",
+        "word": "ulan",
+        "en": "rain"
+    },
+    "rule": {
+        "rank": "495",
+        "word": "panuntunan",
+        "en": "rule"
+    },
+    "govern": {
+        "rank": "496",
+        "word": "namamahala sa",
+        "en": "govern"
+    },
+    "pull": {
+        "rank": "497",
+        "word": "hilahin",
+        "en": "pull"
+    },
+    "cold": {
+        "rank": "498",
+        "word": "malamig",
+        "en": "cold"
+    },
+    "notice": {
+        "rank": "499",
+        "word": "notice",
+        "en": "notice"
+    },
+    "voice": {
+        "rank": "500",
+        "word": "boses",
+        "en": "voice"
+    },
+    "energy": {
+        "rank": "501",
+        "word": "enerhiya",
+        "en": "energy"
+    },
+    "hunt": {
+        "rank": "502",
+        "word": "Hunt",
+        "en": "hunt"
+    },
+    "probable": {
+        "rank": "503",
+        "word": "malamang",
+        "en": "probable"
+    },
+    "bed": {
+        "rank": "504",
+        "word": "kama",
+        "en": "bed"
+    },
+    "brother": {
+        "rank": "505",
+        "word": "kapatid na lalaki",
+        "en": "brother"
+    },
+    "egg": {
+        "rank": "506",
+        "word": "itlog",
+        "en": "egg"
+    },
+    "ride": {
+        "rank": "507",
+        "word": "pagsakay",
+        "en": "ride"
+    },
+    "cell": {
+        "rank": "508",
+        "word": "cell",
+        "en": "cell"
+    },
+    "believe": {
+        "rank": "509",
+        "word": "maniwala",
+        "en": "believe"
+    },
+    "perhaps": {
+        "rank": "510",
+        "word": "marahil",
+        "en": "perhaps"
+    },
+    "pick": {
+        "rank": "511",
+        "word": "pumili",
+        "en": "pick"
+    },
+    "sudden": {
+        "rank": "512",
+        "word": "walang anu-ano",
+        "en": "sudden"
+    },
+    "count": {
+        "rank": "513",
+        "word": "bilangin",
+        "en": "count"
+    },
+    "square": {
+        "rank": "514",
+        "word": "parisukat",
+        "en": "square"
+    },
+    "reason": {
+        "rank": "515",
+        "word": "dahilan",
+        "en": "reason"
+    },
+    "length": {
+        "rank": "516",
+        "word": "haba",
+        "en": "length"
+    },
+    "represent": {
+        "rank": "517",
+        "word": "katawanin",
+        "en": "represent"
+    },
+    "art": {
+        "rank": "518",
+        "word": "sining",
+        "en": "art"
+    },
+    "subject": {
+        "rank": "519",
+        "word": "paksa",
+        "en": "subject"
+    },
+    "region": {
+        "rank": "520",
+        "word": "rehiyon",
+        "en": "region"
+    },
+    "size": {
+        "rank": "521",
+        "word": "laki",
+        "en": "size"
+    },
+    "vary": {
+        "rank": "522",
+        "word": "mag-iba",
+        "en": "vary"
+    },
+    "settle": {
+        "rank": "523",
+        "word": "tumira",
+        "en": "settle"
+    },
+    "speak": {
+        "rank": "524",
+        "word": "magsalita",
+        "en": "speak"
+    },
+    "weight": {
+        "rank": "525",
+        "word": "timbang",
+        "en": "weight"
+    },
+    "general": {
+        "rank": "526",
+        "word": "pangkalahatan",
+        "en": "general"
+    },
+    "ice": {
+        "rank": "527",
+        "word": "yelo",
+        "en": "ice"
+    },
+    "matter": {
+        "rank": "528",
+        "word": "bagay",
+        "en": "matter"
+    },
+    "circle": {
+        "rank": "529",
+        "word": "lupon",
+        "en": "circle"
+    },
+    "pair": {
+        "rank": "530",
+        "word": "pares",
+        "en": "pair"
+    },
+    "include": {
+        "rank": "531",
+        "word": "isama",
+        "en": "include"
+    },
+    "divide": {
+        "rank": "532",
+        "word": "hatiin",
+        "en": "divide"
+    },
+    "syllable": {
+        "rank": "533",
+        "word": "pantig",
+        "en": "syllable"
+    },
+    "felt": {
+        "rank": "534",
+        "word": "pyeltro",
+        "en": "felt"
+    },
+    "grand": {
+        "rank": "535",
+        "word": "malaki at maganda",
+        "en": "grand"
+    },
+    "ball": {
+        "rank": "536",
+        "word": "ball",
+        "en": "ball"
+    },
+    "yet": {
+        "rank": "537",
+        "word": "pa",
+        "en": "yet"
+    },
+    "wave": {
+        "rank": "538",
+        "word": "alon",
+        "en": "wave"
+    },
+    "drop": {
+        "rank": "539",
+        "word": "drop",
+        "en": "drop"
+    },
+    "heart": {
+        "rank": "540",
+        "word": "puso",
+        "en": "heart"
+    },
+    "am": {
+        "rank": "541",
+        "word": "am",
+        "en": "am"
+    },
+    "present": {
+        "rank": "542",
+        "word": "kasalukuyan",
+        "en": "present"
+    },
+    "heavy": {
+        "rank": "543",
+        "word": "mabigat",
+        "en": "heavy"
+    },
+    "dance": {
+        "rank": "544",
+        "word": "sayaw",
+        "en": "dance"
+    },
+    "engine": {
+        "rank": "545",
+        "word": "engine",
+        "en": "engine"
+    },
+    "position": {
+        "rank": "546",
+        "word": "posisyon",
+        "en": "position"
+    },
+    "arm": {
+        "rank": "547",
+        "word": "braso",
+        "en": "arm"
+    },
+    "wide": {
+        "rank": "548",
+        "word": "malawak",
+        "en": "wide"
+    },
+    "sail": {
+        "rank": "549",
+        "word": "layag",
+        "en": "sail"
+    },
+    "material": {
+        "rank": "550",
+        "word": "materyal",
+        "en": "material"
+    },
+    "fraction": {
+        "rank": "551",
+        "word": "maliit na bahagi",
+        "en": "fraction"
+    },
+    "forest": {
+        "rank": "552",
+        "word": "gubat",
+        "en": "forest"
+    },
+    "sit": {
+        "rank": "553",
+        "word": "umupo",
+        "en": "sit"
+    },
+    "race": {
+        "rank": "554",
+        "word": "lahi",
+        "en": "race"
+    },
+    "window": {
+        "rank": "555",
+        "word": "window",
+        "en": "window"
+    },
+    "store": {
+        "rank": "556",
+        "word": "tindahan",
+        "en": "store"
+    },
+    "summer": {
+        "rank": "557",
+        "word": "tag-araw",
+        "en": "summer"
+    },
+    "train": {
+        "rank": "558",
+        "word": "tren",
+        "en": "train"
+    },
+    "sleep": {
+        "rank": "559",
+        "word": "tulog",
+        "en": "sleep"
+    },
+    "prove": {
+        "rank": "560",
+        "word": "patunayan",
+        "en": "prove"
+    },
+    "lone": {
+        "rank": "561",
+        "word": "kaisa-isa",
+        "en": "lone"
+    },
+    "leg": {
+        "rank": "562",
+        "word": "binti",
+        "en": "leg"
+    },
+    "exercise": {
+        "rank": "563",
+        "word": "pagsasanay",
+        "en": "exercise"
+    },
+    "wall": {
+        "rank": "564",
+        "word": "pader",
+        "en": "wall"
+    },
+    "catch": {
+        "rank": "565",
+        "word": "catch",
+        "en": "catch"
+    },
+    "mount": {
+        "rank": "566",
+        "word": "may kabit",
+        "en": "mount"
+    },
+    "wish": {
+        "rank": "567",
+        "word": "nais",
+        "en": "wish"
+    },
+    "sky": {
+        "rank": "568",
+        "word": "langit",
+        "en": "sky"
+    },
+    "board": {
+        "rank": "569",
+        "word": "board",
+        "en": "board"
+    },
+    "joy": {
+        "rank": "570",
+        "word": "kagalakan",
+        "en": "joy"
+    },
+    "winter": {
+        "rank": "571",
+        "word": "taglamig",
+        "en": "winter"
+    },
+    "sat": {
+        "rank": "572",
+        "word": "Sab",
+        "en": "sat"
+    },
+    "written": {
+        "rank": "573",
+        "word": "nakasulat",
+        "en": "written"
+    },
+    "wild": {
+        "rank": "574",
+        "word": "ligaw",
+        "en": "wild"
+    },
+    "instrument": {
+        "rank": "575",
+        "word": "instrumento",
+        "en": "instrument"
+    },
+    "kept": {
+        "rank": "576",
+        "word": "pinananatiling",
+        "en": "kept"
+    },
+    "glass": {
+        "rank": "577",
+        "word": "salamin",
+        "en": "glass"
+    },
+    "grass": {
+        "rank": "578",
+        "word": "damo",
+        "en": "grass"
+    },
+    "cow": {
+        "rank": "579",
+        "word": "baka",
+        "en": "cow"
+    },
+    "job": {
+        "rank": "580",
+        "word": "trabaho",
+        "en": "job"
+    },
+    "edge": {
+        "rank": "581",
+        "word": "gilid",
+        "en": "edge"
+    },
+    "sign": {
+        "rank": "582",
+        "word": "lagdaan",
+        "en": "sign"
+    },
+    "visit": {
+        "rank": "583",
+        "word": "pagbisita",
+        "en": "visit"
+    },
+    "past": {
+        "rank": "584",
+        "word": "nakalipas",
+        "en": "past"
+    },
+    "soft": {
+        "rank": "585",
+        "word": "malambot",
+        "en": "soft"
+    },
+    "fun": {
+        "rank": "586",
+        "word": "magsaya",
+        "en": "fun"
+    },
+    "bright": {
+        "rank": "587",
+        "word": "maliwanag",
+        "en": "bright"
+    },
+    "gas": {
+        "rank": "588",
+        "word": "gas",
+        "en": "gas"
+    },
+    "weather": {
+        "rank": "589",
+        "word": "lagay ng panahon",
+        "en": "weather"
+    },
+    "month": {
+        "rank": "590",
+        "word": "buwan",
+        "en": "month"
+    },
+    "million": {
+        "rank": "591",
+        "word": "milyon",
+        "en": "million"
+    },
+    "bear": {
+        "rank": "592",
+        "word": "madala",
+        "en": "bear"
+    },
+    "finish": {
+        "rank": "593",
+        "word": "tapusin",
+        "en": "finish"
+    },
+    "happy": {
+        "rank": "594",
+        "word": "masaya",
+        "en": "happy"
+    },
+    "hope": {
+        "rank": "595",
+        "word": "Umaasa",
+        "en": "hope"
+    },
+    "flower": {
+        "rank": "596",
+        "word": "bulaklak",
+        "en": "flower"
+    },
+    "clothe": {
+        "rank": "597",
+        "word": "damitan",
+        "en": "clothe"
+    },
+    "strange": {
+        "rank": "598",
+        "word": "kakaiba",
+        "en": "strange"
+    },
+    "gone": {
+        "rank": "599",
+        "word": "nawala",
+        "en": "gone"
+    },
+    "trade": {
+        "rank": "600",
+        "word": "kalakalan",
+        "en": "trade"
+    },
+    "melody": {
+        "rank": "601",
+        "word": "Melody",
+        "en": "melody"
+    },
+    "trip": {
+        "rank": "602",
+        "word": "paglalakbay",
+        "en": "trip"
+    },
+    "office": {
+        "rank": "603",
+        "word": "opisina",
+        "en": "office"
+    },
+    "receive": {
+        "rank": "604",
+        "word": "tumanggap",
+        "en": "receive"
+    },
+    "row": {
+        "rank": "605",
+        "word": "hilera",
+        "en": "row"
+    },
+    "mouth": {
+        "rank": "606",
+        "word": "bibig",
+        "en": "mouth"
+    },
+    "exact": {
+        "rank": "607",
+        "word": "eksaktong",
+        "en": "exact"
+    },
+    "symbol": {
+        "rank": "608",
+        "word": "simbolo",
+        "en": "symbol"
+    },
+    "die": {
+        "rank": "609",
+        "word": "mamatay",
+        "en": "die"
+    },
+    "least": {
+        "rank": "610",
+        "word": "hindi bababa sa",
+        "en": "least"
+    },
+    "trouble": {
+        "rank": "611",
+        "word": "pag-",
+        "en": "trouble"
+    },
+    "shout": {
+        "rank": "612",
+        "word": "sigaw",
+        "en": "shout"
+    },
+    "except": {
+        "rank": "613",
+        "word": "maliban sa",
+        "en": "except"
+    },
+    "wrote": {
+        "rank": "614",
+        "word": "Isinulat ni",
+        "en": "wrote"
+    },
+    "seed": {
+        "rank": "615",
+        "word": "buto",
+        "en": "seed"
+    },
+    "tone": {
+        "rank": "616",
+        "word": "tono",
+        "en": "tone"
+    },
+    "join": {
+        "rank": "617",
+        "word": "sumali",
+        "en": "join"
+    },
+    "suggest": {
+        "rank": "618",
+        "word": "iminumungkahi",
+        "en": "suggest"
+    },
+    "clean": {
+        "rank": "619",
+        "word": "malinis",
+        "en": "clean"
+    },
+    "break": {
+        "rank": "620",
+        "word": "bakasyon",
+        "en": "break"
+    },
+    "lady": {
+        "rank": "621",
+        "word": "ginang ng bansa",
+        "en": "lady"
+    },
+    "yard": {
+        "rank": "622",
+        "word": "bakuran",
+        "en": "yard"
+    },
+    "rise": {
+        "rank": "623",
+        "word": "tumaas",
+        "en": "rise"
+    },
+    "bad": {
+        "rank": "624",
+        "word": "masama",
+        "en": "bad"
+    },
+    "blow": {
+        "rank": "625",
+        "word": "pumutok",
+        "en": "blow"
+    },
+    "oil": {
+        "rank": "626",
+        "word": "langis",
+        "en": "oil"
+    },
+    "blood": {
+        "rank": "627",
+        "word": "dugo",
+        "en": "blood"
+    },
+    "touch": {
+        "rank": "628",
+        "word": "kalabitin",
+        "en": "touch"
+    },
+    "grew": {
+        "rank": "629",
+        "word": "lumago",
+        "en": "grew"
+    },
+    "cent": {
+        "rank": "630",
+        "word": "sentimo",
+        "en": "cent"
+    },
+    "mix": {
+        "rank": "631",
+        "word": "paghaluin",
+        "en": "mix"
+    },
+    "team": {
+        "rank": "632",
+        "word": "koponan",
+        "en": "team"
+    },
+    "wire": {
+        "rank": "633",
+        "word": "wire",
+        "en": "wire"
+    },
+    "cost": {
+        "rank": "634",
+        "word": "gastos",
+        "en": "cost"
+    },
+    "lost": {
+        "rank": "635",
+        "word": "nawala",
+        "en": "lost"
+    },
+    "brown": {
+        "rank": "636",
+        "word": "kayumanggi",
+        "en": "brown"
+    },
+    "wear": {
+        "rank": "637",
+        "word": "magsuot",
+        "en": "wear"
+    },
+    "garden": {
+        "rank": "638",
+        "word": "hardin",
+        "en": "garden"
+    },
+    "equal": {
+        "rank": "639",
+        "word": "kapantay",
+        "en": "equal"
+    },
+    "sent": {
+        "rank": "640",
+        "word": "ipinadala",
+        "en": "sent"
+    },
+    "choose": {
+        "rank": "641",
+        "word": "piliin",
+        "en": "choose"
+    },
+    "fell": {
+        "rank": "642",
+        "word": "patumbahin",
+        "en": "fell"
+    },
+    "fit": {
+        "rank": "643",
+        "word": "umangkop",
+        "en": "fit"
+    },
+    "flow": {
+        "rank": "644",
+        "word": "dumaloy",
+        "en": "flow"
+    },
+    "fair": {
+        "rank": "645",
+        "word": "makatarungan",
+        "en": "fair"
+    },
+    "bank": {
+        "rank": "646",
+        "word": "bangko",
+        "en": "bank"
+    },
+    "collect": {
+        "rank": "647",
+        "word": "mangolekta",
+        "en": "collect"
+    },
+    "save": {
+        "rank": "648",
+        "word": "i-save ang",
+        "en": "save"
+    },
+    "control": {
+        "rank": "649",
+        "word": "kontrol",
+        "en": "control"
+    },
+    "decimal": {
+        "rank": "650",
+        "word": "decimal",
+        "en": "decimal"
+    },
+    "ear": {
+        "rank": "651",
+        "word": "tainga",
+        "en": "ear"
+    },
+    "else": {
+        "rank": "652",
+        "word": "iba pa",
+        "en": "else"
+    },
+    "quite": {
+        "rank": "653",
+        "word": "medyo",
+        "en": "quite"
+    },
+    "broke": {
+        "rank": "654",
+        "word": "sinira",
+        "en": "broke"
+    },
+    "case": {
+        "rank": "655",
+        "word": "kaso",
+        "en": "case"
+    },
+    "middle": {
+        "rank": "656",
+        "word": "gitna",
+        "en": "middle"
+    },
+    "kill": {
+        "rank": "657",
+        "word": "pumatay",
+        "en": "kill"
+    },
+    "son": {
+        "rank": "658",
+        "word": "anak",
+        "en": "son"
+    },
+    "lake": {
+        "rank": "659",
+        "word": "dagat-dagatan",
+        "en": "lake"
+    },
+    "moment": {
+        "rank": "660",
+        "word": "sandali",
+        "en": "moment"
+    },
+    "scale": {
+        "rank": "661",
+        "word": "iskala",
+        "en": "scale"
+    },
+    "loud": {
+        "rank": "662",
+        "word": "malakas",
+        "en": "loud"
+    },
+    "spring": {
+        "rank": "663",
+        "word": "tagsibol",
+        "en": "spring"
+    },
+    "observe": {
+        "rank": "664",
+        "word": "obserbahan",
+        "en": "observe"
+    },
+    "child": {
+        "rank": "665",
+        "word": "anak",
+        "en": "child"
+    },
+    "straight": {
+        "rank": "666",
+        "word": "tuwid",
+        "en": "straight"
+    },
+    "consonant": {
+        "rank": "667",
+        "word": "katinig",
+        "en": "consonant"
+    },
+    "nation": {
+        "rank": "668",
+        "word": "bansa",
+        "en": "nation"
+    },
+    "dictionary": {
+        "rank": "669",
+        "word": "diksyunaryo",
+        "en": "dictionary"
+    },
+    "milk": {
+        "rank": "670",
+        "word": "gatas",
+        "en": "milk"
+    },
+    "speed": {
+        "rank": "671",
+        "word": "bilis",
+        "en": "speed"
+    },
+    "method": {
+        "rank": "672",
+        "word": "pamamaraan",
+        "en": "method"
+    },
+    "organ": {
+        "rank": "673",
+        "word": "organ",
+        "en": "organ"
+    },
+    "pay": {
+        "rank": "674",
+        "word": "bayaran",
+        "en": "pay"
+    },
+    "age": {
+        "rank": "675",
+        "word": "edad",
+        "en": "age"
+    },
+    "section": {
+        "rank": "676",
+        "word": "seksyon",
+        "en": "section"
+    },
+    "dress": {
+        "rank": "677",
+        "word": "damit",
+        "en": "dress"
+    },
+    "cloud": {
+        "rank": "678",
+        "word": "cloud",
+        "en": "cloud"
+    },
+    "surprise": {
+        "rank": "679",
+        "word": "sorpresa",
+        "en": "surprise"
+    },
+    "quiet": {
+        "rank": "680",
+        "word": "tahimik",
+        "en": "quiet"
+    },
+    "stone": {
+        "rank": "681",
+        "word": "bato",
+        "en": "stone"
+    },
+    "tiny": {
+        "rank": "682",
+        "word": "maliit na maliit",
+        "en": "tiny"
+    },
+    "climb": {
+        "rank": "683",
+        "word": "umakyat",
+        "en": "climb"
+    },
+    "cool": {
+        "rank": "684",
+        "word": "malamig",
+        "en": "cool"
+    },
+    "design": {
+        "rank": "685",
+        "word": "disenyo",
+        "en": "design"
+    },
+    "poor": {
+        "rank": "686",
+        "word": "mahirap",
+        "en": "poor"
+    },
+    "lot": {
+        "rank": "687",
+        "word": "marami",
+        "en": "lot"
+    },
+    "experiment": {
+        "rank": "688",
+        "word": "eksperimento",
+        "en": "experiment"
+    },
+    "bottom": {
+        "rank": "689",
+        "word": "ilalim",
+        "en": "bottom"
+    },
+    "key": {
+        "rank": "690",
+        "word": "key",
+        "en": "key"
+    },
+    "iron": {
+        "rank": "691",
+        "word": "bakal",
+        "en": "iron"
+    },
+    "single": {
+        "rank": "692",
+        "word": "single",
+        "en": "single"
+    },
+    "stick": {
+        "rank": "693",
+        "word": "stick",
+        "en": "stick"
+    },
+    "flat": {
+        "rank": "694",
+        "word": "flat",
+        "en": "flat"
+    },
+    "twenty": {
+        "rank": "695",
+        "word": "dalawampu\u2019t",
+        "en": "twenty"
+    },
+    "skin": {
+        "rank": "696",
+        "word": "balat",
+        "en": "skin"
+    },
+    "smile": {
+        "rank": "697",
+        "word": "ngiti",
+        "en": "smile"
+    },
+    "crease": {
+        "rank": "698",
+        "word": "crease",
+        "en": "crease"
+    },
+    "hole": {
+        "rank": "699",
+        "word": "butas",
+        "en": "hole"
+    },
+    "jump": {
+        "rank": "700",
+        "word": "tumalon",
+        "en": "jump"
+    },
+    "baby": {
+        "rank": "701",
+        "word": "sanggol",
+        "en": "baby"
+    },
+    "eight": {
+        "rank": "702",
+        "word": "walo",
+        "en": "eight"
+    },
+    "village": {
+        "rank": "703",
+        "word": "nayon",
+        "en": "village"
+    },
+    "meet": {
+        "rank": "704",
+        "word": "matugunan",
+        "en": "meet"
+    },
+    "root": {
+        "rank": "705",
+        "word": "ugat",
+        "en": "root"
+    },
+    "buy": {
+        "rank": "706",
+        "word": "bumili",
+        "en": "buy"
+    },
+    "raise": {
+        "rank": "707",
+        "word": "taasan",
+        "en": "raise"
+    },
+    "solve": {
+        "rank": "708",
+        "word": "malutas",
+        "en": "solve"
+    },
+    "metal": {
+        "rank": "709",
+        "word": "metal",
+        "en": "metal"
+    },
+    "whether": {
+        "rank": "710",
+        "word": "kung",
+        "en": "whether"
+    },
+    "push": {
+        "rank": "711",
+        "word": "push",
+        "en": "push"
+    },
+    "seven": {
+        "rank": "712",
+        "word": "pito",
+        "en": "seven"
+    },
+    "paragraph": {
+        "rank": "713",
+        "word": "talata",
+        "en": "paragraph"
+    },
+    "third": {
+        "rank": "714",
+        "word": "ikatlong",
+        "en": "third"
+    },
+    "shall": {
+        "rank": "715",
+        "word": "tiyak",
+        "en": "shall"
+    },
+    "held": {
+        "rank": "716",
+        "word": "pinigilang",
+        "en": "held"
+    },
+    "hair": {
+        "rank": "717",
+        "word": "buhok",
+        "en": "hair"
+    },
+    "describe": {
+        "rank": "718",
+        "word": "ilarawan",
+        "en": "describe"
+    },
+    "cook": {
+        "rank": "719",
+        "word": "tagaluto",
+        "en": "cook"
+    },
+    "floor": {
+        "rank": "720",
+        "word": "palapag",
+        "en": "floor"
+    },
+    "either": {
+        "rank": "721",
+        "word": "alinman sa",
+        "en": "either"
+    },
+    "result": {
+        "rank": "722",
+        "word": "resulta",
+        "en": "result"
+    },
+    "burn": {
+        "rank": "723",
+        "word": "sumunog",
+        "en": "burn"
+    },
+    "hill": {
+        "rank": "724",
+        "word": "burol",
+        "en": "hill"
+    },
+    "safe": {
+        "rank": "725",
+        "word": "ligtas",
+        "en": "safe"
+    },
+    "cat": {
+        "rank": "726",
+        "word": "pusa",
+        "en": "cat"
+    },
+    "century": {
+        "rank": "727",
+        "word": "siglo",
+        "en": "century"
+    },
+    "consider": {
+        "rank": "728",
+        "word": "isaalang-alang",
+        "en": "consider"
+    },
+    "type": {
+        "rank": "729",
+        "word": "uri ng",
+        "en": "type"
+    },
+    "law": {
+        "rank": "730",
+        "word": "batas",
+        "en": "law"
+    },
+    "bit": {
+        "rank": "731",
+        "word": "bit",
+        "en": "bit"
+    },
+    "coast": {
+        "rank": "732",
+        "word": "baybayin",
+        "en": "coast"
+    },
+    "copy": {
+        "rank": "733",
+        "word": "kopya",
+        "en": "copy"
+    },
+    "phrase": {
+        "rank": "734",
+        "word": "parirala",
+        "en": "phrase"
+    },
+    "silent": {
+        "rank": "735",
+        "word": "walang sinasabi",
+        "en": "silent"
+    },
+    "tall": {
+        "rank": "736",
+        "word": "matangkad",
+        "en": "tall"
+    },
+    "sand": {
+        "rank": "737",
+        "word": "ng buhangin",
+        "en": "sand"
+    },
+    "soil": {
+        "rank": "738",
+        "word": "lupa",
+        "en": "soil"
+    },
+    "roll": {
+        "rank": "739",
+        "word": "roll",
+        "en": "roll"
+    },
+    "temperature": {
+        "rank": "740",
+        "word": "temperatura",
+        "en": "temperature"
+    },
+    "finger": {
+        "rank": "741",
+        "word": "daliri",
+        "en": "finger"
+    },
+    "industry": {
+        "rank": "742",
+        "word": "industriya",
+        "en": "industry"
+    },
+    "value": {
+        "rank": "743",
+        "word": "halaga",
+        "en": "value"
+    },
+    "fight": {
+        "rank": "744",
+        "word": "lumaban",
+        "en": "fight"
+    },
+    "lie": {
+        "rank": "745",
+        "word": "kasinungalingan",
+        "en": "lie"
+    },
+    "beat": {
+        "rank": "746",
+        "word": "matalo",
+        "en": "beat"
+    },
+    "excite": {
+        "rank": "747",
+        "word": "gumising",
+        "en": "excite"
+    },
+    "natural": {
+        "rank": "748",
+        "word": "natural",
+        "en": "natural"
+    },
+    "view": {
+        "rank": "749",
+        "word": "pagtingin",
+        "en": "view"
+    },
+    "sense": {
+        "rank": "750",
+        "word": "pakiramdam",
+        "en": "sense"
+    },
+    "capital": {
+        "rank": "751",
+        "word": "kapital",
+        "en": "capital"
+    },
+    "won\u2019t": {
+        "rank": "752",
+        "word": "hindi maaari",
+        "en": "won\u2019t"
+    },
+    "chair": {
+        "rank": "753",
+        "word": "silya",
+        "en": "chair"
+    },
+    "danger": {
+        "rank": "754",
+        "word": "panganib",
+        "en": "danger"
+    },
+    "fruit": {
+        "rank": "755",
+        "word": "prutas",
+        "en": "fruit"
+    },
+    "rich": {
+        "rank": "756",
+        "word": "mayaman",
+        "en": "rich"
+    },
+    "thick": {
+        "rank": "757",
+        "word": "makapal",
+        "en": "thick"
+    },
+    "soldier": {
+        "rank": "758",
+        "word": "kawal",
+        "en": "soldier"
+    },
+    "process": {
+        "rank": "759",
+        "word": "proseso",
+        "en": "process"
+    },
+    "operate": {
+        "rank": "760",
+        "word": "magpatakbo",
+        "en": "operate"
+    },
+    "practice": {
+        "rank": "761",
+        "word": "kasanayan",
+        "en": "practice"
+    },
+    "separate": {
+        "rank": "762",
+        "word": "hiwalay",
+        "en": "separate"
+    },
+    "difficult": {
+        "rank": "763",
+        "word": "mahirap",
+        "en": "difficult"
+    },
+    "doctor": {
+        "rank": "764",
+        "word": "manggagamot",
+        "en": "doctor"
+    },
+    "please": {
+        "rank": "765",
+        "word": "mangyaring",
+        "en": "please"
+    },
+    "protect": {
+        "rank": "766",
+        "word": "ipagtanggol",
+        "en": "protect"
+    },
+    "noon": {
+        "rank": "767",
+        "word": "tanghali",
+        "en": "noon"
+    },
+    "crop": {
+        "rank": "768",
+        "word": "crop",
+        "en": "crop"
+    },
+    "modern": {
+        "rank": "769",
+        "word": "modernong",
+        "en": "modern"
+    },
+    "element": {
+        "rank": "770",
+        "word": "elemento",
+        "en": "element"
+    },
+    "hit": {
+        "rank": "771",
+        "word": "pindutin ang",
+        "en": "hit"
+    },
+    "student": {
+        "rank": "772",
+        "word": "mag-aaral",
+        "en": "student"
+    },
+    "corner": {
+        "rank": "773",
+        "word": "sulok",
+        "en": "corner"
+    },
+    "party": {
+        "rank": "774",
+        "word": "partido",
+        "en": "party"
+    },
+    "supply": {
+        "rank": "775",
+        "word": "panustos",
+        "en": "supply"
+    },
+    "whose": {
+        "rank": "776",
+        "word": "kung saan ang",
+        "en": "whose"
+    },
+    "locate": {
+        "rank": "777",
+        "word": "hanapin",
+        "en": "locate"
+    },
+    "ring": {
+        "rank": "778",
+        "word": "singsing",
+        "en": "ring"
+    },
+    "character": {
+        "rank": "779",
+        "word": "katangian",
+        "en": "character"
+    },
+    "insect": {
+        "rank": "780",
+        "word": "insekto",
+        "en": "insect"
+    },
+    "caught": {
+        "rank": "781",
+        "word": "nahuli",
+        "en": "caught"
+    },
+    "period": {
+        "rank": "782",
+        "word": "panahon",
+        "en": "period"
+    },
+    "indicate": {
+        "rank": "783",
+        "word": "ipahiwatig",
+        "en": "indicate"
+    },
+    "radio": {
+        "rank": "784",
+        "word": "radyo",
+        "en": "radio"
+    },
+    "spoke": {
+        "rank": "785",
+        "word": "nagsalita",
+        "en": "spoke"
+    },
+    "atom": {
+        "rank": "786",
+        "word": "atom",
+        "en": "atom"
+    },
+    "human": {
+        "rank": "787",
+        "word": "pantao",
+        "en": "human"
+    },
+    "history": {
+        "rank": "788",
+        "word": "kasaysayan",
+        "en": "history"
+    },
+    "effect": {
+        "rank": "789",
+        "word": "epekto",
+        "en": "effect"
+    },
+    "electric": {
+        "rank": "790",
+        "word": "de-kuryenteng",
+        "en": "electric"
+    },
+    "expect": {
+        "rank": "791",
+        "word": "inaasahan",
+        "en": "expect"
+    },
+    "bone": {
+        "rank": "792",
+        "word": "buto",
+        "en": "bone"
+    },
+    "rail": {
+        "rank": "793",
+        "word": "rail",
+        "en": "rail"
+    },
+    "imagine": {
+        "rank": "794",
+        "word": "isipin",
+        "en": "imagine"
+    },
+    "provide": {
+        "rank": "795",
+        "word": "magbigay",
+        "en": "provide"
+    },
+    "agree": {
+        "rank": "796",
+        "word": "Sumasang-ayon",
+        "en": "agree"
+    },
+    "thus": {
+        "rank": "797",
+        "word": "kaya",
+        "en": "thus"
+    },
+    "gentle": {
+        "rank": "798",
+        "word": "magiliw",
+        "en": "gentle"
+    },
+    "woman": {
+        "rank": "799",
+        "word": "babae",
+        "en": "woman"
+    },
+    "captain": {
+        "rank": "800",
+        "word": "kapitan",
+        "en": "captain"
+    },
+    "guess": {
+        "rank": "801",
+        "word": "hulaan",
+        "en": "guess"
+    },
+    "necessary": {
+        "rank": "802",
+        "word": "kinakailangan",
+        "en": "necessary"
+    },
+    "sharp": {
+        "rank": "803",
+        "word": "matalim",
+        "en": "sharp"
+    },
+    "wing": {
+        "rank": "804",
+        "word": "wing",
+        "en": "wing"
+    },
+    "create": {
+        "rank": "805",
+        "word": "lumikha",
+        "en": "create"
+    },
+    "neighbor": {
+        "rank": "806",
+        "word": "kapit-bahay",
+        "en": "neighbor"
+    },
+    "wash": {
+        "rank": "807",
+        "word": "wash",
+        "en": "wash"
+    },
+    "bat": {
+        "rank": "808",
+        "word": "bat",
+        "en": "bat"
+    },
+    "rather": {
+        "rank": "809",
+        "word": "sa lalong maliwanag",
+        "en": "rather"
+    },
+    "crowd": {
+        "rank": "810",
+        "word": "karamihan ng tao",
+        "en": "crowd"
+    },
+    "corn": {
+        "rank": "811",
+        "word": "mais",
+        "en": "corn"
+    },
+    "compare": {
+        "rank": "812",
+        "word": "ihambing",
+        "en": "compare"
+    },
+    "poem": {
+        "rank": "813",
+        "word": "tula",
+        "en": "poem"
+    },
+    "string": {
+        "rank": "814",
+        "word": "string",
+        "en": "string"
+    },
+    "bell": {
+        "rank": "815",
+        "word": "kampanilya",
+        "en": "bell"
+    },
+    "depend": {
+        "rank": "816",
+        "word": "depende",
+        "en": "depend"
+    },
+    "meat": {
+        "rank": "817",
+        "word": "karne",
+        "en": "meat"
+    },
+    "rub": {
+        "rank": "818",
+        "word": "kuskusin",
+        "en": "rub"
+    },
+    "tube": {
+        "rank": "819",
+        "word": "tube",
+        "en": "tube"
+    },
+    "famous": {
+        "rank": "820",
+        "word": "sikat",
+        "en": "famous"
+    },
+    "dollar": {
+        "rank": "921",
+        "word": "dollar",
+        "en": "dollar"
+    },
+    "stream": {
+        "rank": "822",
+        "word": "stream",
+        "en": "stream"
+    },
+    "fear": {
+        "rank": "823",
+        "word": "takot",
+        "en": "fear"
+    },
+    "sight": {
+        "rank": "284",
+        "word": "paningin",
+        "en": "sight"
+    },
+    "thin": {
+        "rank": "825",
+        "word": "manipis",
+        "en": "thin"
+    },
+    "triangle": {
+        "rank": "826",
+        "word": "tatsulok",
+        "en": "triangle"
+    },
+    "planet": {
+        "rank": "827",
+        "word": "planeta",
+        "en": "planet"
+    },
+    "hurry": {
+        "rank": "828",
+        "word": "magmadali",
+        "en": "hurry"
+    },
+    "chief": {
+        "rank": "829",
+        "word": "mahalaga sa lahat",
+        "en": "chief"
+    },
+    "colony": {
+        "rank": "830",
+        "word": "kolonya",
+        "en": "colony"
+    },
+    "clock": {
+        "rank": "831",
+        "word": "orasan",
+        "en": "clock"
+    },
+    "mine": {
+        "rank": "832",
+        "word": "minahan",
+        "en": "mine"
+    },
+    "tie": {
+        "rank": "833",
+        "word": "itali",
+        "en": "tie"
+    },
+    "enter": {
+        "rank": "834",
+        "word": "magpasok",
+        "en": "enter"
+    },
+    "major": {
+        "rank": "835",
+        "word": "pangunahing",
+        "en": "major"
+    },
+    "fresh": {
+        "rank": "836",
+        "word": "sariwa",
+        "en": "fresh"
+    },
+    "search": {
+        "rank": "837",
+        "word": "paghahanap",
+        "en": "search"
+    },
+    "send": {
+        "rank": "838",
+        "word": "magpadala ng",
+        "en": "send"
+    },
+    "yellow": {
+        "rank": "839",
+        "word": "dilaw",
+        "en": "yellow"
+    },
+    "gun": {
+        "rank": "840",
+        "word": "gun",
+        "en": "gun"
+    },
+    "allow": {
+        "rank": "841",
+        "word": "pumayag",
+        "en": "allow"
+    },
+    "print": {
+        "rank": "842",
+        "word": "naka-print",
+        "en": "print"
+    },
+    "dead": {
+        "rank": "843",
+        "word": "patay",
+        "en": "dead"
+    },
+    "spot": {
+        "rank": "844",
+        "word": "spot",
+        "en": "spot"
+    },
+    "desert": {
+        "rank": "845",
+        "word": "disyerto",
+        "en": "desert"
+    },
+    "suit": {
+        "rank": "846",
+        "word": "suit",
+        "en": "suit"
+    },
+    "current": {
+        "rank": "847",
+        "word": "kasalukuyan",
+        "en": "current"
+    },
+    "lift": {
+        "rank": "848",
+        "word": "pag-angat",
+        "en": "lift"
+    },
+    "rose": {
+        "rank": "840",
+        "word": "tumaas",
+        "en": "rose"
+    },
+    "arrive": {
+        "rank": "850",
+        "word": "dumating",
+        "en": "arrive"
+    },
+    "master": {
+        "rank": "851",
+        "word": "master",
+        "en": "master"
+    },
+    "track": {
+        "rank": "852",
+        "word": "track",
+        "en": "track"
+    },
+    "parent": {
+        "rank": "853",
+        "word": "magulang",
+        "en": "parent"
+    },
+    "shore": {
+        "rank": "854",
+        "word": "baybayin",
+        "en": "shore"
+    },
+    "division": {
+        "rank": "855",
+        "word": "dibisyon",
+        "en": "division"
+    },
+    "sheet": {
+        "rank": "856",
+        "word": "sheet",
+        "en": "sheet"
+    },
+    "substance": {
+        "rank": "857",
+        "word": "bagay",
+        "en": "substance"
+    },
+    "favor": {
+        "rank": "858",
+        "word": "paboran",
+        "en": "favor"
+    },
+    "connect": {
+        "rank": "859",
+        "word": "ikonekta",
+        "en": "connect"
+    },
+    "post": {
+        "rank": "860",
+        "word": "post",
+        "en": "post"
+    },
+    "spend": {
+        "rank": "861",
+        "word": "gumastos",
+        "en": "spend"
+    },
+    "chord": {
+        "rank": "862",
+        "word": "chord",
+        "en": "chord"
+    },
+    "fat": {
+        "rank": "863",
+        "word": "taba",
+        "en": "fat"
+    },
+    "glad": {
+        "rank": "864",
+        "word": "natutuwa",
+        "en": "glad"
+    },
+    "original": {
+        "rank": "865",
+        "word": "orihinal",
+        "en": "original"
+    },
+    "share": {
+        "rank": "866",
+        "word": "magbahagi",
+        "en": "share"
+    },
+    "station": {
+        "rank": "867",
+        "word": "station",
+        "en": "station"
+    },
+    "dad": {
+        "rank": "868",
+        "word": "ama",
+        "en": "dad"
+    },
+    "bread": {
+        "rank": "869",
+        "word": "tinapay",
+        "en": "bread"
+    },
+    "charge": {
+        "rank": "870",
+        "word": "sumingil",
+        "en": "charge"
+    },
+    "proper": {
+        "rank": "871",
+        "word": "mga pangngalang",
+        "en": "proper"
+    },
+    "bar": {
+        "rank": "872",
+        "word": "bar",
+        "en": "bar"
+    },
+    "offer": {
+        "rank": "873",
+        "word": "alok",
+        "en": "offer"
+    },
+    "segment": {
+        "rank": "874",
+        "word": "segment",
+        "en": "segment"
+    },
+    "slave": {
+        "rank": "875",
+        "word": "alipin",
+        "en": "slave"
+    },
+    "duck": {
+        "rank": "876",
+        "word": "pato",
+        "en": "duck"
+    },
+    "instant": {
+        "rank": "877",
+        "word": "instant",
+        "en": "instant"
+    },
+    "market": {
+        "rank": "878",
+        "word": "merkado",
+        "en": "market"
+    },
+    "degree": {
+        "rank": "879",
+        "word": "digri",
+        "en": "degree"
+    },
+    "populate": {
+        "rank": "880",
+        "word": "mapuno",
+        "en": "populate"
+    },
+    "chick": {
+        "rank": "881",
+        "word": "Chick",
+        "en": "chick"
+    },
+    "dear": {
+        "rank": "882",
+        "word": "mahal",
+        "en": "dear"
+    },
+    "enemy": {
+        "rank": "883",
+        "word": "kaaway",
+        "en": "enemy"
+    },
+    "reply": {
+        "rank": "884",
+        "word": "sumagot",
+        "en": "reply"
+    },
+    "drink": {
+        "rank": "885",
+        "word": "inumin",
+        "en": "drink"
+    },
+    "occur": {
+        "rank": "886",
+        "word": "maganap",
+        "en": "occur"
+    },
+    "support": {
+        "rank": "887",
+        "word": "suporta",
+        "en": "support"
+    },
+    "speech": {
+        "rank": "888",
+        "word": "na salita",
+        "en": "speech"
+    },
+    "nature": {
+        "rank": "889",
+        "word": "likas na katangian",
+        "en": "nature"
+    },
+    "range": {
+        "rank": "890",
+        "word": "hanay",
+        "en": "range"
+    },
+    "steam": {
+        "rank": "891",
+        "word": "steam",
+        "en": "steam"
+    },
+    "motion": {
+        "rank": "892",
+        "word": "galaw",
+        "en": "motion"
+    },
+    "path": {
+        "rank": "893",
+        "word": "landas",
+        "en": "path"
+    },
+    "liquid": {
+        "rank": "894",
+        "word": "likido",
+        "en": "liquid"
+    },
+    "log": {
+        "rank": "895",
+        "word": "mag-log",
+        "en": "log"
+    },
+    "meant": {
+        "rank": "896",
+        "word": "nakalaan lamang ito",
+        "en": "meant"
+    },
+    "quotient": {
+        "rank": "897",
+        "word": "quotient",
+        "en": "quotient"
+    },
+    "teeth": {
+        "rank": "898",
+        "word": "ngipin",
+        "en": "teeth"
+    },
+    "shell": {
+        "rank": "899",
+        "word": "shell",
+        "en": "shell"
+    },
+    "neck": {
+        "rank": "900",
+        "word": "leeg",
+        "en": "neck"
+    },
+    "oxygen": {
+        "rank": "901",
+        "word": "oxygen",
+        "en": "oxygen"
+    },
+    "sugar": {
+        "rank": "902",
+        "word": "asukal",
+        "en": "sugar"
+    },
+    "death": {
+        "rank": "903",
+        "word": "kamatayan",
+        "en": "death"
+    },
+    "pretty": {
+        "rank": "904",
+        "word": "medyo",
+        "en": "pretty"
+    },
+    "skill": {
+        "rank": "905",
+        "word": "kasanayan",
+        "en": "skill"
+    },
+    "women": {
+        "rank": "906",
+        "word": "kababaihan",
+        "en": "women"
+    },
+    "season": {
+        "rank": "907",
+        "word": "season",
+        "en": "season"
+    },
+    "solution": {
+        "rank": "908",
+        "word": "solusyon",
+        "en": "solution"
+    },
+    "magnet": {
+        "rank": "909",
+        "word": "magneto",
+        "en": "magnet"
+    },
+    "silver": {
+        "rank": "910",
+        "word": "pilak",
+        "en": "silver"
+    },
+    "thank": {
+        "rank": "911",
+        "word": "pasasalamat",
+        "en": "thank"
+    },
+    "branch": {
+        "rank": "912",
+        "word": "sangay",
+        "en": "branch"
+    },
+    "match": {
+        "rank": "913",
+        "word": "pagtutugma",
+        "en": "match"
+    },
+    "suffix": {
+        "rank": "914",
+        "word": "suffix",
+        "en": "suffix"
+    },
+    "especially": {
+        "rank": "915",
+        "word": "lalo na",
+        "en": "especially"
+    },
+    "fig": {
+        "rank": "916",
+        "word": "fig",
+        "en": "fig"
+    },
+    "afraid": {
+        "rank": "917",
+        "word": "takot",
+        "en": "afraid"
+    },
+    "huge": {
+        "rank": "918",
+        "word": "malaking",
+        "en": "huge"
+    },
+    "sister": {
+        "rank": "919",
+        "word": "kapatid na babae",
+        "en": "sister"
+    },
+    "steel": {
+        "rank": "920",
+        "word": "asero",
+        "en": "steel"
+    },
+    "discuss": {
+        "rank": "921",
+        "word": "talakayin",
+        "en": "discuss"
+    },
+    "forward": {
+        "rank": "922",
+        "word": "pasulong",
+        "en": "forward"
+    },
+    "similar": {
+        "rank": "923",
+        "word": "katulad",
+        "en": "similar"
+    },
+    "guide": {
+        "rank": "924",
+        "word": "patnubayan",
+        "en": "guide"
+    },
+    "experience": {
+        "rank": "925",
+        "word": "karanasan",
+        "en": "experience"
+    },
+    "score": {
+        "rank": "926",
+        "word": "iskor",
+        "en": "score"
+    },
+    "apple": {
+        "rank": "927",
+        "word": "mansanas",
+        "en": "apple"
+    },
+    "bought": {
+        "rank": "928",
+        "word": "bumili",
+        "en": "bought"
+    },
+    "led": {
+        "rank": "929",
+        "word": "humantong",
+        "en": "led"
+    },
+    "pitch": {
+        "rank": "930",
+        "word": "pitch",
+        "en": "pitch"
+    },
+    "coat": {
+        "rank": "931",
+        "word": "amerikana",
+        "en": "coat"
+    },
+    "mass": {
+        "rank": "932",
+        "word": "masa",
+        "en": "mass"
+    },
+    "card": {
+        "rank": "933",
+        "word": "kard",
+        "en": "card"
+    },
+    "band": {
+        "rank": "934",
+        "word": "band",
+        "en": "band"
+    },
+    "rope": {
+        "rank": "935",
+        "word": "ng lubid",
+        "en": "rope"
+    },
+    "slip": {
+        "rank": "936",
+        "word": "isuot na madali",
+        "en": "slip"
+    },
+    "win": {
+        "rank": "937",
+        "word": "panalo",
+        "en": "win"
+    },
+    "dream": {
+        "rank": "938",
+        "word": "mangarap",
+        "en": "dream"
+    },
+    "evening": {
+        "rank": "939",
+        "word": "gabi",
+        "en": "evening"
+    },
+    "condition": {
+        "rank": "940",
+        "word": "kalagayan",
+        "en": "condition"
+    },
+    "feed": {
+        "rank": "941",
+        "word": "feed",
+        "en": "feed"
+    },
+    "tool": {
+        "rank": "942",
+        "word": "kasangkapan",
+        "en": "tool"
+    },
+    "total": {
+        "rank": "943",
+        "word": "kabuuan",
+        "en": "total"
+    },
+    "basic": {
+        "rank": "944",
+        "word": "pangunahing",
+        "en": "basic"
+    },
+    "smell": {
+        "rank": "945",
+        "word": "amoy",
+        "en": "smell"
+    },
+    "valley": {
+        "rank": "946",
+        "word": "lambak",
+        "en": "valley"
+    },
+    "nor": {
+        "rank": "947",
+        "word": "at hindi rin",
+        "en": "nor"
+    },
+    "double": {
+        "rank": "948",
+        "word": "double",
+        "en": "double"
+    },
+    "seat": {
+        "rank": "949",
+        "word": "upuan",
+        "en": "seat"
+    },
+    "continue": {
+        "rank": "950",
+        "word": "magpatuloy",
+        "en": "continue"
+    },
+    "block": {
+        "rank": "951",
+        "word": "bloke",
+        "en": "block"
+    },
+    "chart": {
+        "rank": "952",
+        "word": "tsart",
+        "en": "chart"
+    },
+    "hat": {
+        "rank": "953",
+        "word": "sumbrero",
+        "en": "hat"
+    },
+    "sell": {
+        "rank": "954",
+        "word": "ibenta",
+        "en": "sell"
+    },
+    "success": {
+        "rank": "955",
+        "word": "tagumpay",
+        "en": "success"
+    },
+    "company": {
+        "rank": "956",
+        "word": "kompanya",
+        "en": "company"
+    },
+    "subtract": {
+        "rank": "957",
+        "word": "ibawas",
+        "en": "subtract"
+    },
+    "event": {
+        "rank": "958",
+        "word": "kaganapan",
+        "en": "event"
+    },
+    "particular": {
+        "rank": "959",
+        "word": "partikular na",
+        "en": "particular"
+    },
+    "deal": {
+        "rank": "960",
+        "word": "deal",
+        "en": "deal"
+    },
+    "swim": {
+        "rank": "961",
+        "word": "lumangoy",
+        "en": "swim"
+    },
+    "term": {
+        "rank": "962",
+        "word": "taning",
+        "en": "term"
+    },
+    "opposite": {
+        "rank": "963",
+        "word": "sa tapat ng",
+        "en": "opposite"
+    },
+    "wife": {
+        "rank": "964",
+        "word": "asawa",
+        "en": "wife"
+    },
+    "shoe": {
+        "rank": "965",
+        "word": "sapatos",
+        "en": "shoe"
+    },
+    "shoulder": {
+        "rank": "966",
+        "word": "balikat",
+        "en": "shoulder"
+    },
+    "spread": {
+        "rank": "967",
+        "word": "pagkalat",
+        "en": "spread"
+    },
+    "arrange": {
+        "rank": "968",
+        "word": "mag-ayos",
+        "en": "arrange"
+    },
+    "camp": {
+        "rank": "969",
+        "word": "kampo",
+        "en": "camp"
+    },
+    "invent": {
+        "rank": "970",
+        "word": "imbentuhin",
+        "en": "invent"
+    },
+    "cotton": {
+        "rank": "971",
+        "word": "koton",
+        "en": "cotton"
+    },
+    "born": {
+        "rank": "972",
+        "word": "isinilang",
+        "en": "born"
+    },
+    "determine": {
+        "rank": "973",
+        "word": "matukoy",
+        "en": "determine"
+    },
+    "quart": {
+        "rank": "974",
+        "word": "quart",
+        "en": "quart"
+    },
+    "nine": {
+        "rank": "975",
+        "word": "siyam",
+        "en": "nine"
+    },
+    "truck": {
+        "rank": "976",
+        "word": "trak",
+        "en": "truck"
+    },
+    "noise": {
+        "rank": "977",
+        "word": "ingay",
+        "en": "noise"
+    },
+    "level": {
+        "rank": "978",
+        "word": "antas",
+        "en": "level"
+    },
+    "chance": {
+        "rank": "979",
+        "word": "pagkakataon",
+        "en": "chance"
+    },
+    "gather": {
+        "rank": "980",
+        "word": "magtipon",
+        "en": "gather"
+    },
+    "shop": {
+        "rank": "981",
+        "word": "shop",
+        "en": "shop"
+    },
+    "stretch": {
+        "rank": "982",
+        "word": "banatin",
+        "en": "stretch"
+    },
+    "throw": {
+        "rank": "983",
+        "word": "magtapon",
+        "en": "throw"
+    },
+    "shine": {
+        "rank": "984",
+        "word": "kinang",
+        "en": "shine"
+    },
+    "property": {
+        "rank": "985",
+        "word": "ari-arian",
+        "en": "property"
+    },
+    "column": {
+        "rank": "986",
+        "word": "haligi",
+        "en": "column"
+    },
+    "molecule": {
+        "rank": "987",
+        "word": "Molekyul",
+        "en": "molecule"
+    },
+    "select": {
+        "rank": "988",
+        "word": "piliin",
+        "en": "select"
+    },
+    "wrong": {
+        "rank": "989",
+        "word": "mali",
+        "en": "wrong"
+    },
+    "gray": {
+        "rank": "990",
+        "word": "kulay-abo",
+        "en": "gray"
+    },
+    "repeat": {
+        "rank": "991",
+        "word": "paulit-ulit na",
+        "en": "repeat"
+    },
+    "require": {
+        "rank": "992",
+        "word": "nangangailangan ng",
+        "en": "require"
+    },
+    "broad": {
+        "rank": "993",
+        "word": "malawak",
+        "en": "broad"
+    },
+    "prepare": {
+        "rank": "994",
+        "word": "maghanda",
+        "en": "prepare"
+    },
+    "salt": {
+        "rank": "995",
+        "word": "asin",
+        "en": "salt"
+    },
+    "nose": {
+        "rank": "996",
+        "word": "ilong",
+        "en": "nose"
+    },
+    "plural": {
+        "rank": "997",
+        "word": "pangmaramihang",
+        "en": "plural"
+    },
+    "anger": {
+        "rank": "998",
+        "word": "galit",
+        "en": "anger"
+    },
+    "claim": {
+        "rank": "999",
+        "word": "ang claim",
+        "en": "claim"
+    },
+    "continent": {
+        "rank": "1000",
+        "word": "kontinente",
+        "en": "continent"
+    }
+}
